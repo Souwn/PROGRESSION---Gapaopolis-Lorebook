@@ -30,6 +30,7 @@ Si el jugador usa un término antiguo, **se entiende el vigente** y se escribe s
 
 ## 2026-10-23
 
+- Segundo bloque de trama: la sospecha de Kliff sobre Tarylla pasa a «sin sospechas claras» (fichas de Kliff y Tarylla); Unkas no planea irse sino quedarse (meta ajustada; queda pendiente qué trama); Kliff tendrá paranoia (meta); fichas de Zorro, Tarylla y Zhethe ampliadas; Liry: los colonos saben que murió de peste. El embarazo de Unkas sigue aplazado y no se ha incorporado.
 - Respuestas de trama: Kliff sospecha lo de Tarylla y el esqueleto; Unkas totalmente desconcertada; Liry murió por la peste (fichas y cronología). A la meta: Zorro se enfrentará primero a Kliff, alguien encontró la carta de Yuld y se deshizo de ella, Unkas planea marcharse o traicionar (sin precisar), la mayor amenaza es la propia colonia. Descubrimiento neolítico: sin dato.
 - Vida cotidiana fijada por el jugador (comida, festejos, saludo, cocina, animales, lugar de reunión; Zorro echa de menos su civilización) en `07`, `01` y `08`. Zhethe llegó poco antes que Zorro (`00` y `01`).
 - Respuestas del jugador: Zhethe llegó mucho más tarde que la muerte de Liry; «mucho antes» del mímico respecto a Lexington se mantiene (diez días de juego son casi un mes de partida; no escribir equivalencias en `lore/`); Unkas es una Exiliada de las montañas tomadas por los Ixthar y su unión a Kliff fue una huida. Fichas de Zhethe, Liry y Unkas, cronología y Exiliados ajustadas.

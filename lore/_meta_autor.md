@@ -66,7 +66,8 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 - **[META]** El Bastión juzgará a Gapaopolis una civilización débil: le ofrecerá «paz» gratuita por el momento, le instará (obligará) a reforzar sus filas e impondrá algo de su voluntad. A mitad de la historia involucrará a Gapa en sus asuntos y, en el arco final, se aliará con El Umbral. Eventualmente chocará con El Imperio por roces culturales.
 - **[META]** Zorro será la primera en enfrentarse a Kliff.
 - **[META]** Alguien encontró la carta de Yuld y se deshizo de ella. No se dice quién ni cómo.
-- **[META]** Unkas está planeando marcharse o traicionar a Kliff; el jugador no ha precisado cuál de las dos.
+- **[META]** Unkas no planea marcharse: planea quedarse. Lo que trama exactamente está por definir.
+- **[META]** Kliff empezará a tener paranoia, aunque intentará ocultarla.
 - **[META]** La mayor amenaza para la colonia, ahora mismo, es la propia colonia.
 - **[SECRETO]** El significado de la frase final de la Crónica secreta VII («OXA ETZ ITHECHE KALUQ ZAROG»).
 

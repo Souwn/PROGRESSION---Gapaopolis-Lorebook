@@ -27,7 +27,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Apariencia (según Unkas, BORRADOR):** alto, fuerte, pelo dorado y larga barba. Se describe a sí mismo como paria refugiado en una cueva mohosa antes de fundar Gapaopolis; habla de un dios, GAPA.
 - **Apellido:** Paellus.
 - **[CANON]** Kliff **funda Gapaopolis**, la ciudad de GAPA, y venera a GAPA, un dios (ver [`06_mitologia.md`](06_mitologia.md)). Su facción también se llama GAPA (nombre sujeto a cambio; ver [`02_facciones.md`](02_facciones.md)).
-- **[CANON]** Sospecha lo de Tarylla y el esqueleto sombrío, sin tener certeza.
+- **[CANON]** Tarylla actúa de forma abiertamente rara, pero Kliff no tiene sospechas claras: quizá solo piensa que es una «friki indecente».
 - **[BORRADOR]** Es culto, aunque puede cometer erratas al escribir. Niega la niebla ante Tarylla. Vio en persona las abominaciones de carne del primer invierno, pero no ha visto zombis y desconoce el alcance de las anomalías. No sabe nada del pasado de Zorro.
 - Edad, motivaciones profundas, relaciones, trayectoria: Por definir.
 - **Vínculo con los fallecidos (BORRADOR, según el jugador):** Kliff convivió con [Kaelen](#kaelen), [Liry](#liry) y [Ozan](#ozan); verlos saqueados lo desestabiliza.
@@ -59,6 +59,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Oficios:** Investigadora paranormal, minera.
 - **[CANON]** Séptima en unirse a Gapaopolis, después de Kliff, Unkas, Ina, Kaelen, Liry y Ozan.
 - ⚠️ Su pasado imperial es una **zona de cambio posible** (ver [`_registro_retcons.md`](_registro_retcons.md)); no consolidar sin aprobación del jugador.
+- **[CANON]** Actúa de forma abiertamente rara. No recuerda nada de su pasado y atribuye sus pesadillas a ser una «friki indecente» que mete palos en las cuencas de los ojos de los esqueletos.
 - **[BORRADOR]** Investiga las anomalías (niebla, esqueletos sombríos, el mímico) para defender el refugio. El invierno del 5500 la dejó traumatizada; su manera de expresarlo es querer dar la voz de alarma sobre la amenaza, algo que Kliff no hace. Mantiene en secreto sus experimentos. Antes ayudaba a Ina con las excavaciones de la montaña y estudiaba en su tiempo libre; hacia el final del otoño del 5501 se acerca a Zorro y colaboran. Conoce a los esqueletos sombríos y al mímico.
 - Documentos: [Notas #1–#5](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md), [Sueño](04_personales/5501-00-00_nota_tarylla_sueno-de-tarylla.md).
 - Edad, origen concreto, voz, motivaciones, secretos, trayectoria: Por definir.
@@ -70,6 +71,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **[CANON]** «Zorro» es su apodo; su nombre es Piaroa (posiblemente cambie en el futuro, según el jugador).
 - **Oficios:** Investigadora, agricultora, aprendiz de medicina.
 - **Límite de conocimiento:** posee conocimientos avanzados (ver [`09_tecnologia.md`](09_tecnologia.md)).
+- **[CANON]** Viene de una civilización más avanzada y no tiene problemas de memoria. Por naturaleza de sus orígenes es arrogante y le gusta llevar la razón. Se estableció en Gapaopolis por voluntad propia, no por necesidad extrema.
 - **Datos de los textos (BORRADOR):** 20 años; huérfana según Kliff; se unió en Junligosto del 5501. Estaba en los huertos; desde el final del otoño del 5501 colabora con Tarylla. Kliff no conoce su pasado.
 - Documentos: [Quejas y relatos](04_personales/5501-00-00_diario_zorro_quejas-y-relatos.md).
 - Edad, origen concreto, voz, motivaciones, relaciones, trayectoria: Por definir.
@@ -81,6 +83,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Oficios:** Cuidado principal de animales y defensa forestal.
 - **Datos de los textos (BORRADOR):** cazador único durante el invierno; Kliff lo cree conspirando con Unkas; Zorro los ve besándose en el Templo.
 - Según el jugador, describió a Kliff un zombi que encaja con la apariencia de Liry (por eso Kliff dice que sabe «cosas imposibles»). Ver [Liry](#liry).
+- **[CANON]** Va a su bola.
 - **[BORRADOR]** No miente. Conoce a los zombis; Kliff aún no ha visto ninguno. Es el único cazador de la colonia durante el invierno.
 - Edad, origen, voz, motivaciones, trayectoria: Por definir.
 
@@ -111,7 +114,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **[CANON]** Llegó a Gapaopolis junto a Kaelen, después de Ina.
 - Su tumba apareció saqueada y vacía (15º Difebrero 5501).
 - Kliff convivió con ella (BORRADOR).
-- **[CANON]** Murió por la peste. Fecha exacta y papel en la colonia: Por definir.
+- **[CANON]** Murió por la peste, y los colonos son conscientes de ello. Fecha exacta y papel en la colonia: Por definir.
 
 ### Kaelen
 - **Situación:** Fallecida · **[CANON]** Es una persona distinta de Liry. Los textos de Tarylla la sitúan herida en el combate contra el esqueleto sombrío y la dan por «ahora difunta» (BORRADOR).

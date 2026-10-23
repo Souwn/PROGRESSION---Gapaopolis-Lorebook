@@ -11,6 +11,7 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | # | Pregunta | Afecta a | Origen |
 |---|---|---|---|
 | 1 | Faltan las fichas de las facciones menores: Primeros Hombres, Ixthar, Clan Raíz Profunda, Linaje Sorne, Clan Cuervo Negro, Círculo de Driadea y Exiliados. | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
+| 2 | Unkas planea quedarse, pero «lo está planeando»: ¿qué trama exactamente? | [`_meta_autor.md`](_meta_autor.md) | Respuestas de trama |
 
 ## Resueltas
 
@@ -45,11 +46,15 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R27 | ¿Estaba Zhethe en la colonia cuando murió Liry? | No: llegó mucho más tarde. | [`01_personajes.md`](01_personajes.md), [`00_cronologia.md`](00_cronologia.md) |
 | R28 | ¿El mímico ocurrió «mucho antes» de la llegada de Lexington? | Sí; se mantiene. | [`00_cronologia.md`](00_cronologia.md) |
 | R29 | ¿Es Unkas una Exiliada que huyó de las montañas tomadas por los Ixthar? | Sí; su unión a Kliff fue una huida. | [`01_personajes.md`](01_personajes.md), [`02_facciones.md`](02_facciones.md) |
-| R30 | ¿Sabe Kliff lo de Tarylla y el esqueleto? | Lo sospecha. | [`01_personajes.md`](01_personajes.md) |
+| R30 | ¿Sabe Kliff lo de Tarylla y el esqueleto? | No tiene sospechas claras: Tarylla actúa raro, pero quizá solo la ve como una «friki indecente». | [`01_personajes.md`](01_personajes.md) |
 | R31 | ¿Qué piensa Unkas de Kliff? | Está totalmente desconcertada. | [`01_personajes.md`](01_personajes.md) |
 | R32 | ¿Qué le pasó a Liry y quién fue responsable? | Murió por la peste. | [`01_personajes.md`](01_personajes.md), [`00_cronologia.md`](00_cronologia.md) |
 | R33 | ¿Quién se enfrentará primero a Kliff? | Zorro. | [`_meta_autor.md`](_meta_autor.md) |
 | R34 | ¿Qué pasa con la carta de Yuld? | Alguien la encontró y se deshizo de ella. | [`_meta_autor.md`](_meta_autor.md) |
 | R35 | ¿Cuál será la mayor amenaza el próximo año? | Ahora mismo, la propia colonia. | [`_meta_autor.md`](_meta_autor.md) |
-| R36 | ¿Algún colono quiere marcharse o traicionar a Kliff? | Unkas lo está planeando (sin precisar cuál de las dos). | [`_meta_autor.md`](_meta_autor.md) |
+| R36 | ¿Algún colono quiere marcharse o traicionar a Kliff? | Unkas no planea irse: planea quedarse (ver pendiente 2). | [`_meta_autor.md`](_meta_autor.md) |
 | R37 | ¿Qué descubrimiento neolítico cambiará más la vida? | Difícil de saber. | — |
+| R38 | ¿Saben los colonos que Liry murió de peste? | Sí, son conscientes. | [`01_personajes.md`](01_personajes.md) |
+| R39 | ¿Por qué se enfrentará Zorro primero a Kliff? | Viene de una civilización más avanzada, es arrogante y le gusta llevar la razón; se estableció por voluntad propia. | [`01_personajes.md`](01_personajes.md) |
+| R40 | ¿Qué recuerda Tarylla de su pasado? | Nada; atribuye sus pesadillas a ser una «friki indecente». | [`01_personajes.md`](01_personajes.md) |
+| R41 | ¿Qué quiere Zhethe? | Va a su bola. | [`01_personajes.md`](01_personajes.md) |
