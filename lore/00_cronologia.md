@@ -19,6 +19,7 @@ Estados de canon y formato de fechas: ver [`_convenciones.md`](_convenciones.md)
 | Difebrero | Invierno | CANON |
 
   **[CANON]** El año **empieza en primavera** (Marzimayo) y termina en invierno (Difebrero). Equivalencia con RimWorld: Por definir.
+  **[BORRADOR]** Los 4 meses de 15 días coinciden con los quadrums del juego. En los nombres de archivo, el mes va de `01` a `04` (1 = Marzimayo … 4 = Difebrero) y el día de `01` a `15`.
 
 ## Periodos
 
