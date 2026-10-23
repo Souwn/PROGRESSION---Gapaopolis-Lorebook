@@ -31,3 +31,4 @@ Temas que el jugador ha señalado como susceptibles de evolucionar. No son retco
 
 - Evolución de **El Umbral** (`02_facciones.md`).
 - Pasado imperial de **Tarylla** (`01_personajes.md`, `02_facciones.md`).
+- Nombre de la **Colmena de los Ixthar** (antes «Kalxxi», `02_facciones.md`): cambio de nombre en `BORRADOR`; si el jugador lo consolida como `CANON`, anotarlo aquí como retcon.

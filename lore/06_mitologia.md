@@ -8,7 +8,9 @@ Creencias, dioses, cultos y dogmas del mundo. Solo está confirmado el nombre **
 
 ## GAPA
 - **Estado:** BORRADOR
-- Naturaleza, origen, relación con la colonia (y con el nombre «Gapaopolis»): Por definir.
+- Kliff lo invoca como «el dios GAPA» (diario, 3º de Marzimayo del 5501). Unkas cuenta que Kliff le habló, delirando, de un sueño divino para fundar un refugio, ciudad o reino en nombre de un dios que ella no conocía (BORRADOR).
+- Kliff construye un **templo** en la montaña (6º de Junligosto del 5501); Zorro lo llama «el Templo de Kliff».
+- Naturaleza, origen y relación exacta con el nombre «Gapaopolis»: Por definir.
 
 ## Panteón de dioses
 _Por definir._
