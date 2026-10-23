@@ -92,5 +92,4 @@ Pero... Quizás mi esquelético amigo enfría habitaciones podrías ser de ayuda
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal). La nota #3 se declara perdida en el propio material: es un hueco deliberado de la historia.
-- Cambio de nombre: el texto original decía «Lilith»; el jugador fijó que el nombre canon de ese personaje es **Kaelen** (Liry es otro personaje) y se ha sustituido.
 - Orden temporal de las notas (#1–#4 en el invierno; #5 en otoño) y de los eventos con las rocas: el jugador puede dar el orden cronológico absoluto; ver `00_cronologia.md`.

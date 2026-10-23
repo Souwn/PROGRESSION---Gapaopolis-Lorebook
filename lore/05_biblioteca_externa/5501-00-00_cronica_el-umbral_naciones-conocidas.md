@@ -3,8 +3,8 @@ idioma: es
 formato: cronica
 autor: El Umbral (VDI) EU CLXX
 destinatario: ninguno
-fecha_inworld: "(VDI) — notación por interpretar"
-periodo: por definir
+fecha_inworld: 5501-00-00   # cabecera «(VDI)» = 5501
+periodo: presente
 lugar: Por definir
 estado_canon: BORRADOR
 conocimiento_del_narrador: Crónica de origen externo (referencia «EU CLXX», clasificada por el jugador bajo «El Umbral»). Describe el orden del mundo en la «Edad Clásica». Punto de vista de El Umbral: puede estar sesgado.
@@ -60,5 +60,4 @@ Conviene recordar, por tanto, que la fuerza puede imponer obediencia, pero no ga
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal).
-- Nombre de la Colmena: el texto original decía «Kalxxi»; el jugador prefiere «Ixthar» (BORRADOR, pendiente de confirmar definitivamente).
-- Corrección aprobada por el jugador: el texto original asignaba Umbral=militar (Este), Bastión=tecnología (Central) y Liga=mercantil (Oeste). El orden correcto es Este = El Umbral (tecnología y magia), Central = La Liga del Valor (comercio), Oeste = El Bastión (ejército y maquinaria); se ha reescrito ese párrafo. Es ahora coherente con el diario de Kliff (14º Septumbre).
+- Fecha: la cabecera «(VDI)» se lee como 5501 (numeración romana con millar).

@@ -38,7 +38,7 @@
 
 ### Trayectoria
 - Pre-5500: Por definir
-- Invierno del 5501: Por definir
+- Invierno del 5500: Por definir
 - Presente: Por definir
 
 ### Aparece en

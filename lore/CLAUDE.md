@@ -11,7 +11,7 @@ Transformar los eventos emergentes, mecánicas e interacciones de una partida de
 
 Criterios de éxito:
 
-- **Consistencia impecable:** cero contradicciones cronológicas (antes del 5500 / invierno del 5501 / registro oficial posterior).
+- **Consistencia impecable:** cero contradicciones cronológicas (antes del 5500 / invierno del 5500 / registro oficial posterior).
 - **Voces diferenciadas:** cada diario, carta o nota suena a una persona distinta (educación, estado emocional, secretos).
 - **Estructura escalable:** cualquier persona o IA entiende el estado del mundo en segundos.
 - **Narrativa viva:** no un registro de eventos de juego, sino una historia que dé ganas de leer.
@@ -41,8 +41,8 @@ Se trabaja siempre en uno de estos dos submodos. Si el jugador no indica ninguno
 
 | Submodo | Fuente de verdad | Cuándo |
 |---|---|---|
-| `Canon-Only` | **Solo** lo escrito en los archivos del repositorio (`/lore/`). Nada de lo que el jugador haya contado de palabra. | Evaluar cómo se lee la historia para un lector externo; detectar qué no queda claro. |
-| `Interactive` | El repositorio **más** lo que el jugador explique en la conversación (contexto, ideas, eventos futuros). | Planificar, teorizar, preparar escenas. |
+| `Canon-Only` | **Solo** lo escrito en los archivos del repositorio (`/lore/`), **excluyendo** `_meta_autor.md`, `_diario_de_partida.md` y `_preguntas_abiertas.md`. Nada de lo que el jugador haya contado de palabra. | Evaluar cómo se lee la historia para un lector externo; detectar qué no queda claro. |
+| `Interactive` | El repositorio (incluido `_meta_autor.md`) **más** lo que el jugador explique en la conversación (contexto, ideas, eventos futuros). | Planificar, teorizar, preparar escenas. |
 
 En ambos submodos: evalúa la comprensión del lector, busca conexiones ocultas entre textos y analiza los sesgos de los personajes.
 Lo que se sepa solo por `Interactive` **no es canon** hasta que el jugador pida guardarlo.
@@ -50,7 +50,7 @@ Lo que se sepa solo por `Interactive` **no es canon** hasta que el jugador pida 
 ### 3.3 Co-Creator & Sugerencias (redacción y coherencia)
 - Redacta y expande en los cinco formatos in-world (sección 5).
 - Coherencia tecnológica: la colonia está en transición **Era Animal → Neolítico** (ver `09_tecnologia.md`).
-- Coherencia temporal: distingue pre-5500, invierno del 5501 y presente.
+- Coherencia temporal: distingue pre-5500, invierno del 5500 (el devastador) y presente.
 - Vigila el **conocimiento de cada personaje**: p. ej. Zorro sabe cosas de una civilización muy avanzada; Ina no. Un personaje no puede narrar lo que no sabe.
 
 ---
@@ -77,8 +77,20 @@ Qué significa en la práctica:
 ### 4.2 Contenido de la carpeta `Library/`
 `Library/` (en la raíz del repositorio, fuera de `/lore/`) es **solo del jugador**. No se edita, reorganiza, renombra ni borra su contenido. Puede leerse para dar contexto cuando el jugador lo pida, pero nada de ahí es canon hasta que el jugador lo traslade o lo confirme.
 
-### 4.3 Imágenes
-El jugador puede adjuntar capturas (mapa de la base, interfaz, combates, altares, retratos, eventos). **Pídelas activamente** cuando necesites ver la distribución de un área, una batalla, un templo u otro detalle. Se usan para precisar descripciones en `07_geografia_y_asentamiento.md`, `08_bestiario.md`, etc.
+Excepción pedida por el jugador: `Library/imagenes/` contiene sus capturas de la partida con un `README.md` índice. Claude solo **añade** ahí las imágenes que el jugador entrega y mantiene ese índice; no toca nada más de `Library/`.
+
+### 4.3 Una sola línea de edición
+Para que las preguntas de un asistente no solapen las de otro, **solo el hilo Principal escribe en el repositorio**:
+1. Antes de editar, actualiza con `main` y comprueba que no haya otro PR abierto; si lo hay, espera a que se fusione.
+2. Los demás hilos (Meta, Ideas-wip, Preguntas técnicas, Opinión…) solo **proponen en el chat**; lo que el jugador aprueba lo guarda Principal.
+3. Un PR a la vez, siempre desde el `main` más reciente.
+
+### 4.4 Estilo de lo que se escribe en `lore/`
+- No dejes comentarios sobre erratas corregidas ni notas del tipo «corrección del jugador», «el término anterior era…» o «el texto original decía…». Se corrige el texto y ya.
+- Lo que no puede saber un personaje no va en las fichas ni en los textos in-world: va en `_meta_autor.md`.
+
+### 4.5 Imágenes
+El jugador puede adjuntar capturas (mapa de la base, interfaz, combates, altares, retratos, eventos). **Pídelas activamente** cuando necesites ver la distribución de un área, una batalla, un templo u otro detalle. Se guardan en `Library/imagenes/` (ver 4.2) y se usan para precisar descripciones en `07_geografia_y_asentamiento.md`, `08_bestiario.md`, etc.
 
 ---
 
@@ -106,6 +118,7 @@ Cada documento usa la plantilla de `_plantillas/documento_inworld.md`.
     ├── CLAUDE.md                  # (este archivo)
     ├── _convenciones.md           # Nombres de archivo, estados de canon, fechas, rama en inglés
     ├── _registro_retcons.md       # Historial de cambios aprobados sobre canon
+    ├── _meta_autor.md             # Secretos e intenciones del jugador (fuera del mundo; no cuenta en Canon-Only)
     ├── _diario_de_partida.md      # Reportes en bruto de las sesiones de juego (no canon)
     ├── _preguntas_abiertas.md     # Huecos de lore y dudas pendientes para el jugador
     ├── _plantillas/               # Ficha de personaje, documento in-world
