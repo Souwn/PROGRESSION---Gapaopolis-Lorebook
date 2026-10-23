@@ -6,6 +6,8 @@ Diarios privados, notas y cartas. Voz subjetiva, filtrada por las emociones y lo
 - Plantilla: [`../_plantillas/documento_inworld.md`](../_plantillas/documento_inworld.md).
 - Cada autor debe sonar distinto; consulta su ficha en [`../01_personajes.md`](../01_personajes.md).
 
+> **Orden del contenido** (cuándo ocurre lo que cuentan, no cuándo se escribieron): ver [`../00_cronologia.md`](../00_cronologia.md#orden-cronológico-del-contenido-de-las-notas). Excepciones: el diario de Kliff abarca todo el primer año.
+
 ## Índice
 
 | Fecha in-world | Tipo | Autor → Destinatario | Archivo | Estado |

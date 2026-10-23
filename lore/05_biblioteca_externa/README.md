@@ -8,6 +8,8 @@ Libros, crónicas antiguas y documentación histórica, técnica, filosófica o 
 - Plantilla: [`../_plantillas/documento_inworld.md`](../_plantillas/documento_inworld.md).
 - Indica siempre quién lo escribió, cuándo y desde qué punto de vista: una crónica oficial puede estar sesgada.
 
+> Las crónicas de El Umbral suelen ser anteriores a la colonia; ver el orden cronológico de los textos en [`../00_cronologia.md`](../00_cronologia.md#orden-cronológico-del-contenido-de-las-notas).
+
 ## Índice
 
 | Título | Autor | Época | Archivo | Estado |

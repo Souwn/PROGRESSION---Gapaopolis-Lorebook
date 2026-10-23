@@ -53,7 +53,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Rol:** Mujer enigmática con trasfondo ligado a El Imperio.
 - **Oficios:** Investigadora paranormal, minera.
 - ⚠️ Su pasado imperial es una **zona de cambio posible** (ver [`_registro_retcons.md`](_registro_retcons.md)); no consolidar sin aprobación del jugador.
-- **[BORRADOR]** Investiga las anomalías (niebla, esqueletos sombríos, el mímico) para defender el refugio. El invierno del 5500 la dejó traumatizada; su manera de expresarlo es querer dar la voz de alarma sobre la amenaza, algo que Kliff no hace. Mantiene en secreto sus experimentos. Antes ayudaba a Ina con las excavaciones de la montaña y estudiaba en su tiempo libre; en el invierno del 5501 empieza a colaborar con Zorro. Conoce a los esqueletos sombríos y al mímico.
+- **[BORRADOR]** Investiga las anomalías (niebla, esqueletos sombríos, el mímico) para defender el refugio. El invierno del 5500 la dejó traumatizada; su manera de expresarlo es querer dar la voz de alarma sobre la amenaza, algo que Kliff no hace. Mantiene en secreto sus experimentos. Antes ayudaba a Ina con las excavaciones de la montaña y estudiaba en su tiempo libre; desde el otoño del 5501 se acerca a Zorro y colaboran. Conoce a los esqueletos sombríos y al mímico.
 - Documentos: [Notas #1–#5](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md), [Sueño](04_personales/5501-00-00_nota_tarylla_sueno-de-tarylla.md).
 - Edad, origen concreto, voz, motivaciones, secretos, trayectoria: Por definir.
 
@@ -62,7 +62,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Rol:** Chica joven procedente de una civilización muy avanzada.
 - **Oficios:** Investigadora, agricultora, aprendiz de medicina.
 - **Límite de conocimiento:** posee conocimientos avanzados (ver [`09_tecnologia.md`](09_tecnologia.md)).
-- **Datos de los textos (BORRADOR):** 20 años; huérfana según Kliff; se unió en Junligosto del 5501. En el retrato de la colonia figura como «Zorro» Piaroa (¿«Zorro» es un apodo?; por confirmar). Antes del invierno estaba en los huertos; en invierno colabora con Tarylla. Kliff no conoce su pasado.
+- **Datos de los textos (BORRADOR):** 20 años; huérfana según Kliff; se unió en Junligosto del 5501. En el retrato de la colonia figura como «Zorro» Piaroa (¿«Zorro» es un apodo?; por confirmar). Estaba en los huertos; desde el otoño del 5501 colabora con Tarylla. Kliff no conoce su pasado.
 - Documentos: [Quejas y relatos](04_personales/5501-00-00_diario_zorro_quejas-y-relatos.md).
 - Edad, origen concreto, voz, motivaciones, relaciones, trayectoria: Por definir.
 
@@ -85,7 +85,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Oficios:** Antiguo cuidador de animales.
 - **[BORRADOR]** Abuelo bonachón y optimista. Todos lo echan de menos, pero casi nunca se habla de ello. Se fue para crear un sitio seguro de cría de animales sin comprometer a la colonia y para quitarse de en medio como boca que alimentar; su carta lo explica y nadie la ha leído, así que Kliff ignora sus razones.
 - **Defensa del rancho (BORRADOR):** si algún asaltante o bandido ataca su rancho, responderá con una lluvia de flechas; no amenaza a Gapaopolis ni suministra flechas.
-- **Datos de los textos (BORRADOR):** a comienzos de otoño del 5501 se marchó con tres cabezas de ganado a un rancho abandonado en una pradera al este; Kliff lo vive como traición, la carta de Yuld dice que se va para no ser una carga.
+- **Datos de los textos (BORRADOR):** hacia el 15º de Junligosto del 5501 se marchó de noche con tres cabezas de ganado a un rancho abandonado en una pradera al este; Kliff lo vive como traición, la carta de Yuld dice que se va para no ser una carga.
 - Documentos: [Sacrificio de Yuld](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md).
 
 ---
