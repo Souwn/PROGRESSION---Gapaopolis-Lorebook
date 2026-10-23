@@ -39,7 +39,7 @@ _Por definir._ Lo único escrito: la «Crónica secreta VII» de El Umbral (ver 
 
 - **[CANON]** El invierno devastador fue el del 5500 (Difebrero 5500), el último mes del año. Peste, hambruna, frío y niebla; los detalles por definir (el jugador aún no los ha fijado).
 - **[BORRADOR]** Kaelen, Liry y Ozan mueren en este periodo o antes; sus tumbas aparecen saqueadas en Difebrero del 5501 (ver [`01_personajes.md`](01_personajes.md)). Liry murió «el invierno pasado» (jugador).
-- **[BORRADOR]** Las notas de Tarylla #1–#4 describen sucesos de este invierno, pero se escribieron ~1 mes después, en Marzimayo del 5501.
+- **[BORRADOR]** La nota de Tarylla #1 describe sucesos de este invierno, pero se escribió ~1 mes después, en Marzimayo del 5501.
 
 ## Presente (registro oficial, 5501+)
 
@@ -66,18 +66,17 @@ _Por definir._ Lo único escrito: la «Crónica secreta VII» de El Umbral (ver 
 | 8 | Kliff, 6º–13º Junligosto | Reconoce la presión que ejerce sobre los habitantes; aparecen las vacas. |
 | 9 | [Carta de Yuld](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md) | Yuld se va hacia el 15º de Junligosto. |
 | 10 | Kliff, 1º Septumbre | Registra el abandono de Yuld. |
-| 11 | Zorro #2 | La lluvia hace estragos. |
-| 12 | Tarylla #5 | Observa toda la escena. |
-| 13 | Kliff, 4º Septumbre | Describe los acontecimientos de la lluvia. |
-| 14 | Zorro #3 | El acercamiento de Tarylla. |
+| 11 | Tarylla #4 | El mímico; ocurre durante el otoño, antes de la lluvia. |
+| 12 | Zorro #2 | La lluvia hace estragos. |
+| 13 | Tarylla #5 | Observa toda la escena. |
+| 14 | Kliff, 4º Septumbre | Describe los acontecimientos de la lluvia. |
 | 15 | Kliff, 11º–14º Septumbre | Eventos durante el otoño. |
 | 16 | [Sueño de Tarylla](04_personales/5501-00-00_nota_tarylla_sueno-de-tarylla.md) | Tiene pesadillas. |
-| 17 | [Unkas II](04_personales/5501-00-00_nota_unkas_unkas-ii.md) | Ideas negativas sobre Kliff que vienen de comienzos del otoño y se han agravado. |
-| 18 | Kliff, 2º Difebrero | Comienzo del invierno. |
-| 19 | Zorro #4 | Ve a Unkas y Zhethe. |
-| 20 | Kliff, 11º–15º Difebrero | Último arco de Kliff. |
-
-**Sin ubicar en esa lista:** Tarylla #4 (el mímico). Su lugar exacto está por definir.
+| 17 | Zorro #3 | El acercamiento de Tarylla; hacia el final del otoño o el comienzo del invierno, tras los sueños de Tarylla. |
+| 18 | [Unkas II](04_personales/5501-00-00_nota_unkas_unkas-ii.md) | Ideas negativas sobre Kliff que vienen de comienzos del otoño y se han agravado. |
+| 19 | Kliff, 2º Difebrero | Comienzo del invierno. |
+| 20 | Zorro #4 | Ve a Unkas y Zhethe. |
+| 21 | Kliff, 11º–15º Difebrero | Último arco de Kliff. |
 
 ## Eventos de la colonia (tabla maestra)
 
@@ -88,17 +87,18 @@ _Por definir._ Lo único escrito: la «Crónica secreta VII» de El Umbral (ver 
 | Difebrero 5500 | Invierno devastador: peste, hambruna y frío; mueren animales y colonos | Colonia | Kliff, Tarylla #1, carta de Yuld; jugador | **CANON** el año |
 | Difebrero 5500 | Muere Liry, una niña | Liry | Jugador (chat) | BORRADOR |
 | 5500 | Primera niebla (antes del invierno) y segunda niebla (en pleno invierno): aberración y esqueleto sombrío | Kliff, Tarylla, Ina, Unkas, Kaelen | [Notas de Tarylla](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md) | BORRADOR |
-| Marzimayo 5501 | Se empieza a escribir en la colonia; Tarylla redacta sus notas #1–#4 sobre el invierno pasado (~1 mes atrás) | Tarylla | Jugador (chat) | BORRADOR |
+| Marzimayo 5501 | Se empieza a escribir en la colonia; Tarylla redacta su nota #1 sobre el invierno pasado (~1 mes atrás) | Tarylla | Jugador (chat) | BORRADOR |
 | 3º Marzimayo 5501 | Kliff empieza su diario en su «segundo año» en estas tierras | Kliff | [Diario de Kliff](04_personales/5501-00-00_diario_kliff_secuelas-del-invierno.md) | BORRADOR |
 | ~fin de Marzimayo–Junligosto 5501 | Zorro se une a la colonia | Zorro | Diario de Kliff (3º Junligosto) | BORRADOR |
 | 6º Junligosto 5501 | Kliff decide construir un templo en la montaña | Kliff | Diario de Kliff | BORRADOR |
 | 13º Junligosto 5501 | Yuld encuentra vacas salvajes; discute con Kliff; se fabrican arcos y flechas | Yuld, Kliff | Diario de Kliff | BORRADOR |
 | ~15º Junligosto 5501 (de noche) | Yuld se marcha con el ganado a un rancho abandonado al este | Yuld | [Carta de Yuld](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md); orden de las notas | BORRADOR |
 | 1º Septumbre 5501 | Kliff registra la marcha de Yuld | Kliff | Diario de Kliff | BORRADOR |
+| Septumbre 5501 (antes del 4º) | El mímico (rocas de la excavación) ataca a Tarylla en su cueva | Tarylla | Tarylla #4; jugador | BORRADOR |
 | 4º Septumbre 5501 | Diluvio nocturno: se pierde la mitad de la cosecha; Zhethe sale a cazar al bosque profundo | Kliff, Zorro, Unkas, Ina, Zhethe | Kliff; Zorro #2; Tarylla #5 | BORRADOR |
 | 11º Septumbre 5501 | Llega Lexington, minero | Lexington | Diario de Kliff | BORRADOR |
 | 13º–14º Septumbre 5501 | «Intercambio cultural» con La República Central / La Liga del Valor | Kliff, Tarylla | Diario de Kliff | BORRADOR |
-| Septumbre 5501 (entre el 4º y el 11º) | Tarylla se acerca a Zorro por la conservación de alimentos | Tarylla, Zorro | Zorro #3; orden de las notas | BORRADOR |
+| Final del otoño – comienzo del invierno 5501 | Tarylla se acerca a Zorro por la conservación de alimentos (tras los sueños de Tarylla) | Tarylla, Zorro | Zorro #3; orden de las notas | BORRADOR |
 | 2º Difebrero 5501 | Comienza el invierno (-15 ºC a -2 ºC); Zorro pide trabajar en desarrollo e innovación con Tarylla | Kliff, Zorro, Tarylla | Diario de Kliff | BORRADOR |
 | 11º Difebrero 5501 | Caja de madera que enfría (hongos y sal); sacrificio de ganado | Tarylla, Zorro, Kliff | Diario de Kliff | BORRADOR |
 | 13º Difebrero 5501 | Zhethe dice a Kliff «cosas imposibles»; Kliff prohíbe a Unkas hablar de ello | Kliff, Zhethe, Unkas | Diario de Kliff | BORRADOR |
@@ -106,10 +106,7 @@ _Por definir._ Lo único escrito: la «Crónica secreta VII» de El Umbral (ver 
 
 ## Conflictos y dudas cronológicas abiertas
 
-- **Zorro #3** abre con «Con la llegada del invierno y el fin de la temporada agrícola», pero el orden fijado lo sitúa entre el 4º y el 11º de Septumbre, antes de las entradas de otoño de Kliff.
-- **Tarylla #4** no figura en la lista del orden.
 - La crónica de El Umbral de 5501 («VDI») es posterior a la fundación de la colonia, aunque las crónicas de El Umbral «suelen ser anteriores a la colonia».
-
 - (anotar aquí cualquier incoherencia detectada para resolverla con el jugador)
 - **Orden cronológico absoluto («meta») de todos los eventos más allá de las notas:** pendiente. Los eventos con las rocas (el mímico) ocurrieron «mucho antes» de la llegada de Lexington.
 - **Fecha exacta de la fundación de Gapaopolis y de la llegada de Tarylla, Ina, Ozan, Liry y Kaelen:** Por definir.

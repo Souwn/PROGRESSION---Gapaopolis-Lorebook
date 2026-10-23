@@ -35,7 +35,7 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 ## Zorro
 
 - **[META]** Cree ser la mente más brillante del refugio; en realidad Tarylla la supera (ver arriba). Cambia la lectura de «Ojalá esa niña supiera que habla con un muro» (Notas de Tarylla #5).
-- **[META]** Zorro y Tarylla empiezan a colaborar cuando pasan a convivir en tiempo libre (en los textos, desde el otoño del 5501). Antes, Zorro estaba en los huertos cultivando sin parar, y Tarylla ayudaba a Ina con las excavaciones y estudiaba en sus ratos libres.
+- **[META]** Zorro y Tarylla empiezan a colaborar cuando pasan a convivir en tiempo libre (en los textos, desde el final del otoño del 5501). Antes, Zorro estaba en los huertos cultivando sin parar, y Tarylla ayudaba a Ina con las excavaciones y estudiaba en sus ratos libres.
 
 ## Ina, Unkas, Zhethe
 

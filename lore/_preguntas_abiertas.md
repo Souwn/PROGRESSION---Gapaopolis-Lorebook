@@ -22,6 +22,7 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | 10 | En el retrato figura «Zorro» Piaroa. ¿«Zorro» es un apodo y Piaroa un nombre o apellido? | [`01_personajes.md`](01_personajes.md) | Captura 02 |
 | 11 | ¿Cuál de las salas de la captura 06 es el templo de Kliff? | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) | Captura 06 |
 | 12 | «El Enjambre de Sorne» (donde los Ixthar ocultan sus secretos): ¿tiene relación con «Linaje Sorne» del mapa? | [`02_facciones.md`](02_facciones.md) | Hilo *Opinión* |
+| 13 | La crónica de El Umbral «VDI» es de 5501, posterior a la fundación de la colonia, pero las crónicas de El Umbral «suelen ser anteriores a la colonia». ¿Cómo encaja? | [`00_cronologia.md`](00_cronologia.md) | Orden cronológico |
 
 ## Resueltas
 

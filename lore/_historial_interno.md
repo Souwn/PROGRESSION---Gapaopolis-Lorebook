@@ -25,7 +25,7 @@ Si el jugador usa un término antiguo, **se entiende el vigente** y se escribe s
 
 ## 2026-10-23
 
-- Orden cronológico del contenido de las notas fijado como CANON en `00_cronologia.md` (20 puntos). Zorro #3 pasa a otoño (entre el 4º y el 11º de Septumbre) y Yuld se va hacia el 15º de Junligosto; fichas ajustadas. Dudas: Zorro #3 menciona la llegada del invierno, Tarylla #4 no está en la lista, y la crónica «VDI» (5501) es posterior a la colonia.
+- Orden cronológico del contenido de las notas fijado como CANON en `00_cronologia.md` . Zorro #3 pasa al final del otoño (tras el Sueño de Tarylla) y Tarylla #4 se ubica en otoño, antes de la lluvia (21 puntos) y Yuld se va hacia el 15º de Junligosto; fichas ajustadas. Duda abierta: la crónica «VDI» (5501) es posterior a la colonia.
 - La Colmena «Klaxxi» / «Kalxxi» pasa a llamarse **Ixthar** en todo el lore. Si el jugador escribe Klaxxi, se entiende Ixthar.
 - «Paraciencia» corregido a **apariencia** (fichas de Liry y Zhethe).
 - Puntuación de Tarylla #1: «la ahora difunta Kaelen» (la difunta es Kaelen, no Unkas).
