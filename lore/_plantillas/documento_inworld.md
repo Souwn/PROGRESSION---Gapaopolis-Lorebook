@@ -10,7 +10,7 @@ formato: bitacora | diario | nota | carta | libro | cronica | escena
 autor: …                      # personaje, institución o "anónimo"
 destinatario: …               # solo cartas; si no aplica, "ninguno"
 fecha_inworld: AAAA-MM-DD     # AAAA-00-00 si se desconoce
-periodo: pre-5500 | invierno-5501 | presente
+periodo: pre-5500 | invierno-5500 | presente
 lugar: …                      # Por definir si no se sabe
 estado_canon: BORRADOR | CANON
 conocimiento_del_narrador: …  # qué sabe y qué no; sesgos

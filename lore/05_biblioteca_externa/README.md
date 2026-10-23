@@ -12,5 +12,5 @@ Libros, crónicas antiguas y documentación histórica, técnica, filosófica o 
 
 | Título | Autor | Época | Archivo | Estado |
 |---|---|---|---|---|
-| (VDI) EU CLXX · Crónica de las naciones conocidas (Edad Clásica) | El Umbral | Por interpretar | [archivo](0000-00-00_cronica_el-umbral_naciones-conocidas.md) | BORRADOR |
-| (VCDXCV) Crónica secreta VII: El dominio de las sombras | El Umbral (Concilio Superior) | Por interpretar | [archivo](0000-00-00_cronica_el-umbral_dominio-de-las-sombras.md) | BORRADOR | — |
+| (VDI) EU CLXX · Crónica de las naciones conocidas (Edad Clásica) | El Umbral | 5501 | [archivo](5501-00-00_cronica_el-umbral_naciones-conocidas.md) | BORRADOR |
+| (VCDXCV) Crónica secreta VII: El dominio de las sombras | El Umbral (Concilio Superior) | 5495 | [archivo](5495-00-00_cronica_el-umbral_dominio-de-las-sombras.md) | BORRADOR |

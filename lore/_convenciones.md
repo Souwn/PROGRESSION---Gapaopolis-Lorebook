@@ -10,6 +10,7 @@ Cada dato relevante (ficha, evento de la cronología, párrafo de facción…) p
 | `BORRADOR` | Escrito a partir de lo que el jugador ha contado, pendiente de revisión. | Claude o jugador |
 | `PROPUESTA` | Idea sugerida por Claude. No es historia. | Claude |
 | `OBSOLETO` | Sustituido por un retcon. Se conserva como referencia. | Tras un retcon aprobado |
+| `META` | Información de autor dada por el jugador fuera del mundo (secretos, intenciones). Vive solo en `_meta_autor.md`; no cuenta en `Canon-Only`. | Solo el jugador |
 | `Por definir` | Hueco sin información. **No se rellena inventando.** | — |
 
 Formato en línea: `**[CANON]**`, `**[BORRADOR]**`, etc., al inicio del dato o de la sección.
@@ -43,7 +44,7 @@ Se mantienen todas en `01_personajes.md` mientras sean breves. Cuando una ficha 
 ## 3. Fechas y calendario
 
 - El año de la historia se escribe con cuatro cifras: **5500**, **5501**.
-- Tres grandes periodos: **Pre-5500** · **Invierno del 5501** · **Presente / registro oficial posterior**.
+- Tres grandes periodos: **Pre-5500** · **Invierno del 5500** (el devastador) · **Presente / registro oficial posterior**.
 - Calendario `CANON`: 4 meses de 15 días (Marzimayo, Junligosto, Septumbre, Difebrero), uno por estación; el año empieza en primavera. En `AAAA-MM-DD`, `MM` va de `01` a `04` y `DD` de `01` a `15`. Detalles y equivalencia con RimWorld (por definir) en `00_cronologia.md`.
 - Distingue siempre **fecha in-world** de **fecha de la partida/real**; no las mezcles en el mismo campo.
 

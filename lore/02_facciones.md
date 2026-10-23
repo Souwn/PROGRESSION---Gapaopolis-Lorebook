@@ -6,8 +6,11 @@ idioma: es
 
 Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya mencionados por el jugador; su descripción está `Por definir`.
 
+**Principios del mundo** **[CANON]**: es un mundo en una edad precaria donde unas facciones han prosperado más que otras. Las más poderosas o avanzadas son las que «llevan la voz». Hay otros asentamientos rústicos y precarios como Gapaopolis, pero esta es la historia de Gapaopolis. Las facciones suelen ser egoístas con sus avances.
+
 ## Índice
 
+- [GAPA (la facción de Kliff)](#gapa)
 - [El Umbral](#el-umbral) ⚠️ zona de cambio posible
 - [El Imperio](#el-imperio)
 - [La Liga](#la-liga)
@@ -33,6 +36,13 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 ```
 
 ---
+
+### GAPA
+- **Estado:** BORRADOR (el nombre puede cambiar para ajustarse mejor a las descripciones)
+- **[CANON]** La facción de Kliff también se llama GAPA, igual que el dios y la ciudad (ver [`06_mitologia.md`](06_mitologia.md)).
+- Miembros: la colonia de Gapaopolis (ver [`01_personajes.md`](01_personajes.md)). La mayoría de sus habitantes son ateos o siguen otras religiones o ideologías culturales.
+- Ubicación: bosque denso cerca de montañas, entre dos de ellas, muy cerca de la colonia de los Ixthar (ver [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md)).
+- Todo lo demás: Por definir.
 
 ### El Umbral
 - **Estado:** BORRADOR
@@ -60,7 +70,10 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 
 ### Otras (nombradas en la crónica de El Umbral, BORRADOR)
 - **Círculo de Driadea:** tribu de faunos, magia forestal, bosques profundos del Este.
-- **Colmena de los Ixthar:** civilización insectoide que conquistó montañas. (Antes «Kalxxi»; el jugador prefiere «Ixthar» por evitar parecido con otro universo. BORRADOR.)
-- **Los Exiliados:** antiguos moradores de esas montañas; sobreviven en campos fúngicos. El jugador aclara que son los antes conocidos como «tribu de las montañas».
+- **Colmena de los Ixthar:** civilización insectoide que conquistó las montañas de la tribu antigua; su colonia reside ahora muy cerca de Gapaopolis. (BORRADOR.)
+- **Los Exiliados:** antiguos moradores de esas montañas, antes conocidos como la «tribu de las montañas»; sobreviven en campos fúngicos.
 - **Los Primeros Hombres:** sociedad precaria de neandertales.
 - **Cuervo Negro:** tribu salvaje de saqueadores de tierras lejanas.
+
+### Otras (visibles en el mapa del mundo, sin descripción todavía)
+En la captura del [mapa del mundo](../Library/imagenes/03_mapa_del_mundo.png) aparecen también **Linaje Sorne**, **Cuevas Negros** (lectura parcial del nombre), **Clan Raíz Profunda**, varias marcas del Imperio y de las tres repúblicas. Todo: Por definir.

@@ -4,13 +4,15 @@ idioma: es
 
 # 06 · Mitología
 
-Creencias, dioses, cultos y dogmas del mundo. Solo está confirmado el nombre **GAPA** y la existencia de un panteón; el resto está `Por definir`.
+Creencias, dioses, cultos y dogmas del mundo. Está confirmado que **GAPA** es un dios; el resto está `Por definir`.
 
 ## GAPA
 - **Estado:** BORRADOR
+- **[CANON]** GAPA es un **dios al que Kliff venera**. Kliff funda **Gapaopolis, la ciudad de GAPA**. Es un dios relativamente nuevo en este universo. Cómo conoce Kliff su existencia es un misterio.
+- **[BORRADOR]** El templo de Kliff busca transmitir tranquilidad y fe a los habitantes de Gapaopolis, en su mayoría ateos o ligados a otras religiones e ideologías culturales.
 - Kliff lo invoca como «el dios GAPA» (diario, 3º de Marzimayo del 5501). Unkas cuenta que Kliff le habló, delirando, de un sueño divino para fundar un refugio, ciudad o reino en nombre de un dios que ella no conocía (BORRADOR).
 - Kliff construye un **templo** en la montaña (6º de Junligosto del 5501); Zorro lo llama «el Templo de Kliff».
-- Naturaleza, origen y relación exacta con el nombre «Gapaopolis»: Por definir.
+- Naturaleza y origen del dios: Por definir.
 
 ## Panteón de dioses
 _Por definir._
@@ -30,4 +32,5 @@ Qué cree cada colono, y hasta qué punto es una creencia errónea o parcial (ú
 
 | Personaje | Cree en / practica | Notas |
 |---|---|---|
-| — | — | — |
+| Kliff | Sigue a GAPA | **[CANON]** |
+| Resto de la colonia | En su mayoría ateos o con otras religiones e ideologías culturales | **[BORRADOR]** |

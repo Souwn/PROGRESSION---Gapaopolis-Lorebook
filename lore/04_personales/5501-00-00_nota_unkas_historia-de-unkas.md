@@ -3,8 +3,8 @@ idioma: es
 formato: nota
 autor: Unkas ("de la tormenta")
 destinatario: ninguno
-fecha_inworld: 5500-00-00   # etiquetada «(5500)» por el jugador
-periodo: pre-5500
+fecha_inworld: 5501-00-00   # escrita en 5501; los hechos que narra empiezan en 5500 (etiqueta «(5500)» del jugador)
+periodo: presente
 lugar: Gapaopolis
 estado_canon: BORRADOR
 conocimiento_del_narrador: Médica y consejera. Habla de su pasado en las cuevas y de cómo conoció a Kliff. Admite que se unió a él por razones «no humildes» sin explicarlas.
@@ -30,4 +30,4 @@ Fui la primera persona en unirme a la causa de Kliff, aunque no por las razones 
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal).
-- Posibles incoherencias a revisar: etiqueta «(5500)» frente a «un año más tarde» y a la mención de plagas ya sufridas (ver `00_cronologia.md`).
+- Fecha: Unkas se une a Kliff en el 5500; las notas empezaron a escribirse a partir del 5501.

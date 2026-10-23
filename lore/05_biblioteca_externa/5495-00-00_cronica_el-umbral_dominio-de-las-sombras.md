@@ -3,7 +3,7 @@ idioma: es
 formato: cronica
 autor: El Umbral (Concilio Superior / Círculo Interior)
 destinatario: Élite del Círculo Interior (Concilio Superior)
-fecha_inworld: "(VCDXCV) — notación por interpretar"
+fecha_inworld: 5495-00-00   # cabecera «(VCDXCV)» = 5495
 periodo: pre-5500
 lugar: Por definir
 estado_canon: BORRADOR
@@ -42,4 +42,5 @@ OXA ETZ ITHECHE KALUQ ZAROG.
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal). La última línea («OXA ETZ ITHECHE KALUQ ZAROG.») está en una lengua aún no definida; no se traduce.
-- Fecha: la cabecera «(VCDXCV)» podría leerse como 5495 en numeración romana con millar (V̄ = 5000), pendiente de confirmar con el jugador.
+- Fecha: la cabecera «(VCDXCV)» se lee como 5495 (numeración romana con millar).
+- La frase final en lengua desconocida: el jugador indica que su significado es **secreto**; no se traduce ni se especula en el lore.
