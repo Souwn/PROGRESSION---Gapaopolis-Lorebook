@@ -63,7 +63,7 @@ Hemos sido convocados a "un intercambio cultural", podría ser una magnífica oc
 
 **14º de Septumbre de 5501**
 
-El intercambio cultural fue interesante, conocimos a una facción con bastante influencia, se hacen llamar La República Central, aunque han explicado que ese nombre se refiere a la facción completa, mientras que su comunidad, además, la principal de su facción es, La Liga del Valor, o La Liga. Al parecer son comerciantes, se han interesado en estrechar lazos en un futuro no lejano.
+El intercambio cultural fue interesante, conocimos a una facción con bastante influencia, se hacen llamar La Liga del Valor, o simplemente La Liga. Al parecer son comerciantes, se han interesado en estrechar lazos en un futuro no lejano.
 
 **2º de Difebrero del 5501**
 

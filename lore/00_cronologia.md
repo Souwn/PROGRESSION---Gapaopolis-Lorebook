@@ -116,7 +116,7 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | Septumbre 5501 (antes del 4º) | El mímico (rocas de la excavación) ataca a Tarylla en su cueva | Tarylla | Tarylla #4; jugador | BORRADOR |
 | 4º Septumbre 5501 | Diluvio nocturno: se pierde la mitad de la cosecha; Zhethe sale a cazar al bosque profundo | Kliff, Zorro, Unkas, Ina, Zhethe | Kliff; Zorro #2; Tarylla #5 | BORRADOR |
 | 11º Septumbre 5501 | Llega Lexington, minero | Lexington | Diario de Kliff | BORRADOR |
-| 13º–14º Septumbre 5501 | «Intercambio cultural» con La República Central / La Liga del Valor | Kliff, Tarylla | Diario de Kliff | BORRADOR |
+| 13º–14º Septumbre 5501 | «Intercambio cultural» con La Liga (del Valor) | Kliff, Tarylla | Diario de Kliff | BORRADOR |
 | Final del otoño – comienzo del invierno 5501 | Tarylla se acerca a Zorro por la conservación de alimentos (tras los sueños de Tarylla) | Tarylla, Zorro | Zorro #3; orden de las notas | BORRADOR |
 | 2º Difebrero 5501 | Comienza el invierno (-15 ºC a -2 ºC); Zorro pide trabajar en desarrollo e innovación con Tarylla | Kliff, Zorro, Tarylla | Diario de Kliff | BORRADOR |
 | 11º Difebrero 5501 | Caja de madera que enfría (hongos y sal); sacrificio de ganado | Tarylla, Zorro, Kliff | Diario de Kliff | BORRADOR |

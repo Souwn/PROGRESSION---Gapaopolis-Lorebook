@@ -10,8 +10,7 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 
 | # | Pregunta | Afecta a | Origen |
 |---|---|---|---|
-| 1 | ¿Se mantiene el término «República» para las tres, o se sustituye? | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
-| 2 | Faltan las fichas de las facciones menores: Primeros Hombres, Ixthar, Clan Raíz Profunda, Linaje Sorne, Clan Cuervo Negro, Círculo de Driadea y Exiliados. | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
+| 1 | Faltan las fichas de las facciones menores: Primeros Hombres, Ixthar, Clan Raíz Profunda, Linaje Sorne, Clan Cuervo Negro, Círculo de Driadea y Exiliados. | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
 
 ## Resueltas
 
@@ -19,7 +18,7 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 |---|---|---|---|
 | R1 | ¿Cómo repartir los chats? | Todo pasa por el chat principal; los hilos se usan para tareas concretas. Solo el hilo Principal escribe en el repositorio. | [`CLAUDE.md`](CLAUDE.md) §4.3 |
 | R2 | Calendario de la colonia | 4 meses de 15 días (Marzimayo, Junligosto, Septumbre, Difebrero); el año empieza en primavera. | [`00_cronologia.md`](00_cronologia.md) |
-| R3 | Orden de las tres repúblicas | Este = El Umbral (tecnología y magia); Central = La Liga del Valor (comercio); Oeste = El Bastión (ejército y maquinaria). | [`02_facciones.md`](02_facciones.md) |
+| R3 | Orden de las tres grandes facciones | Este = El Umbral (tecnología y magia); Central = La Liga del Valor (comercio); Oeste = El Bastión (ejército y maquinaria). | [`02_facciones.md`](02_facciones.md) |
 | R4 | ¿Lilith o Liry? | Son personajes distintos; el nombre de la difunta de Tarylla #1 es Kaelen. | [`01_personajes.md`](01_personajes.md) |
 | R5 | ¿Cuándo fue el invierno devastador? | En el 5500. | [`00_cronologia.md`](00_cronologia.md) |
 | R6 | Cabeceras de las crónicas de El Umbral | «(VDI)» es 5501; «(VCDXCV)» es 5495. | [`05_biblioteca_externa`](05_biblioteca_externa/README.md) |
@@ -41,4 +40,5 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R22 | Orden cronológico absoluto de los eventos | Es el de las notas, ya fijado como CANON. | [`00_cronologia.md`](00_cronologia.md) |
 | R23 | ¿La fundación coincide con el inicio de la partida? | Aproximadamente, el 1º de Marzimayo del 5500. Las fechas exactas de los demás fundadores siguen por definir. | [`00_cronologia.md`](00_cronologia.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
 | R24 | ¿Dónde encajan Yuld, Zhethe y Krosswynd en el orden de llegada? | Tras Tarylla: primero Yuld, luego Zhethe. Krosswynd es muy reciente y aún no es canon oficial. | [`00_cronologia.md`](00_cronologia.md), [`01_personajes.md`](01_personajes.md) |
-| R25 | ¿Cuál es la orientación de las repúblicas? | El Umbral, sobre todo en el este del norte y en parte por el este (no del todo al este); El Bastión, al oeste. | [`02_facciones.md`](02_facciones.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
+| R25 | ¿Cuál es la orientación de El Umbral y El Bastión? | El Umbral, sobre todo en el este del norte y en parte por el este (no del todo al este); El Bastión, al oeste. | [`02_facciones.md`](02_facciones.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
+| R26 | ¿Se mantiene el término «República»? | No: las tres facciones se llaman El Umbral (Este), La Liga (Centro) y El Bastión (Oeste). | [`02_facciones.md`](02_facciones.md) |

@@ -12,9 +12,9 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 
 - [GAPA (la facción de Kliff)](#gapa)
 - [El Imperio](#el-imperio)
-- [El Umbral (República del Este)](#el-umbral-república-del-este) ⚠️ zona de cambio posible
-- [La Liga (República Central)](#la-liga-república-central)
-- [El Bastión (República del Oeste)](#el-bastión-república-del-oeste)
+- [El Umbral](#el-umbral) ⚠️ zona de cambio posible
+- [La Liga](#la-liga)
+- [El Bastión](#el-bastión)
 - [Otras](#otras-nombradas-en-la-crónica-de-el-umbral-borrador): Driadea, Ixthar, Exiliados, Primeros Hombres, Cuervo Negro
 
 ---
@@ -54,27 +54,27 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 - **Nivel tecnológico actual:** **[CANON]** Medieval.
 - **Enemigos directos actuales:** **[CANON]** Clan Raíz Profunda y El Umbral.
 - **Qué sabe de Gapaopolis:** **[CANON]** Tiene plena conciencia de su existencia.
-- **Qué sabe el mundo de ella:** **[CANON]** Las repúblicas apenas la conocen. Según la crónica de El Umbral (BORRADOR): concede «títulos reales», sus emisarios guardan voto de silencio y realiza cruzadas contra las artes místicas.
+- **Qué sabe el mundo de ella:** **[CANON]** Las otras tres grandes facciones (El Umbral, La Liga y El Bastión) apenas la conocen. Según la crónica de El Umbral (BORRADOR): concede «títulos reales», sus emisarios guardan voto de silencio y realiza cruzadas contra las artes místicas.
 - Vínculo conocido: el trasfondo de [Tarylla](01_personajes.md#tarylla) está ligado a El Imperio (a detallar; zona de cambio posible).
 - Estructura interna, relaciones y recursos: Por definir.
 
-### El Umbral (República del Este)
+### El Umbral
 - **Estado:** CANON (ficha genérica fijada por el jugador; se irá ampliando) ⚠️ zona de cambio posible
-- **Tipo y gobierno:** **[CANON]** República del Este, de gobierno aristocrático. La facción la dirige El Umbral; su líder está por definir. La sociedad se divide en clases: no viven igual un aristócrata de la Aguja Solar, un residente de la capital y un aldeano de las afueras.
+- **Tipo y gobierno:** **[CANON]** Facción del Este, de gobierno aristocrático. La facción la dirige El Umbral; su líder está por definir. La sociedad se divide en clases: no viven igual un aristócrata de la Aguja Solar, un residente de la capital y un aldeano de las afueras.
 - **Territorio y sede:** **[CANON]** Su sede principal es **La Aguja Solar**, un templo-biblioteca en su capital (nombre por definir), al este de las montañas nevadas del norte. Se concentra sobre todo en el este del norte y, en parte, también por el este (no del todo al este). Tiene sedes menores repartidas por el este.
 - **Objetivos:** **[CANON]** Ser la primera potencia mundial, derrocando a El Imperio.
 - **Ideología:** **[CANON]** Antepone el conocimiento y los avances a todo, sin importar el precio. Recientemente ha adoptado la magia oscura.
 - **Fortalezas:** **[CANON]** Es fuerte en tecnología y magia oscura (aunque va por detrás de El Imperio en tecnología). En relaciones es débil: es demasiado arrogante.
-- **Postura:** **[CANON]** Neutral de mala gana: no inicia guerras, pero tampoco ayuda. Es sumamente recelosa de su información, conocimiento y progresos. Coopera de forma limitada con las otras repúblicas por necesidad.
+- **Postura:** **[CANON]** Neutral de mala gana: no inicia guerras, pero tampoco ayuda. Es sumamente recelosa de su información, conocimiento y progresos. Coopera de forma limitada con La Liga y El Bastión por necesidad.
 - **Secretos:** **[CANON]** Guarda altos secretos tecnológicos y oculta su reciente manipulación de la magia oscura. Su documento secreto (Crónica secreta VII, BORRADOR) habla de estudiar «las sombras» y de prepararse para sustituir el orden imperial; ver [`05_biblioteca_externa`](05_biblioteca_externa/).
 - **Nivel tecnológico actual:** **[CANON]** Neolítico-Medieval.
 - **Enemigos directos actuales:** **[CANON]** Los Primeros Hombres y El Imperio. Mantiene mala relación con el Círculo de Driadea.
 - **Qué sabe de Gapaopolis:** **[CANON]** Hoy la desconoce.
 - ⚠️ Su evolución es una **zona de cambio posible** (ver [`_registro_retcons.md`](_registro_retcons.md)). No consolidar cambios sin aprobación del jugador.
 
-### La Liga (República Central)
+### La Liga
 - **Estado:** CANON (ficha genérica fijada por el jugador; se irá ampliando)
-- **Tipo y gobierno:** **[CANON]** República Central, una meritocracia; su líder está por definir. Llama **La Liga del Valor** a su propio gremio de comerciantes.
+- **Tipo y gobierno:** **[CANON]** Facción del Centro, una meritocracia; su líder está por definir. **La Liga del Valor** es el nombre completo de su gremio de comerciantes.
 - **Territorio y sede:** **[CANON]** Su sede principal (nombre por definir) está casi en el centro del continente. Su capital (nombre por definir) tiene grandes carreteras que se extienden en todas direcciones. Tiene sedes repartidas por algunos puntos del continente, en su mayoría menores.
 - **Objetivos:** **[CANON]** Ser una gran potencia económica, si no la mayor. La mueve sobre todo la avaricia, pero mantiene un código interno.
 - **Fortalezas:** **[CANON]** Gran potencia económica y poseedora de recursos estratégicos.
@@ -84,9 +84,9 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 - **Enemigos directos actuales:** **[CANON]** Clan Cuervo Negro y Los Exiliados.
 - **Qué sabe de Gapaopolis:** **[CANON]** Sus comerciantes avistaron en ella a un potencial socio comercial y ya se ha establecido un primer encuentro (el «intercambio cultural» del diario de Kliff, 13º–14º de Septumbre del 5501, donde se mostraron interesados en estrechar lazos).
 
-### El Bastión (República del Oeste)
+### El Bastión
 - **Estado:** CANON (ficha genérica fijada por el jugador; se irá ampliando)
-- **Tipo y gobierno:** **[CANON]** República del Oeste, una monarquía; su líder principal está por definir.
+- **Tipo y gobierno:** **[CANON]** Facción del Oeste, una monarquía; su líder principal está por definir.
 - **Territorio y sede:** **[CANON]** Se extiende a lo largo del oeste del mapa, bastante cerca de las tierras de El Imperio (por eso conoce su existencia). Su capital es **El Bastión**, que suele dar nombre a toda la agrupación.
 - **Objetivos:** **[CANON]** Ser la superpotencia militar y establecer «el orden y la paz» según sus propios criterios. No son exactamente los buenos de la película.
 - **Fortalezas:** **[CANON]** Poder militar y maquinaria militar.
@@ -104,4 +104,4 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 - **Cuervo Negro:** tribu salvaje de saqueadores de tierras lejanas.
 
 ### Otras (visibles en el mapa del mundo, sin descripción todavía)
-En la captura del [mapa del mundo](../Library/imagenes/03_mapa_del_mundo.png) aparecen también **Linaje Sorne**, **Cuevas Negros** (lectura parcial del nombre), **Clan Raíz Profunda**, varias marcas del Imperio y de las tres repúblicas. Todo: Por definir.
+En la captura del [mapa del mundo](../Library/imagenes/03_mapa_del_mundo.png) aparecen también **Linaje Sorne**, **Cuevas Negros** (lectura parcial del nombre), **Clan Raíz Profunda**, varias marcas del Imperio, de El Umbral, de La Liga y de El Bastión. Todo: Por definir.

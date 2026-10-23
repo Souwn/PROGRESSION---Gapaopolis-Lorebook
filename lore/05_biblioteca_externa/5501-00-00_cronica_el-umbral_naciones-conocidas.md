@@ -15,7 +15,7 @@ referencias: [El Imperio, El Umbral, El Bastión, La Liga, Driadea, Ixthar, Exil
 
 **Sobre las potencias, los pueblos y el orden del mundo presente**
 
-El mundo conocido se halla dividido entre imperios, repúblicas, tribus y civilizaciones de muy diversa condición. Algunas han alcanzado un elevado grado de prosperidad; otras perseveran en formas de vida ancestrales. Más allá de sus dominios se extienden tierras ignotas, cuyos moradores y secretos escapan todavía al conocimiento de los eruditos.
+El mundo conocido se halla dividido entre imperios, potencias, tribus y civilizaciones de muy diversa condición. Algunas han alcanzado un elevado grado de prosperidad; otras perseveran en formas de vida ancestrales. Más allá de sus dominios se extienden tierras ignotas, cuyos moradores y secretos escapan todavía al conocimiento de los eruditos.
 
 Entre las potencias existentes impera una jerarquía manifiesta, aunque no exenta de incertidumbres.
 
@@ -29,15 +29,15 @@ Aún más severo es el hermetismo que rodea a sus emisarios. Quienes han tratado
 
 Así pues, el Imperio ejerce una supremacía incontestable, pero incomprendida: se conocen sus medios, se ignoran sus fines y apenas se vislumbra la estructura que sustenta su poder.
 
-### II. Las Tres Repúblicas: la concordia interesada
+### II. Las Tres Potencias: la concordia interesada
 
-Bajo la preeminencia imperial destacan tres repúblicas vanguardistas, protagonistas de buena parte de los asuntos políticos y militares del mundo.
+Bajo la preeminencia imperial destacan tres potencias vanguardistas, protagonistas de buena parte de los asuntos políticos y militares del mundo.
 
-La República del Este, el Umbral, sobresale por su potencia tecnológica y sus indagaciones en la magia; la República Central, la Liga del Valor, por su pujanza comercial y mercantil; y la República del Oeste, el Bastión, por su poderío militar y su maquinaria.
+En el Este, el Umbral, sobresale por su potencia tecnológica y sus indagaciones en la magia; en el Centro, la Liga del Valor, por su pujanza comercial y mercantil; y en el Oeste, el Bastión, por su poderío militar y su maquinaria.
 
 Sus relaciones oscilan entre la cooperación y la rivalidad. Unidas cuando la conveniencia así lo exige, no vacilan en disputar influencia y supremacía, pudiendo recurrir al sabotaje cuando sus intereses divergen. Su concordia, por tanto, no nace de una lealtad inquebrantable, sino de un equilibrio de intereses siempre susceptible de quebranto.
 
-Si el Imperio representa el poder inaccesible, las Tres Repúblicas encarnan la pugna visible por la preeminencia.
+Si el Imperio representa el poder inaccesible, las Tres Potencias encarnan la pugna visible por la preeminencia.
 
 ### III. Los pueblos y los dominios regionales
 
@@ -51,7 +51,7 @@ Desde tierras lejanas irrumpe Cuervo Negro, una tribu salvaje cuyas incursiones 
 
 ### IV. Consideraciones sobre el orden presente
 
-El equilibrio del mundo dista de ser inmutable. El Imperio domina desde el misterio; las Tres Repúblicas se disputan la influencia; los Ixthar conservan las montañas conquistadas y los Exiliados sobreviven lejos de ellas. Driadea preserva sus bosques, los Primeros Hombres resisten el paso de los siglos y Cuervo Negro perpetúa la amenaza de sus incursiones.
+El equilibrio del mundo dista de ser inmutable. El Imperio domina desde el misterio; las Tres Potencias se disputan la influencia; los Ixthar conservan las montañas conquistadas y los Exiliados sobreviven lejos de ellas. Driadea preserva sus bosques, los Primeros Hombres resisten el paso de los siglos y Cuervo Negro perpetúa la amenaza de sus incursiones.
 
 Mas ningún mapa comprende la totalidad de las tierras, ni ningún cronista puede dar por concluido el inventario de sus pueblos. Nuevas potencias podrían aguardar más allá de las fronteras conocidas, y los equilibrios presentes quebrarse ante circunstancias todavía imprevisibles.
 
