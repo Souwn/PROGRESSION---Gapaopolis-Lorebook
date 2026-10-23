@@ -10,7 +10,9 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 
 | # | Pregunta | Afecta a | Origen |
 |---|---|---|---|
-| — | Ninguna pendiente. | | |
+| 1 | El mapa sitúa El Umbral al noroeste, pero la ficha lo describe al este de las montañas nevadas del norte, y el Bastión (Oeste) queda «a lo largo del este del mapa». ¿Cuál es la orientación real de las tres repúblicas? | [`02_facciones.md`](02_facciones.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) | Fichas de facciones |
+| 2 | ¿Se mantiene el término «República» para las tres, o se sustituye? | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
+| 3 | Faltan las fichas de las facciones menores: Primeros Hombres, Ixthar, Clan Raíz Profunda, Linaje Sorne, Clan Cuervo Negro, Círculo de Driadea y Exiliados. | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
 
 ## Resueltas
 

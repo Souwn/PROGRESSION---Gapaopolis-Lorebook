@@ -16,6 +16,17 @@ Eras de progreso, nivel tecnológico de la colonia, conocimientos especiales y r
 
 > La partida usa el modpack PROGRESSION de Ferny. La equivalencia entre su árbol de investigación y las eras narrativas está por definir.
 
+## Nivel tecnológico actual de las facciones
+
+| Facción | Nivel | Estado |
+|---|---|---|
+| El Imperio | Medieval | CANON |
+| El Umbral | Neolítico-Medieval (por detrás de El Imperio en tecnología) | CANON |
+| La Liga | Neolítico; destaca en comercio | CANON |
+| El Bastión | Neolítico, con ejército pseudo medieval | CANON |
+
+Más detalle en [`02_facciones.md`](02_facciones.md).
+
 ## Regla de coherencia tecnológica
 
 Un texto in-world debe usar solo la tecnología y el vocabulario que su autor conoce:
