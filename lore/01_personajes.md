@@ -36,8 +36,8 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Segunda al mando.
 - **Oficios:** Médica principal, cocinera, consejera del grupo.
-- **Nombre completo (BORRADOR):** Unkas «de la tormenta». Creció en refugios de cuevas; fue forzada a salir; conoció a Kliff al salvarla este de un animal salvaje. Se unió «no por las razones más humildes» (sin explicar).
-- **[CANON]** Segunda en llegar a Gapaopolis. La invasión de los Ixthar a las montañas (5500) está asociada a ella; el vínculo exacto está por definir.
+- **Nombre completo (BORRADOR):** Unkas «de la tormenta». Creció en refugios de cuevas; fue forzada a salir; conoció a Kliff al salvarla este de un animal salvaje. Se unió «no por las razones más humildes»: fue una huida.
+- **[CANON]** Segunda en llegar a Gapaopolis. Es una **Exiliada**: procede de las montañas que los Ixthar tomaron en la invasión del 5500 (ver [`02_facciones.md`](02_facciones.md)), y se unió a Kliff huyendo de ella.
 - **[BORRADOR]** Se une a Kliff en el 5500, tras separarse de su grupo y viajar en dirección opuesta a la de Gapaopolis. No recuerda con exactitud lo que vio la noche del primer invierno.
 - Documentos: [Historia de Unkas](04_personales/5501-00-00_nota_unkas_historia-de-unkas.md), [Unkas II](04_personales/5501-00-00_nota_unkas_unkas-ii.md).
 - Edad, motivaciones profundas, relaciones, trayectoria: Por definir.
@@ -74,7 +74,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 ### Zhethe
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Guardabosques y cazador solitario.
-- **[CANON]** Llegó a Gapaopolis después de Yuld.
+- **[CANON]** Llegó a Gapaopolis después de Yuld, mucho más tarde que la muerte de Liry: no estaba cuando ella murió.
 - **Oficios:** Cuidado principal de animales y defensa forestal.
 - **Datos de los textos (BORRADOR):** cazador único durante el invierno; Kliff lo cree conspirando con Unkas; Zorro los ve besándose en el Templo.
 - Según el jugador, describió a Kliff un zombi que encaja con la apariencia de Liry (por eso Kliff dice que sabe «cosas imposibles»). Ver [Liry](#liry).
@@ -104,7 +104,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 
 ### Liry
 - **Situación:** Fallecida · Una niña que murió el invierno anterior (BORRADOR, según el jugador). Es un personaje distinto de Kaelen.
-- Zhethe describió a Kliff un zombi que encaja a la perfección con la apariencia de Liry (BORRADOR).
+- Zhethe describió a Kliff un zombi que encaja a la perfección con la apariencia de Liry (BORRADOR). **[CANON]** Zhethe no la conoció: llegó a la colonia mucho después de su muerte.
 - **[CANON]** Llegó a Gapaopolis junto a Kaelen, después de Ina.
 - Su tumba apareció saqueada y vacía (15º Difebrero 5501).
 - Kliff convivió con ella (BORRADOR).

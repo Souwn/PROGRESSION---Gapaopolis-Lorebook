@@ -42,3 +42,6 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R24 | ¿Dónde encajan Yuld, Zhethe y Krosswynd en el orden de llegada? | Tras Tarylla: primero Yuld, luego Zhethe. Krosswynd es muy reciente y aún no es canon oficial. | [`00_cronologia.md`](00_cronologia.md), [`01_personajes.md`](01_personajes.md) |
 | R25 | ¿Cuál es la orientación de El Umbral y El Bastión? | El Umbral, sobre todo en el este del norte y en parte por el este (no del todo al este); El Bastión, al oeste. | [`02_facciones.md`](02_facciones.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
 | R26 | ¿Se mantiene el término «República»? | No: las tres facciones se llaman El Umbral (Este), La Liga (Centro) y El Bastión (Oeste). | [`02_facciones.md`](02_facciones.md) |
+| R27 | ¿Estaba Zhethe en la colonia cuando murió Liry? | No: llegó mucho más tarde. | [`01_personajes.md`](01_personajes.md), [`00_cronologia.md`](00_cronologia.md) |
+| R28 | ¿El mímico ocurrió «mucho antes» de la llegada de Lexington? | Sí; se mantiene. | [`00_cronologia.md`](00_cronologia.md) |
+| R29 | ¿Es Unkas una Exiliada que huyó de las montañas tomadas por los Ixthar? | Sí; su unión a Kliff fue una huida. | [`01_personajes.md`](01_personajes.md), [`02_facciones.md`](02_facciones.md) |
