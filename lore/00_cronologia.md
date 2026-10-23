@@ -58,8 +58,10 @@ _Por definir._ Lo único escrito: la «Crónica secreta VII» de El Umbral (ver 
 4. Kaelen y Liry (juntas)
 5. Ozan
 6. Tarylla (la séptima en unirse)
+7. Yuld
+8. Zhethe
 
-Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Septumbre del 5501). El lugar de Yuld, Zhethe y Krosswynd en este orden: Por definir.
+Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Septumbre del 5501). Krosswynd es muy reciente y todavía no es canon oficial, por lo que no figura en este orden.
 
 ## Orden cronológico del contenido de las notas
 
@@ -98,7 +100,7 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | Fecha in-world | Evento | Personajes | Fuente (documento) | Estado |
 |---|---|---|---|---|
 | 1º Marzimayo 5500 | Comienza la partida | — | Jugador (chat) | **CANON** |
-| 5500 (derivado) | Kliff funda Gapaopolis, ciudad de GAPA (fecha exacta por definir) | Kliff | Jugador (chat); Diario de Kliff | **CANON** el hecho; la fecha es BORRADOR |
+| ~1º Marzimayo 5500 | Kliff funda Gapaopolis, ciudad de GAPA (aproximadamente al inicio de la partida) | Kliff | Jugador (chat); Diario de Kliff | **CANON** el hecho y la fecha aproximada |
 | 5500 | Unkas, separada de su grupo, es salvada por Kliff y se une a él | Unkas, Kliff | [Historia de Unkas](04_personales/5501-00-00_nota_unkas_historia-de-unkas.md); jugador | BORRADOR |
 | 5500 | Invasión de los Ixthar a las montañas (mencionada en la crónica «VDI», posterior), asociada a Unkas | Unkas, Ixthar | [Crónica de las naciones conocidas](05_biblioteca_externa/5501-00-00_cronica_el-umbral_naciones-conocidas.md); jugador | **CANON** el año |
 | Difebrero 5500 | Invierno devastador: peste, hambruna y frío; mueren animales y colonos | Colonia | Kliff, Tarylla #1, carta de Yuld; jugador | **CANON** el año |
@@ -125,6 +127,4 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 
 - (anotar aquí cualquier incoherencia detectada para resolverla con el jugador)
 - Los eventos con las rocas (el mímico) ocurrieron «mucho antes» de la llegada de Lexington.
-- **Fecha exacta de la fundación de Gapaopolis y de la llegada de Tarylla, Ina, Ozan, Liry y Kaelen:** Por definir.
-- **Coincidencia de la fundación con el inicio de la partida (1º de Marzimayo del 5500):** Por definir.
-- **Lugar de Yuld, Zhethe y Krosswynd en el orden de llegada:** Por definir.
+- **Fechas exactas de la llegada de los demás fundadores (Unkas, Ina, Kaelen, Liry, Ozan, Tarylla, Yuld y Zhethe):** Por definir.

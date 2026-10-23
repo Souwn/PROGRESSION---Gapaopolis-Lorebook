@@ -30,6 +30,7 @@ Si el jugador usa un término antiguo, **se entiende el vigente** y se escribe s
 
 ## 2026-10-23
 
+- Fundación de Gapaopolis fijada aproximadamente al 1º de Marzimayo del 5500; orden de llegada ampliado (… Tarylla, Yuld, Zhethe). Krosswynd marcado como **no canon oficial** (muy reciente) y fuera del orden de llegada. Sin preguntas abiertas pendientes.
 - Respuestas del jugador aplicadas: orden de llegada (Kliff, Unkas, Ina, Kaelen y Liry, Ozan, Tarylla séptima; texto de Tarylla #1 corregido); la partida empieza el 1º de Marzimayo del 5500 y los meses son los quadrums de RimWorld; la crónica «VDI» es posterior y su invasión Ixthar es de 5500 (asociada a Unkas); orden absoluto de eventos = el de las notas; templo de Kliff, «MISS» y «COWS» fijados en `07`; pemmican, inmortal, Zorro/Piaroa y Enjambre de Sorne ↔ Linaje Sorne anotados. Quedan pendientes solo la fecha de fundación y el lugar de Yuld, Zhethe y Krosswynd en el orden de llegada.
 - Orden cronológico del contenido de las notas fijado como CANON en `00_cronologia.md` . Zorro #3 pasa al final del otoño (tras el Sueño de Tarylla) y Tarylla #4 se ubica en otoño, antes de la lluvia (21 puntos) y Yuld se va hacia el 15º de Junligosto; fichas ajustadas. Duda abierta: la crónica «VDI» (5501) es posterior a la colonia.
 - La Colmena «Klaxxi» / «Kalxxi» pasa a llamarse **Ixthar** en todo el lore. Si el jugador escribe Klaxxi, se entiende Ixthar.

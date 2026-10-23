@@ -10,8 +10,7 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 
 | # | Pregunta | Afecta a | Origen |
 |---|---|---|---|
-| 1 | ¿La fundación de Gapaopolis coincide con el inicio de la partida (1º de Marzimayo del 5500)? ¿En qué fechas llegaron los demás fundadores? | [`00_cronologia.md`](00_cronologia.md) | Orden de llegada |
-| 2 | ¿Dónde encajan Yuld, Zhethe y Krosswynd en el orden de llegada (Kliff, Unkas, Ina, Kaelen y Liry, Ozan, Tarylla)? | [`00_cronologia.md`](00_cronologia.md) | Orden de llegada |
+| — | Ninguna pendiente. | | |
 
 ## Resueltas
 
@@ -39,3 +38,5 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R20 | ¿Qué sala es el templo de Kliff? | Dentro de la montaña, sobre el almacén: sala en forma de cruz con una marca de texto rojo. | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
 | R21 | ¿«MISS» y «COWS?» en las capturas? | MISS = personajes que han muerto; COWS = donde las vacas ya no estaban porque Yuld se las llevó. | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
 | R22 | Orden cronológico absoluto de los eventos | Es el de las notas, ya fijado como CANON. | [`00_cronologia.md`](00_cronologia.md) |
+| R23 | ¿La fundación coincide con el inicio de la partida? | Aproximadamente, el 1º de Marzimayo del 5500. Las fechas exactas de los demás fundadores siguen por definir. | [`00_cronologia.md`](00_cronologia.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
+| R24 | ¿Dónde encajan Yuld, Zhethe y Krosswynd en el orden de llegada? | Tras Tarylla: primero Yuld, luego Zhethe. Krosswynd es muy reciente y aún no es canon oficial. | [`00_cronologia.md`](00_cronologia.md), [`01_personajes.md`](01_personajes.md) |

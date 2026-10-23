@@ -13,7 +13,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 **Miembros actuales:** [Kliff](#kliff) · [Unkas](#unkas) · [Ina](#ina) · [Tarylla](#tarylla) · [Zorro](#zorro) · [Zhethe](#zhethe)
 **Ausente:** [Yuld](#yuld)
 **Fallecidos:** [Ozan](#ozan) · [Liry](#liry) · [Kaelen](#kaelen)
-**Recién llegados (trasfondo por definir):** [Lexington](#lexington) · [Krosswynd](#krosswynd)
+**Recién llegados (trasfondo por definir):** [Lexington](#lexington) · [Krosswynd](#krosswynd) (aún no es canon oficial)
 
 ---
 
@@ -74,6 +74,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 ### Zhethe
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Guardabosques y cazador solitario.
+- **[CANON]** Llegó a Gapaopolis después de Yuld.
 - **Oficios:** Cuidado principal de animales y defensa forestal.
 - **Datos de los textos (BORRADOR):** cazador único durante el invierno; Kliff lo cree conspirando con Unkas; Zorro los ve besándose en el Templo.
 - Según el jugador, describió a Kliff un zombi que encaja con la apariencia de Liry (por eso Kliff dice que sabe «cosas imposibles»). Ver [Liry](#liry).
@@ -87,6 +88,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 ### Yuld
 - **Estado de la ficha:** BORRADOR · **Situación:** Ausente (fuera de la colonia)
 - **Rol:** Abuelo amado por la colonia.
+- **[CANON]** Llegó a Gapaopolis después de Tarylla y antes de Zhethe.
 - **Oficios:** Antiguo cuidador de animales.
 - **[BORRADOR]** Abuelo bonachón y optimista. Todos lo echan de menos, pero casi nunca se habla de ello. Se fue para crear un sitio seguro de cría de animales sin comprometer a la colonia y para quitarse de en medio como boca que alimentar; su carta lo explica y nadie la ha leído, así que Kliff ignora sus razones.
 - **Defensa del rancho (BORRADOR):** si algún asaltante o bandido ataca su rancho, responderá con una lluvia de flechas; no amenaza a Gapaopolis ni suministra flechas.
@@ -125,7 +127,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Situación:** Recién llegado · Se une el 11º de Septumbre del 5501: «experimentado minero obsesionado con las rocas» (BORRADOR). Por ahora es un minero sin lore más definido; su origen está por definir.
 
 ### Krosswynd
-- **Situación:** Recién llegado · Por ahora es un granjero sin lore más definido. Origen y llegada: Por definir.
+- **Situación:** Recién llegado · Aún **no es canon oficial** (es muy reciente; en la partida ya está). Por ahora es un granjero sin lore más definido. Origen y llegada: Por definir.
 
 ---
 

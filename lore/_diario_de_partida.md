@@ -19,7 +19,7 @@ _Fecha de partida:_ Por definir.
 
 | Evento | Detalle (según el jugador) | Adaptación |
 |---|---|---|
-| Llegada de dos colonos | [Lexington](01_personajes.md#lexington) y [Krosswynd](01_personajes.md#krosswynd). | Pendiente (el juego los puso en la partida; el lore se ajustará para encajarlos) |
+| Llegada de dos colonos | [Lexington](01_personajes.md#lexington) y [Krosswynd](01_personajes.md#krosswynd) (este aún no es canon oficial). | Pendiente (el juego los puso en la partida; el lore se ajustará para encajarlos) |
 | Pareja | [Kliff](01_personajes.md#kliff) y [Zorro](01_personajes.md#zorro) se han hecho pareja. | Aplazado |
 | Embarazo | Zorro espera un hijo de Kliff. | **Aplazado: no adaptar hasta MUCHO MÁS TARDE.** |
 | Embarazo | [Zhethe](01_personajes.md#zhethe) y [Unkas](01_personajes.md#unkas) esperan un hijo (no son pareja). | **Aplazado: no adaptar por ahora.** |

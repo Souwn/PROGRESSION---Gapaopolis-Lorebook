@@ -15,7 +15,7 @@ El mapa, el bioma, los asentamientos y la base de la colonia.
 
 ## Gapaopolis (la colonia)
 - **Ubicación:** **[BORRADOR]** En una región de bosques muy densos cercana a montañas. La ciudad está situada estratégicamente **entre dos montañas**. Está muy cerca de donde reside ahora la colonia de los Ixthar. Según el mapa, queda al sur de las montañas ocupadas por los Ixthar y al norte del Bosque oscuro.
-- **Fundación:** **[CANON]** La funda Kliff, en nombre de GAPA. Fecha exacta: Por definir. Su origen es una cueva en la ladera de la montaña (captura 01).
+- **Fundación:** **[CANON]** La funda Kliff, en nombre de GAPA. Aproximadamente el 1º de Marzimayo del 5500, al inicio de la partida. Su origen es una cueva en la ladera de la montaña (captura 01).
 - **Distribución de la base:** **[BORRADOR]** Se ha excavado en la montaña: almacén, hospital, barracones y el templo de Kliff. Fuera hay una muralla, huertos con un lago cercano, un corral para animales y, aislada en la cara opuesta de la montaña, la cueva oculta de Tarylla. **[CANON]** El templo de Kliff está dentro de la montaña, encima del almacén: una sala de forma de cruz (`-|--`) con una pequeña marca de texto rojo en la captura 06. Más detalles por definir; ver las capturas 04 a 06.
 
 ## Asentamientos y lugares externos
