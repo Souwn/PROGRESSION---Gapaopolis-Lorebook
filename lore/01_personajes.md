@@ -72,13 +72,13 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 ## Fallecidos
 
 ### Ozan
-- **Situación:** Fallecido · Todo lo demás (causa, fecha, papel en la colonia): Por definir.
+- **Situación:** Fallecido/a · Todo lo demás (causa, fecha, papel en la colonia): Por definir.
 
 ### Liry
 - **Situación:** Fallecido/a · Todo lo demás (causa, fecha, papel en la colonia): Por definir.
 
 ### Kaelen
-- **Situación:** Fallecido · Todo lo demás (causa, fecha, papel en la colonia): Por definir.
+- **Situación:** Fallecido/a · Todo lo demás (causa, fecha, papel en la colonia): Por definir.
 
 > Nota: no se ha indicado el género de Liry, Kaelen ni Ozan; al redactar, preguntar al jugador antes de asumirlo.
 
