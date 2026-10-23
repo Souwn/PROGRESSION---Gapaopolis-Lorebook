@@ -18,14 +18,14 @@ Estados de canon y formato de fechas: ver [`_convenciones.md`](_convenciones.md)
 | Septumbre | Otoño | CANON |
 | Difebrero | Invierno | CANON |
 
-  Mes en que cambia el año (¿empieza en primavera?) y equivalencia con RimWorld: Por definir.
+  **[CANON]** El año **empieza en primavera** (Marzimayo) y termina en invierno (Difebrero). Equivalencia con RimWorld: Por definir.
 
 ## Periodos
 
 | Periodo | Rango | Resumen | Estado |
 |---|---|---|---|
 | Pre-5500 | Hasta el 5500 | Por definir | Por definir |
-| Invierno del 5501 | 5501 | Un invierno devastador marca el inicio del registro oficial. Detalles por definir. | BORRADOR |
+| Invierno del 5501 | 5501 | Un invierno devastador marca el inicio del registro oficial. ⚠️ Nombre y fecha por revisar (ver dudas abiertas). Detalles por definir. | BORRADOR |
 | Presente / registro oficial | 5501 en adelante | Bitácoras oficiales de la colonia. | BORRADOR |
 
 > Sobre la **Era Animal** y el avance a la **Era Neolítica**: ver [`09_tecnologia.md`](09_tecnologia.md).
@@ -47,8 +47,8 @@ _Por definir._ Los textos del 5501 conservados hasta ahora son diarios y notas p
 | Fecha in-world | Evento | Personajes | Fuente (documento) | Estado |
 |---|---|---|---|---|
 | 5500 (?) | Unkas abandona las cuevas, es salvada por Kliff y se queda con él | Unkas, Kliff | [Historia de Unkas](04_personales/5500-00-00_nota_unkas_historia-de-unkas.md) | BORRADOR |
-| Invierno anterior | Invierno devastador: peste, hambruna y frío; mueren animales y colonos | Colonia | Kliff, Tarylla #1, carta de Yuld | BORRADOR |
-| Invierno anterior | Primera niebla (antes del invierno) y segunda niebla (en pleno invierno): aberración y esqueleto sombrío | Kliff, Tarylla, Ina, Unkas, Kaelen | [Notas de Tarylla](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md) | BORRADOR |
+| Difebrero 5500 (derivado) | Invierno devastador: peste, hambruna y frío; mueren animales y colonos | Colonia | Kliff, Tarylla #1, carta de Yuld | BORRADOR |
+| 5500 (derivado) | Primera niebla (antes del invierno) y segunda niebla (en pleno invierno): aberración y esqueleto sombrío | Kliff, Tarylla, Ina, Unkas, Kaelen | [Notas de Tarylla](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md) | BORRADOR |
 | 3º Marzimayo 5501 | Kliff empieza su diario en su «segundo año» en estas tierras | Kliff | [Diario de Kliff](04_personales/5501-00-00_diario_kliff_secuelas-del-invierno.md) | BORRADOR |
 | ~fin de Marzimayo–Junligosto 5501 | Zorro se une a la colonia | Zorro | Diario de Kliff (3º Junligosto) | BORRADOR |
 | 6º Junligosto 5501 | Kliff decide construir un templo en la montaña | Kliff | Diario de Kliff | BORRADOR |
@@ -61,13 +61,13 @@ _Por definir._ Los textos del 5501 conservados hasta ahora son diarios y notas p
 | 11º Difebrero 5501 | Caja de madera que enfría (hongos y sal); sacrificio de ganado | Tarylla, Zorro, Kliff | Diario de Kliff | BORRADOR |
 | 13º Difebrero 5501 | Zhethe dice a Kliff «cosas imposibles»; Kliff prohíbe a Unkas hablar de ello | Kliff, Zhethe, Unkas | Diario de Kliff | BORRADOR |
 | 15º Difebrero 5501 | Kliff halla las tumbas saqueadas y vacías (de Kaelen, Liry y Ozan) | Kliff | Diario de Kliff; jugador | BORRADOR |
-| Invierno anterior | Muere Liry, una niña | Liry | Jugador (chat) | BORRADOR |
+| Difebrero 5500 (derivado) | Muere Liry, una niña | Liry | Jugador (chat) | BORRADOR |
 
 ## Conflictos y dudas cronológicas abiertas
 
 - (anotar aquí cualquier incoherencia detectada para resolverla con el jugador)
-- **¿Cuándo ocurre exactamente el «invierno devastador»?** Kliff escribe el 3º de Marzimayo del 5501 sobre el invierno recién pasado, pero Difebrero 5501 aparece como el mes final del año. Pendiente de aclarar si el año cambia en invierno o en primavera, y si el invierno duro es el último del 5500 o el del 5501.
-- **«(5500) Historia de Unkas»:** dice «tan solo un año más tarde» de dejar las cuevas, y menciona plagas ya vividas; encaja con el «segundo año» de Kliff solo si la fecha se confirma.
+- **Nombre del periodo «Invierno del 5501»:** con el año empezando en primavera, el invierno devastador (el de antes del 3º de Marzimayo del 5501) fue **Difebrero del 5500**, y el Difebrero del 5501 es el segundo invierno, mucho más llevadero. Hay que decidir si el periodo se renombra o si «Invierno del 5501» designa otra cosa. También afecta al campo `periodo: invierno-5501` de las notas de Tarylla #1–#4.
+- ~~«(5500) Historia de Unkas»~~: encaja con el calendario (el primer año de Kliff es el 5500).
 - ~~«Lilith» vs. «Liry»~~ **Resuelto:** el nombre canon es Kaelen; Liry es otro personaje.
 - ~~Repúblicas~~ **Resuelto:** Este = El Umbral, Central = La Liga del Valor, Oeste = El Bastión.
 - **Orden cronológico de los eventos con las rocas (Tarylla):** el jugador indica que ocurrieron «mucho antes» de la llegada de Lexington y ofrece dar el orden absoluto; pendiente. Las notas de Tarylla #1–#5 podrían no estar en orden de escritura/ocurrencia.

@@ -8,7 +8,7 @@ periodo: por definir
 lugar: Por definir
 estado_canon: BORRADOR
 conocimiento_del_narrador: Crónica de origen externo (referencia «EU CLXX», clasificada por el jugador bajo «El Umbral»). Describe el orden del mundo en la «Edad Clásica». Punto de vista de El Umbral: puede estar sesgado.
-referencias: [El Imperio, El Umbral, El Bastión, La Liga, Driadea, Kalxxi, Exiliados, Primeros Hombres, Cuervo Negro]
+referencias: [El Imperio, El Umbral, El Bastión, La Liga, Driadea, Ixthar, Exiliados, Primeros Hombres, Cuervo Negro]
 ---
 
 # (VDI) EU CLXX - Crónica de las naciones conocidas (Edad Clásica)
@@ -43,7 +43,7 @@ Si el Imperio representa el poder inaccesible, las Tres Repúblicas encarnan la 
 
 En los bosques profundos del Este habita el Círculo de Driadea, una tribu de faunos versada en la magia forestal y consagrada a la custodia de sus dominios naturales.
 
-En las montañas, la Colmena de los Kalxxi, una civilización insectoide de organización y propósitos ignotos, conquistó las tierras de sus antiguos moradores. Estos, conocidos ahora como los Exiliados, fueron expulsados de su hogar y sobreviven en campos fúngicos, testimonio vivo de la fragilidad de todo dominio territorial.
+En las montañas, la Colmena de los Ixthar, una civilización insectoide de organización y propósitos ignotos, conquistó las tierras de sus antiguos moradores. Estos, conocidos ahora como los Exiliados, fueron expulsados de su hogar y sobreviven en campos fúngicos, testimonio vivo de la fragilidad de todo dominio territorial.
 
 Por su parte, los Primeros Hombres constituyen una sociedad precaria de neandertales, cuya fortaleza y resistencia les permiten perseverar en un mundo cada vez más complejo, pese a su limitado desarrollo.
 
@@ -51,7 +51,7 @@ Desde tierras lejanas irrumpe Cuervo Negro, una tribu salvaje cuyas incursiones 
 
 ### IV. Consideraciones sobre el orden presente
 
-El equilibrio del mundo dista de ser inmutable. El Imperio domina desde el misterio; las Tres Repúblicas se disputan la influencia; los Kalxxi conservan las montañas conquistadas y los Exiliados sobreviven lejos de ellas. Driadea preserva sus bosques, los Primeros Hombres resisten el paso de los siglos y Cuervo Negro perpetúa la amenaza de sus incursiones.
+El equilibrio del mundo dista de ser inmutable. El Imperio domina desde el misterio; las Tres Repúblicas se disputan la influencia; los Ixthar conservan las montañas conquistadas y los Exiliados sobreviven lejos de ellas. Driadea preserva sus bosques, los Primeros Hombres resisten el paso de los siglos y Cuervo Negro perpetúa la amenaza de sus incursiones.
 
 Mas ningún mapa comprende la totalidad de las tierras, ni ningún cronista puede dar por concluido el inventario de sus pueblos. Nuevas potencias podrían aguardar más allá de las fronteras conocidas, y los equilibrios presentes quebrarse ante circunstancias todavía imprevisibles.
 
@@ -60,4 +60,5 @@ Conviene recordar, por tanto, que la fuerza puede imponer obediencia, pero no ga
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal).
+- Nombre de la Colmena: el texto original decía «Kalxxi»; el jugador prefiere «Ixthar» (BORRADOR, pendiente de confirmar definitivamente).
 - Corrección aprobada por el jugador: el texto original asignaba Umbral=militar (Este), Bastión=tecnología (Central) y Liga=mercantil (Oeste). El orden correcto es Este = El Umbral (tecnología y magia), Central = La Liga del Valor (comercio), Oeste = El Bastión (ejército y maquinaria); se ha reescrito ese párrafo. Es ahora coherente con el diario de Kliff (14º Septumbre).

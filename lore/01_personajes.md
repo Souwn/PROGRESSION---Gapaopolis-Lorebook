@@ -25,6 +25,7 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 - **Apariencia (según Unkas, BORRADOR):** alto, fuerte, pelo dorado y larga barba. Se describe a sí mismo como paria refugiado en una cueva mohosa antes de fundar Gapaopolis; habla de un dios, GAPA.
 - **Apellido:** Paellus.
 - Edad, motivaciones profundas, relaciones, trayectoria: Por definir.
+- **Vínculo con los fallecidos (BORRADOR, según el jugador):** Kliff convivió con [Kaelen](#kaelen), [Liry](#liry) y [Ozan](#ozan); verlos saqueados lo desestabiliza.
 - Documentos: [Diario de Kliff](04_personales/5501-00-00_diario_kliff_secuelas-del-invierno.md).
 
 ### Unkas
@@ -83,17 +84,19 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 ## Fallecidos
 
 ### Ozan
-- **Situación:** Fallecido/a · Su tumba (con las de Kaelen y Liry) apareció saqueada y vacía el 15º de Difebrero del 5501 (BORRADOR). Todo lo demás (causa, fecha, papel en la colonia, género): Por definir.
+- **Situación:** Fallecido/a · Su tumba (con las de Kaelen y Liry) apareció saqueada y vacía el 15º de Difebrero del 5501 (BORRADOR). Kliff convivió con este personaje (BORRADOR). Todo lo demás (causa, fecha, papel en la colonia, género): Por definir.
 
 ### Liry
 - **Situación:** Fallecida · Una niña que murió el invierno anterior (BORRADOR, según el jugador). Es un personaje distinto de Kaelen.
 - Poseía una «paraciencia» (término del jugador, por definir): Zhethe describió a Kliff un zombi que encaja a la perfección con ella.
 - Su tumba apareció saqueada y vacía (15º Difebrero 5501).
+- Kliff convivió con ella (BORRADOR).
 - Causa y fecha exacta de la muerte, papel en la colonia: Por definir.
 
 ### Kaelen
 - **Situación:** Fallecida · **[CANON]** es el nombre definitivo del personaje que en el primer texto de Tarylla se llamaba «Lilith». Los textos la sitúan herida en el combate contra el esqueleto sombrío y la dan por «ahora difunta» (BORRADOR).
 - Su tumba apareció saqueada y vacía (15º Difebrero 5501).
+- Kliff convivió con ella (BORRADOR).
 - Causa y fecha exacta de la muerte, papel en la colonia: Por definir.
 
 > Nota: del género de Ozan no hay datos; preguntar antes de asumirlo. Liry es «una niña»; Kaelen aparece en femenino en el texto de Tarylla.

@@ -12,7 +12,7 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 - [El Imperio](#el-imperio)
 - [La Liga](#la-liga)
 - [El Bastión](#el-bastion)
-- [Otras](#otras-nombradas-en-la-crónica-de-el-umbral-borrador): Driadea, Kalxxi, Exiliados, Primeros Hombres, Cuervo Negro
+- [Otras](#otras-nombradas-en-la-crónica-de-el-umbral-borrador): Driadea, Ixthar, Exiliados, Primeros Hombres, Cuervo Negro
 
 ---
 
@@ -60,7 +60,7 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 
 ### Otras (nombradas en la crónica de El Umbral, BORRADOR)
 - **Círculo de Driadea:** tribu de faunos, magia forestal, bosques profundos del Este.
-- **Colmena de los Kalxxi:** civilización insectoide que conquistó montañas. ⚠️ El jugador duda del nombre por su parecido con otro universo; ver `_registro_retcons.md` (zona en observación).
+- **Colmena de los Ixthar:** civilización insectoide que conquistó montañas. (Antes «Kalxxi»; el jugador prefiere «Ixthar» por evitar parecido con otro universo. BORRADOR.)
 - **Los Exiliados:** antiguos moradores de esas montañas; sobreviven en campos fúngicos. El jugador aclara que son los antes conocidos como «tribu de las montañas».
 - **Los Primeros Hombres:** sociedad precaria de neandertales.
 - **Cuervo Negro:** tribu salvaje de saqueadores de tierras lejanas.
