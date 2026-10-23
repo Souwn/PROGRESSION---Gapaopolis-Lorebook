@@ -59,6 +59,11 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 - **[META]** Es un mundo en edad precaria donde algunos han prosperado más que otros. Las facciones más poderosas o avanzadas son las que «llevan la voz». Hay más asentamientos rústicos como Gapaopolis, pero esta es la historia de Gapaopolis. Las facciones suelen ser egoístas con sus avances.
 - **[META]** Los Ixthar **no** están relacionados con El Umbral. Ocultan sus propios secretos tras «El Enjambre de Sorne», relacionado con el Linaje Sorne del mapa (a desarrollar).
 - **[META]** Los Ixthar serán el equivalente a los zerg de *StarCraft* o los tiránidos de *Warhammer 40.000*, con un aire de «dios antiguo» al estilo de *World of Warcraft*. Este lore aún no está pensado al 100 %.
+- **[META]** El Imperio conoce a Kliff mucho mejor de lo que cabría esperar.
+- **[META]** El Umbral será el enemigo final de esta era y su caída cambiará las reglas del mundo para siempre.
+- **[META]** El Umbral será invitado a un evento organizado por La Liga. Se limitará a criticar una civilización tan precaria: Kliff le parecerá poco más que un neandertal, menos musculoso y con la cultura mínima para mantener una conversación.
+- **[META]** La Liga será la primera en establecer contacto con Gapaopolis y la guiará un poco de la mano en su expansión social y en el conocimiento de otras culturas. Tiene planes comerciales a futuro con la colonia.
+- **[META]** El Bastión juzgará a Gapaopolis una civilización débil: le ofrecerá «paz» gratuita por el momento, le instará (obligará) a reforzar sus filas e impondrá algo de su voluntad. A mitad de la historia involucrará a Gapa en sus asuntos y, en el arco final, se aliará con El Umbral. Eventualmente chocará con El Imperio por roces culturales.
 - **[SECRETO]** El significado de la frase final de la Crónica secreta VII («OXA ETZ ITHECHE KALUQ ZAROG»).
 
 ## Cómo escribir (decisiones de autoría)

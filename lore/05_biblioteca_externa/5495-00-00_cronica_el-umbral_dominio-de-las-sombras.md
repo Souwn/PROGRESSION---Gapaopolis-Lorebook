@@ -29,7 +29,7 @@ Hemos estudiado sus movimientos. Hemos examinado sus prohibiciones. Y hemos lleg
 
 No compartiremos nuestros hallazgos con quienes carecen de la sabiduría necesaria para comprenderlos. Hay conocimientos que deben permanecer ocultos, y puertas que solo unos pocos están preparados para cruzar. Las sombras nos han revelado posibilidades que antes considerábamos inalcanzables. No pretendemos ignorarlas por miedo a lo desconocido.
 
-Las otras repúblicas seguirán confiando en sus ejércitos, sus máquinas y sus riquezas. El Imperio seguirá creyéndose intocable. Que así sea. Mientras ellos preservan el orden existente, nosotros prepararemos el que habrá de sustituirlo.
+Las otras potencias seguirán confiando en sus ejércitos, sus máquinas y sus riquezas. El Imperio seguirá creyéndose intocable. Que así sea. Mientras ellos preservan el orden existente, nosotros prepararemos el que habrá de sustituirlo.
 
 No buscamos un lugar bajo la sombra del Imperio. No buscamos su reconocimiento ni su benevolencia. Buscamos la supremacía. Y cuando llegue el momento, el mundo comprenderá que aquello que sus gobernantes condenaban como prohibido era, en realidad, el poder que les faltaba para gobernarlo todo.
 
