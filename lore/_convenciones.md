@@ -44,7 +44,7 @@ Se mantienen todas en `01_personajes.md` mientras sean breves. Cuando una ficha 
 
 - El año de la historia se escribe con cuatro cifras: **5500**, **5501**.
 - Tres grandes periodos: **Pre-5500** · **Invierno del 5501** · **Presente / registro oficial posterior**.
-- El calendario exacto de la colonia (meses, estaciones, equivalencias con RimWorld) está **por definir**; anótalo en `00_cronologia.md` cuando el jugador lo fije.
+- Calendario `CANON`: 4 meses de 15 días (Marzimayo, Junligosto, Septumbre, Difebrero), uno por estación; el año empieza en primavera. En `AAAA-MM-DD`, `MM` va de `01` a `04` y `DD` de `01` a `15`. Detalles y equivalencia con RimWorld (por definir) en `00_cronologia.md`.
 - Distingue siempre **fecha in-world** de **fecha de la partida/real**; no las mezcles en el mismo campo.
 
 ## 4. Enlaces y referencias

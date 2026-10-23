@@ -106,6 +106,8 @@ Cada documento usa la plantilla de `_plantillas/documento_inworld.md`.
     ├── CLAUDE.md                  # (este archivo)
     ├── _convenciones.md           # Nombres de archivo, estados de canon, fechas, rama en inglés
     ├── _registro_retcons.md       # Historial de cambios aprobados sobre canon
+    ├── _diario_de_partida.md      # Reportes en bruto de las sesiones de juego (no canon)
+    ├── _preguntas_abiertas.md     # Huecos de lore y dudas pendientes para el jugador
     ├── _plantillas/               # Ficha de personaje, documento in-world
     ├── 00_cronologia.md
     ├── 01_personajes.md
@@ -127,5 +129,6 @@ Cada documento usa la plantilla de `_plantillas/documento_inworld.md`.
 1. Al empezar una sesión: lee este archivo, `_convenciones.md` y el último tramo de `00_cronologia.md`. Pregunta (o asume `Canon-Only` y avísalo) qué submodo se usa.
 2. Antes de redactar: comprueba cronología, quién sabe qué y qué estado de canon tiene cada dato que vas a usar.
 3. Al redactar: respeta la voz y el nivel tecnológico; usa la plantilla del formato.
-4. Al terminar: actualiza los índices afectados (cronología, personajes, etc.) y, si hubo retcon aprobado, `_registro_retcons.md`.
-5. Cierra con una pregunta o hipótesis para el jugador: eres el fan #1.
+4. Tras cada sesión de juego, el jugador puede enviar un reporte en bruto, sin formato fijo. Anótalo en `_diario_de_partida.md`, respeta los eventos marcados `Aplazado` y registra las dudas en `_preguntas_abiertas.md`. Nada de eso es canon hasta que el jugador lo pida.
+5. Al terminar: actualiza los índices afectados (cronología, personajes, etc.) y, si hubo retcon aprobado, `_registro_retcons.md`.
+6. Cierra con una pregunta o hipótesis para el jugador: eres el fan #1.
