@@ -10,9 +10,8 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 
 | # | Pregunta | Afecta a | Origen |
 |---|---|---|---|
-| 1 | El mapa sitúa El Umbral al noroeste, pero la ficha lo describe al este de las montañas nevadas del norte, y el Bastión (Oeste) queda «a lo largo del este del mapa». ¿Cuál es la orientación real de las tres repúblicas? | [`02_facciones.md`](02_facciones.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) | Fichas de facciones |
-| 2 | ¿Se mantiene el término «República» para las tres, o se sustituye? | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
-| 3 | Faltan las fichas de las facciones menores: Primeros Hombres, Ixthar, Clan Raíz Profunda, Linaje Sorne, Clan Cuervo Negro, Círculo de Driadea y Exiliados. | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
+| 1 | ¿Se mantiene el término «República» para las tres, o se sustituye? | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
+| 2 | Faltan las fichas de las facciones menores: Primeros Hombres, Ixthar, Clan Raíz Profunda, Linaje Sorne, Clan Cuervo Negro, Círculo de Driadea y Exiliados. | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
 
 ## Resueltas
 
@@ -42,3 +41,4 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R22 | Orden cronológico absoluto de los eventos | Es el de las notas, ya fijado como CANON. | [`00_cronologia.md`](00_cronologia.md) |
 | R23 | ¿La fundación coincide con el inicio de la partida? | Aproximadamente, el 1º de Marzimayo del 5500. Las fechas exactas de los demás fundadores siguen por definir. | [`00_cronologia.md`](00_cronologia.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
 | R24 | ¿Dónde encajan Yuld, Zhethe y Krosswynd en el orden de llegada? | Tras Tarylla: primero Yuld, luego Zhethe. Krosswynd es muy reciente y aún no es canon oficial. | [`00_cronologia.md`](00_cronologia.md), [`01_personajes.md`](01_personajes.md) |
+| R25 | ¿Cuál es la orientación de las repúblicas? | El Umbral, sobre todo en el este del norte y en parte por el este (no del todo al este); El Bastión, al oeste. | [`02_facciones.md`](02_facciones.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |

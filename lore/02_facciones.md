@@ -61,7 +61,7 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 ### El Umbral (República del Este)
 - **Estado:** CANON (ficha genérica fijada por el jugador; se irá ampliando) ⚠️ zona de cambio posible
 - **Tipo y gobierno:** **[CANON]** República del Este, de gobierno aristocrático. La facción la dirige El Umbral; su líder está por definir. La sociedad se divide en clases: no viven igual un aristócrata de la Aguja Solar, un residente de la capital y un aldeano de las afueras.
-- **Territorio y sede:** **[CANON]** Su sede principal es **La Aguja Solar**, un templo-biblioteca en su capital (nombre por definir), al este de las montañas nevadas del norte. Tiene sedes menores repartidas por el este.
+- **Territorio y sede:** **[CANON]** Su sede principal es **La Aguja Solar**, un templo-biblioteca en su capital (nombre por definir), al este de las montañas nevadas del norte. Se concentra sobre todo en el este del norte y, en parte, también por el este (no del todo al este). Tiene sedes menores repartidas por el este.
 - **Objetivos:** **[CANON]** Ser la primera potencia mundial, derrocando a El Imperio.
 - **Ideología:** **[CANON]** Antepone el conocimiento y los avances a todo, sin importar el precio. Recientemente ha adoptado la magia oscura.
 - **Fortalezas:** **[CANON]** Es fuerte en tecnología y magia oscura (aunque va por detrás de El Imperio en tecnología). En relaciones es débil: es demasiado arrogante.
@@ -87,7 +87,7 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 ### El Bastión (República del Oeste)
 - **Estado:** CANON (ficha genérica fijada por el jugador; se irá ampliando)
 - **Tipo y gobierno:** **[CANON]** República del Oeste, una monarquía; su líder principal está por definir.
-- **Territorio y sede:** **[CANON]** Se extiende a lo largo del este del mapa, bastante cerca de las tierras de El Imperio (por eso conoce su existencia). Su capital es **El Bastión**, que suele dar nombre a toda la agrupación.
+- **Territorio y sede:** **[CANON]** Se extiende a lo largo del oeste del mapa, bastante cerca de las tierras de El Imperio (por eso conoce su existencia). Su capital es **El Bastión**, que suele dar nombre a toda la agrupación.
 - **Objetivos:** **[CANON]** Ser la superpotencia militar y establecer «el orden y la paz» según sus propios criterios. No son exactamente los buenos de la película.
 - **Fortalezas:** **[CANON]** Poder militar y maquinaria militar.
 - **Postura:** **[CANON]** Amistosa con sus aliados, neutral con quien no se le interponga y hostil con cualquiera que se le plante delante o discrepe de su ideología.
