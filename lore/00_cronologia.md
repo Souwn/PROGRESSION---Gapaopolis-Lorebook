@@ -108,7 +108,7 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 5500 | Unkas, separada de su grupo, es salvada por Kliff y se une a él | Unkas, Kliff | [Historia de Unkas](04_personales/5501-00-00_nota_unkas_historia-de-unkas.md); jugador | BORRADOR |
 | 5500 | Invasión de los Ixthar a las montañas (mencionada en la crónica «VDI», posterior); Unkas, exiliada de esas montañas, huye y se une a Kliff | Unkas, Ixthar | [Crónica de las naciones conocidas](05_biblioteca_externa/5501-00-00_cronica_el-umbral_naciones-conocidas.md); jugador | **CANON** el año |
 | Difebrero 5500 | Invierno devastador: peste, hambruna y frío; mueren animales y colonos | Colonia | Kliff, Tarylla #1, carta de Yuld; jugador | **CANON** el año |
-| Difebrero 5500 | Muere Liry, una niña | Liry | Jugador (chat) | BORRADOR |
+| Difebrero 5500 | Muere Liry, una niña, por la peste | Liry | Jugador (chat) | **CANON** la causa |
 | 5500 | Primera niebla (antes del invierno) y segunda niebla (en pleno invierno): aberración y esqueleto sombrío | Kliff, Tarylla, Ina, Unkas, Kaelen | [Notas de Tarylla](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md) | BORRADOR |
 | Marzimayo 5501 | Se empieza a escribir en la colonia; Tarylla redacta su nota #1 sobre el invierno pasado (~1 mes atrás) | Tarylla | Jugador (chat) | BORRADOR |
 | 3º Marzimayo 5501 | Kliff empieza su diario en su «segundo año» en estas tierras | Kliff | [Diario de Kliff](04_personales/5501-00-00_diario_kliff_secuelas-del-invierno.md) | BORRADOR |

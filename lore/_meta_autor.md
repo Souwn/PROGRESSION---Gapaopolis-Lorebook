@@ -64,6 +64,10 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 - **[META]** El Umbral será invitado a un evento organizado por La Liga. Se limitará a criticar una civilización tan precaria: Kliff le parecerá poco más que un neandertal, menos musculoso y con la cultura mínima para mantener una conversación.
 - **[META]** La Liga será la primera en establecer contacto con Gapaopolis y la guiará un poco de la mano en su expansión social y en el conocimiento de otras culturas. Tiene planes comerciales a futuro con la colonia.
 - **[META]** El Bastión juzgará a Gapaopolis una civilización débil: le ofrecerá «paz» gratuita por el momento, le instará (obligará) a reforzar sus filas e impondrá algo de su voluntad. A mitad de la historia involucrará a Gapa en sus asuntos y, en el arco final, se aliará con El Umbral. Eventualmente chocará con El Imperio por roces culturales.
+- **[META]** Zorro será la primera en enfrentarse a Kliff.
+- **[META]** Alguien encontró la carta de Yuld y se deshizo de ella. No se dice quién ni cómo.
+- **[META]** Unkas está planeando marcharse o traicionar a Kliff; el jugador no ha precisado cuál de las dos.
+- **[META]** La mayor amenaza para la colonia, ahora mismo, es la propia colonia.
 - **[SECRETO]** El significado de la frase final de la Crónica secreta VII («OXA ETZ ITHECHE KALUQ ZAROG»).
 
 ## Cómo escribir (decisiones de autoría)

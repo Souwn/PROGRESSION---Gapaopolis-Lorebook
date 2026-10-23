@@ -30,6 +30,7 @@ Si el jugador usa un término antiguo, **se entiende el vigente** y se escribe s
 
 ## 2026-10-23
 
+- Respuestas de trama: Kliff sospecha lo de Tarylla y el esqueleto; Unkas totalmente desconcertada; Liry murió por la peste (fichas y cronología). A la meta: Zorro se enfrentará primero a Kliff, alguien encontró la carta de Yuld y se deshizo de ella, Unkas planea marcharse o traicionar (sin precisar), la mayor amenaza es la propia colonia. Descubrimiento neolítico: sin dato.
 - Vida cotidiana fijada por el jugador (comida, festejos, saludo, cocina, animales, lugar de reunión; Zorro echa de menos su civilización) en `07`, `01` y `08`. Zhethe llegó poco antes que Zorro (`00` y `01`).
 - Respuestas del jugador: Zhethe llegó mucho más tarde que la muerte de Liry; «mucho antes» del mímico respecto a Lexington se mantiene (diez días de juego son casi un mes de partida; no escribir equivalencias en `lore/`); Unkas es una Exiliada de las montañas tomadas por los Ixthar y su unión a Kliff fue una huida. Fichas de Zhethe, Liry y Unkas, cronología y Exiliados ajustadas.
 - Término «República» eliminado por decisión del jugador: las facciones se llaman El Umbral, La Liga y El Bastión. Actualizados fichas, geografía, cronología, diario de Kliff (14º Septumbre), crónicas de El Umbral («potencias») y preguntas abiertas. Las etiquetas del mapa del juego («Eastern/Western Republic») se conservan solo como referencia.

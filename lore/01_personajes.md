@@ -27,6 +27,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Apariencia (según Unkas, BORRADOR):** alto, fuerte, pelo dorado y larga barba. Se describe a sí mismo como paria refugiado en una cueva mohosa antes de fundar Gapaopolis; habla de un dios, GAPA.
 - **Apellido:** Paellus.
 - **[CANON]** Kliff **funda Gapaopolis**, la ciudad de GAPA, y venera a GAPA, un dios (ver [`06_mitologia.md`](06_mitologia.md)). Su facción también se llama GAPA (nombre sujeto a cambio; ver [`02_facciones.md`](02_facciones.md)).
+- **[CANON]** Sospecha lo de Tarylla y el esqueleto sombrío, sin tener certeza.
 - **[BORRADOR]** Es culto, aunque puede cometer erratas al escribir. Niega la niebla ante Tarylla. Vio en persona las abominaciones de carne del primer invierno, pero no ha visto zombis y desconoce el alcance de las anomalías. No sabe nada del pasado de Zorro.
 - Edad, motivaciones profundas, relaciones, trayectoria: Por definir.
 - **Vínculo con los fallecidos (BORRADOR, según el jugador):** Kliff convivió con [Kaelen](#kaelen), [Liry](#liry) y [Ozan](#ozan); verlos saqueados lo desestabiliza.
@@ -37,6 +38,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Rol:** Segunda al mando.
 - **Oficios:** Médica principal, cocinera, consejera del grupo. Es la mejor cocinera de la colonia, con mucha diferencia.
 - **Nombre completo (BORRADOR):** Unkas «de la tormenta». Creció en refugios de cuevas; fue forzada a salir; conoció a Kliff al salvarla este de un animal salvaje. Se unió «no por las razones más humildes»: fue una huida.
+- **[CANON]** Está totalmente desconcertada ante Kliff.
 - **[CANON]** Segunda en llegar a Gapaopolis. Es una **Exiliada**: procede de las montañas que los Ixthar tomaron en la invasión del 5500 (ver [`02_facciones.md`](02_facciones.md)), y se unió a Kliff huyendo de ella.
 - **[BORRADOR]** Se une a Kliff en el 5500, tras separarse de su grupo y viajar en dirección opuesta a la de Gapaopolis. No recuerda con exactitud lo que vio la noche del primer invierno.
 - Documentos: [Historia de Unkas](04_personales/5501-00-00_nota_unkas_historia-de-unkas.md), [Unkas II](04_personales/5501-00-00_nota_unkas_unkas-ii.md).
@@ -109,7 +111,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **[CANON]** Llegó a Gapaopolis junto a Kaelen, después de Ina.
 - Su tumba apareció saqueada y vacía (15º Difebrero 5501).
 - Kliff convivió con ella (BORRADOR).
-- Causa y fecha exacta de la muerte, papel en la colonia: Por definir.
+- **[CANON]** Murió por la peste. Fecha exacta y papel en la colonia: Por definir.
 
 ### Kaelen
 - **Situación:** Fallecida · **[CANON]** Es una persona distinta de Liry. Los textos de Tarylla la sitúan herida en el combate contra el esqueleto sombrío y la dan por «ahora difunta» (BORRADOR).
