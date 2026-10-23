@@ -120,7 +120,7 @@ Sabia que sabe más de lo que dice, pero, me sorpende que conozca hasta el nombr
 
 ¡Han terminado la muralla nueva! La grande, la que ahora encierra el huerto y la granja con una dignidad que no he visto ni en mis plantas favoritas.
 
-Mi conclusión científica: hemos construido una fortaleza para proteger tomates. Por un lado me siento halagada: mis cultivos viven mejor protegidos que yo. Zhethe ya tiene su propia choza junto a la puerta, para vigilar por si vienen visitas. Yo, un barracón compartido.
+Mi conclusión científica: hemos construido una fortaleza para proteger tomates. Por un lado me siento halagada, mis cultivos viven mejor que yo. Zhethe ya tiene su propia choza junto a la puerta, para vigilar por si vienen visitas. Yo, un barracón compartido.
 
 Kliff ahora pasea por lo alto de la muralla mirando hacia DENTRO. ¡Hacia dentro! Supongo que vigila que nadie robe tomates. Hay personas que nacen para liderar.
 
@@ -128,11 +128,11 @@ Y en el resto de noticias, la vida en Gapaopolis sigue su curso normal.
 
 Tarylla ha salido al sol. A plena luz. Caminando. Sin derretirse. Me ha costado procesarlo.
 
-Además, hoy se pasea por los barracones con una estaca gigante, dando golpecitos a los muebles con mucha concentración. Toc. Toc. Toc. A veces se queda quieta, escuchando, como si esperase que un taburete le respondiera. Totalmente usual. Le he preguntado y ha dicho «control de calidad». Ahí no he insistido. En el sitio del que vengo había un oficio entero para eso, con formularios, pero nadie usaba una estaca.
+Además, hoy se pasea por los barracones con una estaca gigante, dando golpecitos a los muebles con mucha concentración. Toc Toc Toc. A veces se queda quieta, escuchando, como si esperase que un taburete le respondiera. Totalmente usual. Le he preguntado y ha dicho "control de calidad". Ahí no he insistido. En el sitio del que vengo había un oficio entero para eso, con formularios, pero nadie usaba una estaca.
 
-Resumen del día: una muralla para proteger tomates, un líder que mira hacia dentro y una investigadora que interroga a los taburetes. Y yo, que por fin investigaba a ratos, tengo la sensación de que pronto me devolverán al huerto. A cuidar tomates. Dentro de la muralla preciosa.
+Resumen del día: una muralla para proteger tomates, un líder que mira hacia dentro y una investigadora que interroga a los taburetes. Y yo, que por fin investigaba a ratos, tengo la sensación de que pronto me devolverán al huerto. A cuidar tomates. Dentro de la muralla.
 
-Eso sí, un muro precioso.
+Eso sí, una muralla preciosa.
 
 Atentamente, Zorro~
 
