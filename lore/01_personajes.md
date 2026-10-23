@@ -22,13 +22,18 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Líder de la colonia.
 - **Oficios:** Guerrero, constructor, artesano/fabricador. Hábil en casi todo.
-- Edad, origen, voz, motivaciones, relaciones, trayectoria: Por definir.
+- **Apariencia (según Unkas, BORRADOR):** alto, fuerte, pelo dorado y larga barba. Se describe a sí mismo como paria refugiado en una cueva mohosa antes de fundar Gapaopolis; habla de un dios, GAPA.
+- **Apellido:** Paellus.
+- Edad, motivaciones profundas, relaciones, trayectoria: Por definir.
+- Documentos: [Diario de Kliff](04_personales/5501-00-00_diario_kliff_secuelas-del-invierno.md).
 
 ### Unkas
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Segunda al mando.
 - **Oficios:** Médica principal, cocinera, consejera del grupo.
-- Edad, origen, voz, motivaciones, relaciones, trayectoria: Por definir.
+- **Nombre completo (BORRADOR):** Unkas «de la tormenta». Creció en refugios de cuevas; fue forzada a salir; conoció a Kliff al salvarla este de un animal salvaje. Se unió «no por las razones más humildes» (sin explicar).
+- Documentos: [Historia de Unkas](04_personales/5500-00-00_nota_unkas_historia-de-unkas.md), [Unkas II](04_personales/5501-00-00_nota_unkas_unkas-ii.md).
+- Edad, motivaciones profundas, relaciones, trayectoria: Por definir.
 
 ### Ina
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
@@ -42,6 +47,7 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 - **Rol:** Mujer enigmática con trasfondo ligado a El Imperio.
 - **Oficios:** Investigadora paranormal, minera.
 - ⚠️ Su pasado imperial es una **zona de cambio posible** (ver [`_registro_retcons.md`](_registro_retcons.md)); no consolidar sin aprobación del jugador.
+- Documentos: [Notas #1–#5](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md), [Sueño](04_personales/5501-00-00_nota_tarylla_sueno-de-tarylla.md).
 - Edad, origen concreto, voz, motivaciones, secretos, trayectoria: Por definir.
 
 ### Zorro
@@ -49,13 +55,16 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 - **Rol:** Chica joven procedente de una civilización muy avanzada.
 - **Oficios:** Investigadora, agricultora, aprendiz de medicina.
 - **Límite de conocimiento:** posee conocimientos avanzados (ver [`09_tecnologia.md`](09_tecnologia.md)).
+- **Datos de los textos (BORRADOR):** 20 años; huérfana según Kliff; se unió en Junligosto del 5501; grafía «Zhenthe» para Zhethe en sus textos.
+- Documentos: [Quejas y relatos](04_personales/5501-00-00_diario_zorro_quejas-y-relatos.md).
 - Edad, origen concreto, voz, motivaciones, relaciones, trayectoria: Por definir.
 
 ### Zhethe
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Guardabosques y cazador solitario.
 - **Oficios:** Cuidado principal de animales y defensa forestal.
-- Edad, origen, voz, motivaciones, relaciones, trayectoria: Por definir.
+- **Datos de los textos (BORRADOR):** cazador único durante el invierno; Kliff lo cree conspirando con Unkas; Zorro los ve besándose en el Templo.
+- Edad, origen, voz, motivaciones, trayectoria: Por definir.
 
 ---
 
@@ -65,7 +74,8 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 - **Estado de la ficha:** BORRADOR · **Situación:** Ausente (fuera de la colonia)
 - **Rol:** Abuelo amado por la colonia.
 - **Oficios:** Antiguo cuidador de animales.
-- Motivo y destino de su ausencia, voz, relaciones: Por definir.
+- **Datos de los textos (BORRADOR):** a comienzos de otoño del 5501 se marchó con tres cabezas de ganado a un rancho abandonado en una pradera al este; Kliff lo vive como traición, la carta de Yuld dice que se va para no ser una carga.
+- Documentos: [Sacrificio de Yuld](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md).
 
 ---
 
@@ -87,7 +97,7 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 ## Recién llegados
 
 ### Lexington
-- **Situación:** Recién llegado · Trasfondo por definir.
+- **Situación:** Recién llegado · Se une el 11º de Septumbre del 5501: «experimentado minero obsesionado con las rocas» (BORRADOR).
 
 ### Krosswynd
 - **Situación:** Recién llegado · Trasfondo por definir.
