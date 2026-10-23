@@ -76,6 +76,7 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 - **Estado de la ficha:** BORRADOR · **Situación:** Ausente (fuera de la colonia)
 - **Rol:** Abuelo amado por la colonia.
 - **Oficios:** Antiguo cuidador de animales.
+- **Defensa del rancho (BORRADOR):** si algún asaltante o bandido ataca su rancho, responderá con una lluvia de flechas; no amenaza a Gapaopolis ni suministra flechas.
 - **Datos de los textos (BORRADOR):** a comienzos de otoño del 5501 se marchó con tres cabezas de ganado a un rancho abandonado en una pradera al este; Kliff lo vive como traición, la carta de Yuld dice que se va para no ser una carga.
 - Documentos: [Sacrificio de Yuld](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md).
 

@@ -35,4 +35,5 @@ Podata, disculpah la letra.
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal; la ortografía es la voz del personaje, no se corrige).
+- Aclarado por el jugador: la «yubia de flecha» (lluvia de flechas) del final significa que, si algún asaltante o bandido intenta atacar su rancho, Yuld responderá con una lluvia de flechas. No es una amenaza contra Gapaopolis ni una promesa de suministrar flechas a la colonia.
 - Confirmado por el jugador: nadie ha leído esta carta; es «material perdido». Por eso Kliff habla de «traición» y dice no entender la marcha (ironía dramática: el lector sabe más que los colonos).
