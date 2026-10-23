@@ -19,10 +19,10 @@ _Fecha de partida:_ Por definir.
 
 | Evento | Detalle (según el jugador) | Adaptación |
 |---|---|---|
-| Llegada de dos colonos | [Lexington](01_personajes.md#lexington) y [Krosswynd](01_personajes.md#krosswynd). | Pendiente (trasfondo por definir) |
+| Llegada de dos colonos | [Lexington](01_personajes.md#lexington) y [Krosswynd](01_personajes.md#krosswynd). | Pendiente (el juego los puso en la partida; el lore se ajustará para encajarlos) |
 | Pareja | [Kliff](01_personajes.md#kliff) y [Zorro](01_personajes.md#zorro) se han hecho pareja. | Aplazado |
 | Embarazo | Zorro espera un hijo de Kliff. | **Aplazado: no adaptar hasta MUCHO MÁS TARDE.** |
 | Embarazo | [Zhethe](01_personajes.md#zhethe) y [Unkas](01_personajes.md#unkas) esperan un hijo (no son pareja). | **Aplazado: no adaptar por ahora.** |
-| Investigación | Descubiertos: *penicam* (nombre tal como lo escribió el jugador; confirmar), nuevas camas, retretes, «etc.». | Pendiente (ver [`09_tecnologia.md`](09_tecnologia.md)) |
+| Investigación | Descubiertos: *pemmican* (la comida de viaje de RimWorld), nuevas camas, retretes, «etc.». | Pendiente (ver [`09_tecnologia.md`](09_tecnologia.md)) |
 
 > Los eventos `Aplazado` no deben aparecer en bitácoras, cartas ni fichas hasta que el jugador lo indique.

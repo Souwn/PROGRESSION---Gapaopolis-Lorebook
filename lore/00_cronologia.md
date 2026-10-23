@@ -18,14 +18,16 @@ Estados de canon y formato de fechas: ver [`_convenciones.md`](_convenciones.md)
 | Septumbre | Otoño | CANON |
 | Difebrero | Invierno | CANON |
 
-  **[CANON]** El año **empieza en primavera** (Marzimayo) y termina en invierno (Difebrero). Equivalencia con RimWorld: Por definir.
-  **[BORRADOR]** Los 4 meses de 15 días coinciden con los quadrums del juego. En los nombres de archivo, el mes va de `01` a `04` (1 = Marzimayo … 4 = Difebrero) y el día de `01` a `15`.
+  **[CANON]** El año **empieza en primavera** (Marzimayo) y termina en invierno (Difebrero). Los 4 meses de 15 días son los quadrums de RimWorld, uno por estación (Aprimay, Jugust, Septober y Decembary en el juego).
+  **[CANON]** La partida, y con ella el calendario, comienza el **1º de Marzimayo del 5500**. El «día de hoy» es el día de la partida en que se encuentra el jugador.
+  En los nombres de archivo, el mes va de `01` a `04` (1 = Marzimayo … 4 = Difebrero) y el día de `01` a `15`.
 
 ## Periodos
 
 | Periodo | Rango | Resumen | Estado |
 |---|---|---|---|
-| Pre-5500 | Hasta el 5500 | Por definir | Por definir |
+| Pre-5500 | Antes del 5500 | Por definir | Por definir |
+| Año 5500 | Desde el 1º de Marzimayo del 5500 (inicio de la partida) | Comienza la historia de la colonia; termina con el invierno devastador. | **[CANON]** el inicio |
 | Invierno del 5500 | Difebrero del 5500 | Peste, hambruna, frío y niebla con criaturas: el invierno devastador que casi acaba con la colonia. Detalles por definir. | **[CANON]** el año; detalles por definir |
 | Presente / registro oficial | 5501 en adelante | Se adopta la escritura en la colonia (diarios y notas desde Marzimayo del 5501); bitácoras oficiales aún sin redactar. | BORRADOR |
 
@@ -46,12 +48,25 @@ _Por definir._ Lo único escrito: la «Crónica secreta VII» de El Umbral (ver 
 - **[BORRADOR]** La escritura se adopta en la colonia en 5501: las notas personales empiezan ese año (jugador). Unkas se unió en 5500.
 - Los textos del 5501 conservados hasta ahora son diarios y notas personales (ver [`04_personales`](04_personales/)); aún no hay bitácoras oficiales.
 
+## Orden de llegada a Gapaopolis
+
+**[CANON]** Los primeros habitantes llegaron en este orden:
+
+1. Kliff
+2. Unkas
+3. Ina
+4. Kaelen y Liry (juntas)
+5. Ozan
+6. Tarylla (la séptima en unirse)
+
+Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Septumbre del 5501). El lugar de Yuld, Zhethe y Krosswynd en este orden: Por definir.
+
 ## Orden cronológico del contenido de las notas
 
 **[CANON]** Orden en que ocurre **lo que cuentan** los textos conservados (no el orden en que se escribieron). Enlazado desde [`03_bitacoras`](03_bitacoras/README.md) y [`04_personales`](04_personales/README.md).
 
 **Excepciones:**
-- Las crónicas de El Umbral ([`05_biblioteca_externa`](05_biblioteca_externa/README.md)) suelen ser anteriores incluso a la colonia.
+- Las crónicas de El Umbral ([`05_biblioteca_externa`](05_biblioteca_externa/README.md)) suelen ser anteriores incluso a la colonia. La crónica «VDI» (5501) es posterior; menciona la invasión de los Ixthar, que ocurre en el 5500 y está asociada a Unkas.
 - El diario de Kliff abarca todo el primer año; sus entradas se reparten por la lista.
 
 | # | Texto | Qué cuenta |
@@ -82,8 +97,10 @@ _Por definir._ Lo único escrito: la «Crónica secreta VII» de El Umbral (ver 
 
 | Fecha in-world | Evento | Personajes | Fuente (documento) | Estado |
 |---|---|---|---|---|
+| 1º Marzimayo 5500 | Comienza la partida | — | Jugador (chat) | **CANON** |
 | 5500 (derivado) | Kliff funda Gapaopolis, ciudad de GAPA (fecha exacta por definir) | Kliff | Jugador (chat); Diario de Kliff | **CANON** el hecho; la fecha es BORRADOR |
 | 5500 | Unkas, separada de su grupo, es salvada por Kliff y se une a él | Unkas, Kliff | [Historia de Unkas](04_personales/5501-00-00_nota_unkas_historia-de-unkas.md); jugador | BORRADOR |
+| 5500 | Invasión de los Ixthar a las montañas (mencionada en la crónica «VDI», posterior), asociada a Unkas | Unkas, Ixthar | [Crónica de las naciones conocidas](05_biblioteca_externa/5501-00-00_cronica_el-umbral_naciones-conocidas.md); jugador | **CANON** el año |
 | Difebrero 5500 | Invierno devastador: peste, hambruna y frío; mueren animales y colonos | Colonia | Kliff, Tarylla #1, carta de Yuld; jugador | **CANON** el año |
 | Difebrero 5500 | Muere Liry, una niña | Liry | Jugador (chat) | BORRADOR |
 | 5500 | Primera niebla (antes del invierno) y segunda niebla (en pleno invierno): aberración y esqueleto sombrío | Kliff, Tarylla, Ina, Unkas, Kaelen | [Notas de Tarylla](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md) | BORRADOR |
@@ -106,8 +123,8 @@ _Por definir._ Lo único escrito: la «Crónica secreta VII» de El Umbral (ver 
 
 ## Conflictos y dudas cronológicas abiertas
 
-- La crónica de El Umbral de 5501 («VDI») es posterior a la fundación de la colonia, aunque las crónicas de El Umbral «suelen ser anteriores a la colonia».
 - (anotar aquí cualquier incoherencia detectada para resolverla con el jugador)
-- **Orden cronológico absoluto («meta») de todos los eventos más allá de las notas:** pendiente. Los eventos con las rocas (el mímico) ocurrieron «mucho antes» de la llegada de Lexington.
+- Los eventos con las rocas (el mímico) ocurrieron «mucho antes» de la llegada de Lexington.
 - **Fecha exacta de la fundación de Gapaopolis y de la llegada de Tarylla, Ina, Ozan, Liry y Kaelen:** Por definir.
-- **Fecha de inicio de la partida y «día de hoy» in-world:** Por definir (ver `_preguntas_abiertas.md`).
+- **Coincidencia de la fundación con el inicio de la partida (1º de Marzimayo del 5500):** Por definir.
+- **Lugar de Yuld, Zhethe y Krosswynd en el orden de llegada:** Por definir.

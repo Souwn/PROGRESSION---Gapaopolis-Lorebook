@@ -10,19 +10,8 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 
 | # | Pregunta | Afecta a | Origen |
 |---|---|---|---|
-| 1 | ¿Qué es exactamente el «penicam» (¿penoxicilina u otro objeto del modpack)? ¿Cómo se manifiesta in-world? | [`09_tecnologia.md`](09_tecnologia.md) | Reporte 1 |
-| 2 | ¿Cuándo empieza la partida en el calendario in-world (año, mes, día)? ¿Qué día in-world es hoy? ¿Qué mes de RimWorld equivale a cada uno de Marzimayo, Junligosto, Septumbre y Difebrero? | [`00_cronologia.md`](00_cronologia.md) | Calendario |
-| 3 | ¿De dónde vienen Lexington y Krosswynd, y cuándo y cómo llegaron? (De momento, un minero y un granjero sin lore definido.) | [`01_personajes.md`](01_personajes.md) | Reporte 1 |
-| 4 | ¿Cómo empezó la colonia antes del invierno del 5500? Sabemos que Kliff la funda y que Unkas se une en 5500; faltan fechas y la llegada de Tarylla, Ina, Ozan, Liry y Kaelen. | [`00_cronologia.md`](00_cronologia.md) | Hilo *Meta* |
-| 5 | El orden cronológico absoluto («meta») de todos los eventos, que el jugador prometió pasar. | [`00_cronologia.md`](00_cronologia.md) | Hilo *Opinión* |
-| 6 | ¿Es «Invierno del 5500» el nombre definitivo del periodo? Las instrucciones de proyecto del jugador aún dicen «Invierno del 5501». | [`00_cronologia.md`](00_cronologia.md), [`CLAUDE.md`](CLAUDE.md) | Revisión de respuestas |
-| 7 | En el mapa del mundo hay una marca roja del Imperio pegada a la de GAPA. ¿Es un puesto imperial real y cercano, o una anotación del jugador? | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) | Captura 03 |
-| 8 | En la meta de Kliff el jugador escribió «técnicamente inmoral». ¿Quiere decir inmortal? | [`_meta_autor.md`](_meta_autor.md) | Hilo *Opinión* |
-| 9 | En la captura del invierno del 5500, tres colonos están marcados «MISS». ¿Qué significa? Y en la del lago, ¿qué animales son los de «COWS?»? | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) | Capturas 04 y 05 |
-| 10 | En el retrato figura «Zorro» Piaroa. ¿«Zorro» es un apodo y Piaroa un nombre o apellido? | [`01_personajes.md`](01_personajes.md) | Captura 02 |
-| 11 | ¿Cuál de las salas de la captura 06 es el templo de Kliff? | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) | Captura 06 |
-| 12 | «El Enjambre de Sorne» (donde los Ixthar ocultan sus secretos): ¿tiene relación con «Linaje Sorne» del mapa? | [`02_facciones.md`](02_facciones.md) | Hilo *Opinión* |
-| 13 | La crónica de El Umbral «VDI» es de 5501, posterior a la fundación de la colonia, pero las crónicas de El Umbral «suelen ser anteriores a la colonia». ¿Cómo encaja? | [`00_cronologia.md`](00_cronologia.md) | Orden cronológico |
+| 1 | ¿La fundación de Gapaopolis coincide con el inicio de la partida (1º de Marzimayo del 5500)? ¿En qué fechas llegaron los demás fundadores? | [`00_cronologia.md`](00_cronologia.md) | Orden de llegada |
+| 2 | ¿Dónde encajan Yuld, Zhethe y Krosswynd en el orden de llegada (Kliff, Unkas, Ina, Kaelen y Liry, Ozan, Tarylla)? | [`00_cronologia.md`](00_cronologia.md) | Orden de llegada |
 
 ## Resueltas
 
@@ -37,3 +26,16 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R7 | ¿Quién ha leído la carta de Yuld? | Nadie; es material perdido. | [`04_personales`](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md) |
 | R8 | ¿Qué es GAPA? | Un dios que Kliff venera; Gapaopolis es la ciudad de GAPA, fundada por Kliff; la facción de Kliff también se llama GAPA. | [`06_mitologia.md`](06_mitologia.md), [`02_facciones.md`](02_facciones.md) |
 | R9 | ¿Dónde está Gapaopolis? | En bosque denso cerca de montañas, entre dos de ellas, muy cerca de la colonia de los Ixthar. | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
+| R10 | ¿Cómo encaja la crónica «VDI» (5501), posterior a la colonia, con que las de El Umbral suelen ser anteriores? | Es posterior; menciona la invasión de los Ixthar, que ocurre en el 5500 y está asociada a Unkas. | [`00_cronologia.md`](00_cronologia.md), [`05_biblioteca_externa`](05_biblioteca_externa/README.md) |
+| R11 | ¿Es «Invierno del 5500» el nombre definitivo? | Sí: el invierno catastrófico previo a la historia es del 5500. | [`00_cronologia.md`](00_cronologia.md) |
+| R12 | Orden de llegada a Gapaopolis | Kliff, Unkas, Ina, Kaelen y Liry, Ozan, Tarylla (la séptima). | [`00_cronologia.md`](00_cronologia.md), [`01_personajes.md`](01_personajes.md) |
+| R13 | ¿Cuándo empieza la partida y qué día es «hoy»? | El 1º de Marzimayo del 5500; «hoy» es el día de la partida en que está el jugador. Los meses son los quadrums de RimWorld. | [`00_cronologia.md`](00_cronologia.md) |
+| R14 | ¿De dónde vienen Lexington y Krosswynd? | Se desconoce: llegan cuando el juego los pone; el lore se ajusta después para encajarlos. | [`01_personajes.md`](01_personajes.md), [`_meta_autor.md`](_meta_autor.md) |
+| R15 | ¿Qué es el «penicam»? | Pemmican, la comida de viaje de larga duración de RimWorld; el lore corre sobre RimWorld. | [`09_tecnologia.md`](09_tecnologia.md) |
+| R16 | ¿«Técnicamente inmoral»? | Inmortal. | [`_meta_autor.md`](_meta_autor.md) |
+| R17 | ¿«Zorro» Piaroa? | «Zorro» es el apodo y Piaroa el nombre (puede cambiar). | [`01_personajes.md`](01_personajes.md) |
+| R18 | ¿«El Enjambre de Sorne» y «Linaje Sorne»? | Están relacionados. Los Ixthar serán como zerg o tiránidos con aire de dios antiguo (sin cerrar). | [`_meta_autor.md`](_meta_autor.md) |
+| R19 | ¿La marca roja del Imperio junto a GAPA? | Es una misión del juego: se ignora. | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
+| R20 | ¿Qué sala es el templo de Kliff? | Dentro de la montaña, sobre el almacén: sala en forma de cruz con una marca de texto rojo. | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
+| R21 | ¿«MISS» y «COWS?» en las capturas? | MISS = personajes que han muerto; COWS = donde las vacas ya no estaban porque Yuld se las llevó. | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
+| R22 | Orden cronológico absoluto de los eventos | Es el de las notas, ya fijado como CANON. | [`00_cronologia.md`](00_cronologia.md) |

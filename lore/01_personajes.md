@@ -22,6 +22,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 ### Kliff
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Líder de la colonia.
+- **[CANON]** Primer habitante de Gapaopolis (ver el orden de llegada en [`00_cronologia.md`](00_cronologia.md#orden-de-llegada-a-gapaopolis)).
 - **Oficios:** Guerrero, constructor, artesano/fabricador. Hábil en casi todo.
 - **Apariencia (según Unkas, BORRADOR):** alto, fuerte, pelo dorado y larga barba. Se describe a sí mismo como paria refugiado en una cueva mohosa antes de fundar Gapaopolis; habla de un dios, GAPA.
 - **Apellido:** Paellus.
@@ -36,6 +37,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Rol:** Segunda al mando.
 - **Oficios:** Médica principal, cocinera, consejera del grupo.
 - **Nombre completo (BORRADOR):** Unkas «de la tormenta». Creció en refugios de cuevas; fue forzada a salir; conoció a Kliff al salvarla este de un animal salvaje. Se unió «no por las razones más humildes» (sin explicar).
+- **[CANON]** Segunda en llegar a Gapaopolis. La invasión de los Ixthar a las montañas (5500) está asociada a ella; el vínculo exacto está por definir.
 - **[BORRADOR]** Se une a Kliff en el 5500, tras separarse de su grupo y viajar en dirección opuesta a la de Gapaopolis. No recuerda con exactitud lo que vio la noche del primer invierno.
 - Documentos: [Historia de Unkas](04_personales/5501-00-00_nota_unkas_historia-de-unkas.md), [Unkas II](04_personales/5501-00-00_nota_unkas_unkas-ii.md).
 - Edad, motivaciones profundas, relaciones, trayectoria: Por definir.
@@ -45,6 +47,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Rol:** Anciana de pocas palabras.
 - **Oficios:** Constructora, minera, leñadora.
 - **Límite de conocimiento:** no posee saberes avanzados (contraste con Zorro).
+- **[CANON]** Tercera en llegar a Gapaopolis.
 - **[BORRADOR]** Mujer de pocas palabras y gran lealtad (los demás la oyen «gruñir»). No recuerda con exactitud lo que vio la noche del primer invierno.
 - Edad, origen, voz, motivaciones, relaciones, trayectoria: Por definir.
 
@@ -52,6 +55,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Mujer enigmática con trasfondo ligado a El Imperio.
 - **Oficios:** Investigadora paranormal, minera.
+- **[CANON]** Séptima en unirse a Gapaopolis, después de Kliff, Unkas, Ina, Kaelen, Liry y Ozan.
 - ⚠️ Su pasado imperial es una **zona de cambio posible** (ver [`_registro_retcons.md`](_registro_retcons.md)); no consolidar sin aprobación del jugador.
 - **[BORRADOR]** Investiga las anomalías (niebla, esqueletos sombríos, el mímico) para defender el refugio. El invierno del 5500 la dejó traumatizada; su manera de expresarlo es querer dar la voz de alarma sobre la amenaza, algo que Kliff no hace. Mantiene en secreto sus experimentos. Antes ayudaba a Ina con las excavaciones de la montaña y estudiaba en su tiempo libre; hacia el final del otoño del 5501 se acerca a Zorro y colaboran. Conoce a los esqueletos sombríos y al mímico.
 - Documentos: [Notas #1–#5](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md), [Sueño](04_personales/5501-00-00_nota_tarylla_sueno-de-tarylla.md).
@@ -60,9 +64,10 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 ### Zorro
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Chica joven procedente de una civilización muy avanzada.
+- **[CANON]** «Zorro» es su apodo; su nombre es Piaroa (posiblemente cambie en el futuro, según el jugador).
 - **Oficios:** Investigadora, agricultora, aprendiz de medicina.
 - **Límite de conocimiento:** posee conocimientos avanzados (ver [`09_tecnologia.md`](09_tecnologia.md)).
-- **Datos de los textos (BORRADOR):** 20 años; huérfana según Kliff; se unió en Junligosto del 5501. En el retrato de la colonia figura como «Zorro» Piaroa (¿«Zorro» es un apodo?; por confirmar). Estaba en los huertos; desde el final del otoño del 5501 colabora con Tarylla. Kliff no conoce su pasado.
+- **Datos de los textos (BORRADOR):** 20 años; huérfana según Kliff; se unió en Junligosto del 5501. Estaba en los huertos; desde el final del otoño del 5501 colabora con Tarylla. Kliff no conoce su pasado.
 - Documentos: [Quejas y relatos](04_personales/5501-00-00_diario_zorro_quejas-y-relatos.md).
 - Edad, origen concreto, voz, motivaciones, relaciones, trayectoria: Por definir.
 
@@ -93,17 +98,19 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 ## Fallecidos
 
 ### Ozan
-- **Situación:** Fallecido/a · Su tumba (con las de Kaelen y Liry) apareció saqueada y vacía el 15º de Difebrero del 5501 (BORRADOR). Kliff convivió con este personaje (BORRADOR). Todo lo demás (causa, fecha, papel en la colonia, género): Por definir.
+- **Situación:** Fallecido/a · **[CANON]** Sexto en llegar a Gapaopolis, tras Kaelen y Liry. Su tumba (con las de Kaelen y Liry) apareció saqueada y vacía el 15º de Difebrero del 5501 (BORRADOR). Kliff convivió con este personaje (BORRADOR). Todo lo demás (causa, fecha, papel en la colonia, género): Por definir.
 
 ### Liry
 - **Situación:** Fallecida · Una niña que murió el invierno anterior (BORRADOR, según el jugador). Es un personaje distinto de Kaelen.
 - Zhethe describió a Kliff un zombi que encaja a la perfección con la apariencia de Liry (BORRADOR).
+- **[CANON]** Llegó a Gapaopolis junto a Kaelen, después de Ina.
 - Su tumba apareció saqueada y vacía (15º Difebrero 5501).
 - Kliff convivió con ella (BORRADOR).
 - Causa y fecha exacta de la muerte, papel en la colonia: Por definir.
 
 ### Kaelen
 - **Situación:** Fallecida · **[CANON]** Es una persona distinta de Liry. Los textos de Tarylla la sitúan herida en el combate contra el esqueleto sombrío y la dan por «ahora difunta» (BORRADOR).
+- **[CANON]** Llegó a Gapaopolis junto a Liry, después de Ina.
 - Su tumba apareció saqueada y vacía (15º Difebrero 5501).
 - Kliff convivió con ella (BORRADOR).
 - Causa y fecha exacta de la muerte, papel en la colonia: Por definir.
@@ -115,10 +122,10 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 ## Recién llegados
 
 ### Lexington
-- **Situación:** Recién llegado · Se une el 11º de Septumbre del 5501: «experimentado minero obsesionado con las rocas» (BORRADOR). Por ahora es un minero sin lore más definido.
+- **Situación:** Recién llegado · Se une el 11º de Septumbre del 5501: «experimentado minero obsesionado con las rocas» (BORRADOR). Por ahora es un minero sin lore más definido; su origen está por definir.
 
 ### Krosswynd
-- **Situación:** Recién llegado · Por ahora es un granjero sin lore más definido. Trasfondo por definir.
+- **Situación:** Recién llegado · Por ahora es un granjero sin lore más definido. Origen y llegada: Por definir.
 
 ---
 

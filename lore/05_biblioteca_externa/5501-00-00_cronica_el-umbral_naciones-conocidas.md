@@ -60,4 +60,5 @@ Conviene recordar, por tanto, que la fuerza puede imponer obediencia, pero no ga
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal).
-- Fecha: la cabecera «(VDI)» se lee como 5501 (numeración romana con millar).
+- Fecha: la cabecera «(VDI)» se lee como 5501 (numeración romana con millar). Es posterior a la fundación de la colonia.
+- La invasión de los Ixthar que menciona ocurre en el 5500 y está asociada a Unkas (jugador).

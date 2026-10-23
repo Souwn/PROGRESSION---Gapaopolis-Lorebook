@@ -45,7 +45,7 @@ Se mantienen todas en `01_personajes.md` mientras sean breves. Cuando una ficha 
 
 - El año de la historia se escribe con cuatro cifras: **5500**, **5501**.
 - Tres grandes periodos: **Pre-5500** · **Invierno del 5500** (el devastador) · **Presente / registro oficial posterior**.
-- Calendario `CANON`: 4 meses de 15 días (Marzimayo, Junligosto, Septumbre, Difebrero), uno por estación; el año empieza en primavera. En `AAAA-MM-DD`, `MM` va de `01` a `04` y `DD` de `01` a `15`. Detalles y equivalencia con RimWorld (por definir) en `00_cronologia.md`.
+- Calendario `CANON`: 4 meses de 15 días (Marzimayo, Junligosto, Septumbre, Difebrero), uno por estación; el año empieza en primavera. En `AAAA-MM-DD`, `MM` va de `01` a `04` y `DD` de `01` a `15`. Son los quadrums de RimWorld. La partida empieza el 1º de Marzimayo del 5500. Detalles en `00_cronologia.md`.
 - Distingue siempre **fecha in-world** de **fecha de la partida/real**; no las mezcles en el mismo campo.
 
 ## 4. Enlaces y referencias
