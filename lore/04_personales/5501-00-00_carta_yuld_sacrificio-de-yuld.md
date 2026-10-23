@@ -7,6 +7,7 @@ fecha_inworld: 5501-00-00   # «a comienzo del otoño» (Septumbre, según el re
 periodo: presente
 lugar: Gapaopolis (escrita antes de su marcha al rancho al este)
 estado_canon: BORRADOR
+notas_de_conocimiento: nadie en el mundo la ha leído (material perdido)
 conocimiento_del_narrador: Anciano cuidador de ganado, de habla rústica y con ortografía deficiente (rasgo intencional de su voz). Sobrevivió a la enfermedad del invierno anterior.
 referencias: [Yuld, Kliff, ganado, rancho abandonado]
 ---
@@ -34,4 +35,4 @@ Podata, disculpah la letra.
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal; la ortografía es la voz del personaje, no se corrige).
-- Detalle a decidir: ¿la leyó Kliff? En su diario del 1º de Septumbre habla de «traición» y de «no entender» la marcha.
+- Confirmado por el jugador: nadie ha leído esta carta; es «material perdido». Por eso Kliff habla de «traición» y dice no entender la marcha (ironía dramática: el lector sabe más que los colonos).

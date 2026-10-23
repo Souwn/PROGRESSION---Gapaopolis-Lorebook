@@ -9,16 +9,16 @@ Estados de canon y formato de fechas: ver [`_convenciones.md`](_convenciones.md)
 
 ## Calendario
 
-- **[BORRADOR]** Los textos usan **cuatro meses con nombre fusionado**, uno por estación, y días numerados con ordinal (`3º`):
+- **[CANON]** (fijado por el jugador) El año tiene **4 meses de 15 días**, cada uno asociado a una estación. Los días se escriben con ordinal (`3º`):
 
-| Mes (en los textos) | Estación inferida | Estado |
+| Mes | Estación | Estado |
 |---|---|---|
-| Marzimayo | Primavera | BORRADOR |
-| Junligosto | Verano | BORRADOR |
-| Septumbre | Otoño | BORRADOR |
-| Difebrero | Invierno | BORRADOR |
+| Marzimayo | Primavera | CANON |
+| Junligosto | Verano | CANON |
+| Septumbre | Otoño | CANON |
+| Difebrero | Invierno | CANON |
 
-  El día más alto que aparece es el 15º (15º de Difebrero = «último día del invierno»). Equivalencia exacta con RimWorld y mes en que cambia el año: Por definir.
+  Mes en que cambia el año (¿empieza en primavera?) y equivalencia con RimWorld: Por definir.
 
 ## Periodos
 
@@ -48,7 +48,7 @@ _Por definir._ Los textos del 5501 conservados hasta ahora son diarios y notas p
 |---|---|---|---|---|
 | 5500 (?) | Unkas abandona las cuevas, es salvada por Kliff y se queda con él | Unkas, Kliff | [Historia de Unkas](04_personales/5500-00-00_nota_unkas_historia-de-unkas.md) | BORRADOR |
 | Invierno anterior | Invierno devastador: peste, hambruna y frío; mueren animales y colonos | Colonia | Kliff, Tarylla #1, carta de Yuld | BORRADOR |
-| Invierno anterior | Primera niebla (antes del invierno) y segunda niebla (en pleno invierno): aberración y esqueleto sombrío | Kliff, Tarylla, Ina, Unkas, «Lilith» | [Notas de Tarylla](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md) | BORRADOR |
+| Invierno anterior | Primera niebla (antes del invierno) y segunda niebla (en pleno invierno): aberración y esqueleto sombrío | Kliff, Tarylla, Ina, Unkas, Kaelen | [Notas de Tarylla](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md) | BORRADOR |
 | 3º Marzimayo 5501 | Kliff empieza su diario en su «segundo año» en estas tierras | Kliff | [Diario de Kliff](04_personales/5501-00-00_diario_kliff_secuelas-del-invierno.md) | BORRADOR |
 | ~fin de Marzimayo–Junligosto 5501 | Zorro se une a la colonia | Zorro | Diario de Kliff (3º Junligosto) | BORRADOR |
 | 6º Junligosto 5501 | Kliff decide construir un templo en la montaña | Kliff | Diario de Kliff | BORRADOR |
@@ -60,13 +60,15 @@ _Por definir._ Los textos del 5501 conservados hasta ahora son diarios y notas p
 | 2º Difebrero 5501 | Comienza el invierno (-15 ºC a -2 ºC); Zorro y Tarylla empiezan a colaborar | Kliff, Zorro, Tarylla | Diario de Kliff | BORRADOR |
 | 11º Difebrero 5501 | Caja de madera que enfría (hongos y sal); sacrificio de ganado | Tarylla, Zorro, Kliff | Diario de Kliff | BORRADOR |
 | 13º Difebrero 5501 | Zhethe dice a Kliff «cosas imposibles»; Kliff prohíbe a Unkas hablar de ello | Kliff, Zhethe, Unkas | Diario de Kliff | BORRADOR |
-| 15º Difebrero 5501 | Kliff halla las tumbas saqueadas y vacías | Kliff | Diario de Kliff | BORRADOR |
+| 15º Difebrero 5501 | Kliff halla las tumbas saqueadas y vacías (de Kaelen, Liry y Ozan) | Kliff | Diario de Kliff; jugador | BORRADOR |
+| Invierno anterior | Muere Liry, una niña | Liry | Jugador (chat) | BORRADOR |
 
 ## Conflictos y dudas cronológicas abiertas
 
 - (anotar aquí cualquier incoherencia detectada para resolverla con el jugador)
 - **¿Cuándo ocurre exactamente el «invierno devastador»?** Kliff escribe el 3º de Marzimayo del 5501 sobre el invierno recién pasado, pero Difebrero 5501 aparece como el mes final del año. Pendiente de aclarar si el año cambia en invierno o en primavera, y si el invierno duro es el último del 5500 o el del 5501.
 - **«(5500) Historia de Unkas»:** dice «tan solo un año más tarde» de dejar las cuevas, y menciona plagas ya vividas; encaja con el «segundo año» de Kliff solo si la fecha se confirma.
-- **«Lilith» (Tarylla #1) vs. «Liry» (ficha de fallecidos):** ¿mismo personaje?
-- **Repúblicas:** la crónica de El Umbral pone La Liga en el Oeste y El Bastión en el Centro; Kliff anota que La Liga es la comunidad principal de La República Central.
+- ~~«Lilith» vs. «Liry»~~ **Resuelto:** el nombre canon es Kaelen; Liry es otro personaje.
+- ~~Repúblicas~~ **Resuelto:** Este = El Umbral, Central = La Liga del Valor, Oeste = El Bastión.
+- **Orden cronológico de los eventos con las rocas (Tarylla):** el jugador indica que ocurrieron «mucho antes» de la llegada de Lexington y ofrece dar el orden absoluto; pendiente. Las notas de Tarylla #1–#5 podrían no estar en orden de escritura/ocurrencia.
 - **Cabeceras «(VDI)» y «(VCDXCV)»:** notación por interpretar (¿5501 y 5495?).

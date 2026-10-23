@@ -64,6 +64,7 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 - **Rol:** Guardabosques y cazador solitario.
 - **Oficios:** Cuidado principal de animales y defensa forestal.
 - **Datos de los textos (BORRADOR):** cazador único durante el invierno; Kliff lo cree conspirando con Unkas; Zorro los ve besándose en el Templo.
+- Según el jugador, describió a Kliff un zombi que encaja con la «paraciencia» de Liry (por eso Kliff dice que sabe «cosas imposibles»). Ver [Liry](#liry).
 - Edad, origen, voz, motivaciones, trayectoria: Por definir.
 
 ---
@@ -82,15 +83,20 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 ## Fallecidos
 
 ### Ozan
-- **Situación:** Fallecido/a · Todo lo demás (causa, fecha, papel en la colonia): Por definir.
+- **Situación:** Fallecido/a · Su tumba (con las de Kaelen y Liry) apareció saqueada y vacía el 15º de Difebrero del 5501 (BORRADOR). Todo lo demás (causa, fecha, papel en la colonia, género): Por definir.
 
 ### Liry
-- **Situación:** Fallecido/a · Todo lo demás (causa, fecha, papel en la colonia): Por definir.
+- **Situación:** Fallecida · Una niña que murió el invierno anterior (BORRADOR, según el jugador). Es un personaje distinto de Kaelen.
+- Poseía una «paraciencia» (término del jugador, por definir): Zhethe describió a Kliff un zombi que encaja a la perfección con ella.
+- Su tumba apareció saqueada y vacía (15º Difebrero 5501).
+- Causa y fecha exacta de la muerte, papel en la colonia: Por definir.
 
 ### Kaelen
-- **Situación:** Fallecido/a · Todo lo demás (causa, fecha, papel en la colonia): Por definir.
+- **Situación:** Fallecida · **[CANON]** es el nombre definitivo del personaje que en el primer texto de Tarylla se llamaba «Lilith». Los textos la sitúan herida en el combate contra el esqueleto sombrío y la dan por «ahora difunta» (BORRADOR).
+- Su tumba apareció saqueada y vacía (15º Difebrero 5501).
+- Causa y fecha exacta de la muerte, papel en la colonia: Por definir.
 
-> Nota: no se ha indicado el género de Liry, Kaelen ni Ozan; al redactar, preguntar al jugador antes de asumirlo.
+> Nota: del género de Ozan no hay datos; preguntar antes de asumirlo. Liry es «una niña»; Kaelen aparece en femenino en el texto de Tarylla.
 
 ---
 

@@ -33,7 +33,7 @@ Así pues, el Imperio ejerce una supremacía incontestable, pero incomprendida: 
 
 Bajo la preeminencia imperial destacan tres repúblicas vanguardistas, protagonistas de buena parte de los asuntos políticos y militares del mundo.
 
-La República del Este, el Umbral, sobresale por su excelencia militar; la República Central, el Bastión, por su superioridad tecnológica; y la República del Oeste, la Liga, por su pujanza mercantil.
+La República del Este, el Umbral, sobresale por su potencia tecnológica y sus indagaciones en la magia; la República Central, la Liga del Valor, por su pujanza comercial y mercantil; y la República del Oeste, el Bastión, por su poderío militar y su maquinaria.
 
 Sus relaciones oscilan entre la cooperación y la rivalidad. Unidas cuando la conveniencia así lo exige, no vacilan en disputar influencia y supremacía, pudiendo recurrir al sabotaje cuando sus intereses divergen. Su concordia, por tanto, no nace de una lealtad inquebrantable, sino de un equilibrio de intereses siempre susceptible de quebranto.
 
@@ -60,4 +60,4 @@ Conviene recordar, por tanto, que la fuerza puede imponer obediencia, pero no ga
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal).
-- Posibles incoherencias a revisar: asignación de repúblicas (Este/Central/Oeste) frente a lo que Kliff anota el 14º de Septumbre del 5501 sobre La República Central y La Liga.
+- Corrección aprobada por el jugador: el texto original asignaba Umbral=militar (Este), Bastión=tecnología (Central) y Liga=mercantil (Oeste). El orden correcto es Este = El Umbral (tecnología y magia), Central = La Liga del Valor (comercio), Oeste = El Bastión (ejército y maquinaria); se ha reescrito ese párrafo. Es ahora coherente con el diario de Kliff (14º Septumbre).
