@@ -61,7 +61,7 @@ _Por definir._ Lo único escrito: la «Crónica secreta VII» de El Umbral (ver 
 7. Yuld
 8. Zhethe
 
-Zhethe llegó mucho más tarde que la muerte de Liry (Difebrero del 5500).
+Zhethe llegó mucho más tarde que la muerte de Liry (Difebrero del 5500) y poco antes que Zorro.
 
 Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Septumbre del 5501). Krosswynd es muy reciente y todavía no es canon oficial, por lo que no figura en este orden.
 

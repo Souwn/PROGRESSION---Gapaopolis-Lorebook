@@ -23,7 +23,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Líder de la colonia.
 - **[CANON]** Primer habitante de Gapaopolis (ver el orden de llegada en [`00_cronologia.md`](00_cronologia.md#orden-de-llegada-a-gapaopolis)).
-- **Oficios:** Guerrero, constructor, artesano/fabricador. Hábil en casi todo.
+- **Oficios:** Guerrero, constructor, artesano/fabricador. Hábil en casi todo. Es el segundo mejor cocinero de la colonia, muy por detrás de Unkas.
 - **Apariencia (según Unkas, BORRADOR):** alto, fuerte, pelo dorado y larga barba. Se describe a sí mismo como paria refugiado en una cueva mohosa antes de fundar Gapaopolis; habla de un dios, GAPA.
 - **Apellido:** Paellus.
 - **[CANON]** Kliff **funda Gapaopolis**, la ciudad de GAPA, y venera a GAPA, un dios (ver [`06_mitologia.md`](06_mitologia.md)). Su facción también se llama GAPA (nombre sujeto a cambio; ver [`02_facciones.md`](02_facciones.md)).
@@ -35,7 +35,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 ### Unkas
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Segunda al mando.
-- **Oficios:** Médica principal, cocinera, consejera del grupo.
+- **Oficios:** Médica principal, cocinera, consejera del grupo. Es la mejor cocinera de la colonia, con mucha diferencia.
 - **Nombre completo (BORRADOR):** Unkas «de la tormenta». Creció en refugios de cuevas; fue forzada a salir; conoció a Kliff al salvarla este de un animal salvaje. Se unió «no por las razones más humildes»: fue una huida.
 - **[CANON]** Segunda en llegar a Gapaopolis. Es una **Exiliada**: procede de las montañas que los Ixthar tomaron en la invasión del 5500 (ver [`02_facciones.md`](02_facciones.md)), y se unió a Kliff huyendo de ella.
 - **[BORRADOR]** Se une a Kliff en el 5500, tras separarse de su grupo y viajar en dirección opuesta a la de Gapaopolis. No recuerda con exactitud lo que vio la noche del primer invierno.
@@ -64,6 +64,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 ### Zorro
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Chica joven procedente de una civilización muy avanzada.
+- **[CANON]** Echa claramente de menos vivir en una civilización contemporánea a su conocimiento.
 - **[CANON]** «Zorro» es su apodo; su nombre es Piaroa (posiblemente cambie en el futuro, según el jugador).
 - **Oficios:** Investigadora, agricultora, aprendiz de medicina.
 - **Límite de conocimiento:** posee conocimientos avanzados (ver [`09_tecnologia.md`](09_tecnologia.md)).
@@ -74,7 +75,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 ### Zhethe
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual
 - **Rol:** Guardabosques y cazador solitario.
-- **[CANON]** Llegó a Gapaopolis después de Yuld, mucho más tarde que la muerte de Liry: no estaba cuando ella murió.
+- **[CANON]** Llegó a Gapaopolis después de Yuld, mucho más tarde que la muerte de Liry (no estaba cuando ella murió) y poco antes que Zorro.
 - **Oficios:** Cuidado principal de animales y defensa forestal.
 - **Datos de los textos (BORRADOR):** cazador único durante el invierno; Kliff lo cree conspirando con Unkas; Zorro los ve besándose en el Templo.
 - Según el jugador, describió a Kliff un zombi que encaja con la apariencia de Liry (por eso Kliff dice que sabe «cosas imposibles»). Ver [Liry](#liry).

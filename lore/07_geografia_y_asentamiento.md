@@ -18,6 +18,14 @@ El mapa, el bioma, los asentamientos y la base de la colonia.
 - **Fundación:** **[CANON]** La funda Kliff, en nombre de GAPA. Aproximadamente el 1º de Marzimayo del 5500, al inicio de la partida. Su origen es una cueva en la ladera de la montaña (captura 01).
 - **Distribución de la base:** **[BORRADOR]** Se ha excavado en la montaña: almacén, hospital, barracones y el templo de Kliff. Fuera hay una muralla, huertos con un lago cercano, un corral para animales y, aislada en la cara opuesta de la montaña, la cueva oculta de Tarylla. **[CANON]** El templo de Kliff está dentro de la montaña, encima del almacén: una sala de forma de cruz (`-|--`) con una pequeña marca de texto rojo en la captura 06. Más detalles por definir; ver las capturas 04 a 06.
 
+## Vida cotidiana
+- **[CANON]** Comida: rudimentaria; suelen comer carne pinchada en un palo.
+- **[CANON]** Cocina: Unkas es la mejor cocinera, con mucha diferencia; Kliff es el segundo mejor cocinero.
+- **[CANON]** Festejos, canciones y rituales: aún no tienen propios.
+- **[CANON]** Saludo: normal, sin fórmula propia.
+- **[CANON]** Animales: no hay un animal favorito; se crían asnos y ovejas.
+- **[CANON]** Lugar de reunión: el salón principal/comedor.
+
 ## Asentamientos y lugares externos
 | Lugar | Tipo | Relación con la colonia | Estado |
 |---|---|---|---|
