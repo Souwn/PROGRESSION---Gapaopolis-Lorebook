@@ -65,7 +65,7 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 - **Rol:** Guardabosques y cazador solitario.
 - **Oficios:** Cuidado principal de animales y defensa forestal.
 - **Datos de los textos (BORRADOR):** cazador único durante el invierno; Kliff lo cree conspirando con Unkas; Zorro los ve besándose en el Templo.
-- Según el jugador, describió a Kliff un zombi que encaja con la «paraciencia» de Liry (por eso Kliff dice que sabe «cosas imposibles»). Ver [Liry](#liry).
+- Según el jugador, describió a Kliff un zombi que encaja con la apariencia de Liry (por eso Kliff dice que sabe «cosas imposibles»). Ver [Liry](#liry).
 - Edad, origen, voz, motivaciones, trayectoria: Por definir.
 
 ---
@@ -88,7 +88,7 @@ Solo figura lo confirmado por el jugador; todo lo demás está `Por definir`.
 
 ### Liry
 - **Situación:** Fallecida · Una niña que murió el invierno anterior (BORRADOR, según el jugador). Es un personaje distinto de Kaelen.
-- Poseía una «paraciencia» (término del jugador, por definir): Zhethe describió a Kliff un zombi que encaja a la perfección con ella.
+- Zhethe describió a Kliff un zombi que encaja a la perfección con la apariencia de Liry (BORRADOR). Corrección del jugador: el término anterior, «paraciencia», era en realidad «apariencia»; Liry no tiene ningún don asociado.
 - Su tumba apareció saqueada y vacía (15º Difebrero 5501).
 - Kliff convivió con ella (BORRADOR).
 - Causa y fecha exacta de la muerte, papel en la colonia: Por definir.

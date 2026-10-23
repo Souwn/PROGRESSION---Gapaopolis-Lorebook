@@ -4,7 +4,7 @@ formato: nota
 autor: Tarylla
 destinatario: ninguno ("Querido diario...")
 fecha_inworld: 5501-00-00
-periodo: invierno-5501
+periodo: presente
 lugar: Gapaopolis (cueva oculta en la cara opuesta de la montaña)
 estado_canon: BORRADOR
 conocimiento_del_narrador: Investigadora paranormal. Sabe de la niebla y de las criaturas; oculta sus experimentos a Kliff. La nota #3 está perdida.
@@ -29,7 +29,7 @@ En este mundo ocurren cosas que no siempre podemos explicar, y si nos detenemos 
 
 Con ese pensamiento negacionista, deje pasar lo ocurrido, y lo olvidé. Pero en pleno invierno, mientras la mitad de nosotros estaba intentando sobrevivir a la peste, la hambruna y el frío, la niebla volvió a surgir. Esta vez Kliff, agotado y enfermo no pudo mantener la línea tan eficazmente fuera de las murallas, tuvo que replegarse, y pude observar lo que provenía del bosque, no eran bandidos, ni osos, era una aberración grotesca con excedentes extremidades humanas deformes anatómicamente mal situadas, y una resistencia inhumana.
 
-Tras detenerlo, mientras Kliff no se detuvo ni a recobrar el aliento, junto a Ina salió a la muralla comprobar y asegurar la zona, ante nosotros se manifestó de la nada un espectro oscuro con forma de esqueleto, cubierto de un humo negro. Unkas, la ahora difunta, Kaelen y yo logramos detenerlo, pero antes de arrojar su cuerpo a la hoguera, junto a la abominable criatura pensé.. ¿Qué secretos nos oculta este bosque? ¿Cómo llego esta criatura aquí sin que Kliff ni nadie la vea? La curiosidad podía conmigo, y tuve que tomar una decisión.. Tomando ventaja de que Kaelen estaba herida, pedí a Unkas que la llevará dentro y la atendiera, que yo me encargaría del esqueleto sombrío.
+Tras detenerlo, mientras Kliff no se detuvo ni a recobrar el aliento, junto a Ina salió a la muralla comprobar y asegurar la zona, ante nosotros se manifestó de la nada un espectro oscuro con forma de esqueleto, cubierto de un humo negro. Unkas, la ahora difunta Kaelen y yo logramos detenerlo, pero antes de arrojar su cuerpo a la hoguera, junto a la abominable criatura pensé.. ¿Qué secretos nos oculta este bosque? ¿Cómo llego esta criatura aquí sin que Kliff ni nadie la vea? La curiosidad podía conmigo, y tuve que tomar una decisión.. Tomando ventaja de que Kaelen estaba herida, pedí a Unkas que la llevará dentro y la atendiera, que yo me encargaría del esqueleto sombrío.
 
 Amarre con cuerdas a la aún vida criatura y la escondí de todos en un rincón de la montaña que Kliff excavaba, la mantuve apresada, y mientras que él organizaba la excavación, aprovechando mis propias capacidades mineras para en paralelo abrir una pequeña cueva oculta en la cara opuesta de la montaña sin levantar sospechas.
 
@@ -92,5 +92,7 @@ Pero... Quizás mi esquelético amigo enfría habitaciones podrías ser de ayuda
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal). La nota #3 se declara perdida en el propio material: es un hueco deliberado de la historia.
+- Fecha de escritura (aclarado por el jugador): las notas se escriben en 5501, cuando se adopta la escritura en la colonia; la #1 relata el invierno anterior (~1 mes atrás) y describe lo que Tarylla está a punto de hacer. Por eso el campo `periodo` pasa de `invierno-5501` a `presente`; los hechos de #1 ocurrieron en el invierno del 5500.
+- Corrección de puntuación en #1 (pedida por el jugador): «Unkas, la ahora difunta, Kaelen y yo» → «Unkas, la ahora difunta Kaelen y yo»; la difunta es Kaelen, no Unkas.
 - Cambio de nombre: el texto original decía «Lilith»; el jugador fijó que el nombre canon de ese personaje es **Kaelen** (Liry es otro personaje) y se ha sustituido.
 - Orden temporal de las notas (#1–#4 en el invierno; #5 en otoño) y de los eventos con las rocas: el jugador puede dar el orden cronológico absoluto; ver `00_cronologia.md`.
