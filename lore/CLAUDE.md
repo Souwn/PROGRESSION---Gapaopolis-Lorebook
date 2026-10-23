@@ -41,7 +41,7 @@ Se trabaja siempre en uno de estos dos submodos. Si el jugador no indica ninguno
 
 | Submodo | Fuente de verdad | Cuándo |
 |---|---|---|
-| `Canon-Only` | **Solo** lo escrito en los archivos del repositorio (`/lore/`), **excluyendo** `_meta_autor.md`, `_diario_de_partida.md` y `_preguntas_abiertas.md`. Nada de lo que el jugador haya contado de palabra. | Evaluar cómo se lee la historia para un lector externo; detectar qué no queda claro. |
+| `Canon-Only` | **Solo** lo escrito en los archivos del repositorio (`/lore/`), **excluyendo** `_meta_autor.md`, `_historial_interno.md`, `_diario_de_partida.md` y `_preguntas_abiertas.md`. Nada de lo que el jugador haya contado de palabra. | Evaluar cómo se lee la historia para un lector externo; detectar qué no queda claro. |
 | `Interactive` | El repositorio (incluido `_meta_autor.md`) **más** lo que el jugador explique en la conversación (contexto, ideas, eventos futuros). | Planificar, teorizar, preparar escenas. |
 
 En ambos submodos: evalúa la comprensión del lector, busca conexiones ocultas entre textos y analiza los sesgos de los personajes.
@@ -88,6 +88,7 @@ Para que las preguntas de un asistente no solapen las de otro, **solo el hilo Pr
 ### 4.4 Estilo de lo que se escribe en `lore/`
 - No dejes comentarios sobre erratas corregidas ni notas del tipo «corrección del jugador», «el término anterior era…» o «el texto original decía…». Se corrige el texto y ya.
 - Lo que no puede saber un personaje no va en las fichas ni en los textos in-world: va en `_meta_autor.md`.
+- Existe `_historial_interno.md`, un registro **interno** de cambios finos (renombrados, correcciones). Los cambios se anotan allí, con una línea fechada, y **nunca** como comentarios dentro de las fichas o los textos. No requiere revisión del jugador.
 
 ### 4.5 Imágenes
 El jugador puede adjuntar capturas (mapa de la base, interfaz, combates, altares, retratos, eventos). **Pídelas activamente** cuando necesites ver la distribución de un área, una batalla, un templo u otro detalle. Se guardan en `Library/imagenes/` (ver 4.2) y se usan para precisar descripciones en `07_geografia_y_asentamiento.md`, `08_bestiario.md`, etc.
@@ -119,6 +120,7 @@ Cada documento usa la plantilla de `_plantillas/documento_inworld.md`.
     ├── _convenciones.md           # Nombres de archivo, estados de canon, fechas, rama en inglés
     ├── _registro_retcons.md       # Historial de cambios aprobados sobre canon
     ├── _meta_autor.md             # Secretos e intenciones del jugador (fuera del mundo; no cuenta en Canon-Only)
+    ├── _historial_interno.md      # Registro interno de cambios finos (no cuenta en Canon-Only)
     ├── _diario_de_partida.md      # Reportes en bruto de las sesiones de juego (no canon)
     ├── _preguntas_abiertas.md     # Huecos de lore y dudas pendientes para el jugador
     ├── _plantillas/               # Ficha de personaje, documento in-world
