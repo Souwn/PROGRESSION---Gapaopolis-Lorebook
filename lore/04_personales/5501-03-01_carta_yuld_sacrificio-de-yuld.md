@@ -3,7 +3,7 @@ idioma: es
 formato: carta
 autor: Yuld
 destinatario: Kliff, Unkas, Ina, Tarylla, Zorro y Zhethe
-fecha_inworld: 5501-00-00   # «a comienzo del otoño» (Septumbre, según el resto de textos)
+fecha_inworld: 5501-03-01   # «a comienzo del otoño»: 1º de Septumbre
 periodo: presente
 lugar: Gapaopolis (escrita antes de su marcha al rancho al este)
 estado_canon: BORRADOR

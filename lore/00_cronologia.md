@@ -83,7 +83,7 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 6 | [Quejas de Zorro #1](04_personales/5501-00-00_diario_zorro_quejas-y-relatos.md) | El estado de la colonia y la gestión de Kliff durante el verano. |
 | 7 | Tarylla #3 | En algún momento de este tramo (texto perdido). |
 | 8 | Kliff, 6º–13º Junligosto | Reconoce la presión que ejerce sobre los habitantes; aparecen las vacas. |
-| 9 | [Carta de Yuld](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md) | Yuld se va hacia el 15º de Junligosto. |
+| 9 | [Carta de Yuld](04_personales/5501-03-01_carta_yuld_sacrificio-de-yuld.md) | Yuld se va de noche hacia el 15º de Junligosto; la carta está fechada el 1º de Septumbre. |
 | 10 | Kliff, 1º Septumbre | Registra el abandono de Yuld. |
 | 11 | Tarylla #4 | El mímico; ocurre durante el otoño, antes de la lluvia. |
 | 12 | Zorro #2 | La lluvia hace estragos. |
@@ -94,8 +94,9 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 17 | Zorro #3 | El acercamiento de Tarylla; hacia el final del otoño o el comienzo del invierno, tras los sueños de Tarylla. |
 | 18 | [Unkas II](04_personales/5501-00-00_nota_unkas_unkas-ii.md) | Ideas negativas sobre Kliff que vienen de comienzos del otoño y se han agravado. |
 | 19 | Kliff, 2º Difebrero | Comienzo del invierno. |
-| 20 | Zorro #4 | Ve a Unkas y Zhethe. |
-| 21 | Kliff, 11º–15º Difebrero | Último arco de Kliff. |
+| 20 | Zorro x Tarylla #2 | Zorro y Tarylla hablan junto al fuego en la sala de investigación (-13 ºC); la idea del retrete. |
+| 21 | Zorro #4 | Ve a Unkas y Zhethe. |
+| 22 | Kliff, 11º–15º Difebrero | Último arco de Kliff. |
 
 **[CANON]** Los eventos con las rocas (el mímico) ocurrieron «mucho antes» de la llegada de Lexington.
 
@@ -115,7 +116,7 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | ~fin de Marzimayo–Junligosto 5501 | Zorro se une a la colonia | Zorro | Diario de Kliff (3º Junligosto) | BORRADOR |
 | 6º Junligosto 5501 | Kliff decide construir un templo en la montaña | Kliff | Diario de Kliff | BORRADOR |
 | 13º Junligosto 5501 | Yuld encuentra vacas salvajes; discute con Kliff; se fabrican arcos y flechas | Yuld, Kliff | Diario de Kliff | BORRADOR |
-| ~15º Junligosto 5501 (de noche) | Yuld se marcha con el ganado a un rancho abandonado al este | Yuld | [Carta de Yuld](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md); orden de las notas | BORRADOR |
+| ~15º Junligosto 5501 (de noche) | Yuld se marcha con el ganado a un rancho abandonado al este | Yuld | [Carta de Yuld](04_personales/5501-03-01_carta_yuld_sacrificio-de-yuld.md); orden de las notas | BORRADOR |
 | 1º Septumbre 5501 | Kliff registra la marcha de Yuld | Kliff | Diario de Kliff | BORRADOR |
 | Septumbre 5501 (antes del 4º) | El mímico (rocas de la excavación) ataca a Tarylla en su cueva | Tarylla | Tarylla #4; jugador | BORRADOR |
 | 4º Septumbre 5501 | Diluvio nocturno: se pierde la mitad de la cosecha; Zhethe sale a cazar al bosque profundo | Kliff, Zorro, Unkas, Ina, Zhethe | Kliff; Zorro #2; Tarylla #5 | BORRADOR |
@@ -130,5 +131,4 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 ## Conflictos y dudas cronológicas abiertas
 
 - (anotar aquí cualquier incoherencia detectada para resolverla con el jugador)
-- **Lugar de «Zorro x Tarylla #2» en el orden de las notas:** Por definir (ver `_preguntas_abiertas.md`).
 - **Fechas exactas de la llegada de los demás fundadores (Unkas, Ina, Kaelen, Liry, Ozan, Tarylla, Yuld y Zhethe):** Por definir.

@@ -12,9 +12,6 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 |---|---|---|---|
 | 1 | Faltan las fichas de las facciones menores: Primeros Hombres, Ixthar, Clan Raíz Profunda, Linaje Sorne, Clan Cuervo Negro, Círculo de Driadea y Exiliados. | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
 | 2 | Unkas planea quedarse, pero «lo está planeando»: ¿qué trama exactamente? | [`_meta_autor.md`](_meta_autor.md) | Respuestas de trama |
-| 3 | ¿Dónde encaja «Zorro x Tarylla #2» en el orden cronológico? Propuesta: tras el 2º de Difebrero (cuando Zorro pide trabajar con Tarylla), antes del 11º de Difebrero (la caja que enfría). ¿Va antes o después del «Relato #4» (Unkas y Zhethe)? | [`00_cronologia.md`](00_cronologia.md) | Zorro x Tarylla #2 |
-| 4 | En el juego, «Sacrificio de Yuld» figura como «(5501/03/01)», es decir, 1º de Septumbre del 5501, y en el repo la marcha de Yuld es hacia el 15º de Junligosto. ¿Qué fecha marca el título? | [`00_cronologia.md`](00_cronologia.md) | Listado del juego |
-| 5 | La crónica de las naciones se titula «(VDI) EU CLXX» en el repo y «(VDI) EU XXVII» en el juego. ¿Cuál es la referencia correcta? | [`05_biblioteca_externa`](05_biblioteca_externa/README.md) | Listado del juego |
 
 ## Resueltas
 
@@ -26,7 +23,7 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R4 | ¿Lilith o Liry? | Son personajes distintos; el nombre de la difunta de Tarylla #1 es Kaelen. | [`01_personajes.md`](01_personajes.md) |
 | R5 | ¿Cuándo fue el invierno devastador? | En el 5500. | [`00_cronologia.md`](00_cronologia.md) |
 | R6 | Cabeceras de las crónicas de El Umbral | «(VDI)» es 5501; «(VCDXCV)» es 5495. | [`05_biblioteca_externa`](05_biblioteca_externa/README.md) |
-| R7 | ¿Quién ha leído la carta de Yuld? | Nadie; es material perdido. | [`04_personales`](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md) |
+| R7 | ¿Quién ha leído la carta de Yuld? | Nadie; es material perdido. | [`04_personales`](04_personales/5501-03-01_carta_yuld_sacrificio-de-yuld.md) |
 | R8 | ¿Qué es GAPA? | Un dios que Kliff venera; Gapaopolis es la ciudad de GAPA, fundada por Kliff; la facción de Kliff también se llama GAPA. | [`06_mitologia.md`](06_mitologia.md), [`02_facciones.md`](02_facciones.md) |
 | R9 | ¿Dónde está Gapaopolis? | En bosque denso cerca de montañas, entre dos de ellas, muy cerca de la colonia de los Ixthar. | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
 | R10 | ¿Cómo encaja la crónica «VDI» (5501), posterior a la colonia, con que las de El Umbral suelen ser anteriores? | Es posterior; menciona la invasión de los Ixthar, que ocurre en el 5500 y está asociada a Unkas. | [`00_cronologia.md`](00_cronologia.md), [`05_biblioteca_externa`](05_biblioteca_externa/README.md) |
@@ -61,3 +58,6 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R39 | ¿Por qué se enfrentará Zorro primero a Kliff? | Viene de una civilización más avanzada, es arrogante y le gusta llevar la razón; se estableció por voluntad propia. | [`01_personajes.md`](01_personajes.md) |
 | R40 | ¿Qué recuerda Tarylla de su pasado? | Nada; atribuye sus pesadillas a ser una «friki indecente». | [`01_personajes.md`](01_personajes.md) |
 | R41 | ¿Qué quiere Zhethe? | Va a su bola. | [`01_personajes.md`](01_personajes.md) |
+| R42 | ¿Dónde encaja «Zorro x Tarylla #2» en el orden cronológico? | Tras el 2º de Difebrero (cuando Zorro pide trabajar con Tarylla) y antes del 11º (la caja que enfría); decidido por Claude con el visto bueno del jugador. | [`00_cronologia.md`](00_cronologia.md) |
+| R43 | ¿Qué fecha marca «Sacrificio de Yuld»? | (5501/03/01): 1º de Septumbre del 5501. | [`04_personales`](04_personales/5501-03-01_carta_yuld_sacrificio-de-yuld.md), [`00_cronologia.md`](00_cronologia.md) |
+| R44 | ¿Referencia de la crónica de las naciones? | «(VDI) EU CLXX». | [`05_biblioteca_externa`](05_biblioteca_externa/README.md) |

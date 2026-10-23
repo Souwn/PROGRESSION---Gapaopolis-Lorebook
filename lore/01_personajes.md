@@ -100,7 +100,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **[BORRADOR]** Abuelo bonachón y optimista. Todos lo echan de menos, pero casi nunca se habla de ello. Se fue para crear un sitio seguro de cría de animales sin comprometer a la colonia y para quitarse de en medio como boca que alimentar; su carta lo explica y nadie la ha leído, así que Kliff ignora sus razones.
 - **Defensa del rancho (BORRADOR):** si algún asaltante o bandido ataca su rancho, responderá con una lluvia de flechas; no amenaza a Gapaopolis ni suministra flechas.
 - **Datos de los textos (BORRADOR):** hacia el 15º de Junligosto del 5501 se marchó de noche con tres cabezas de ganado a un rancho abandonado en una pradera al este; Kliff lo vive como traición, la carta de Yuld dice que se va para no ser una carga.
-- Documentos: [Sacrificio de Yuld](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md).
+- Documentos: [Sacrificio de Yuld](04_personales/5501-03-01_carta_yuld_sacrificio-de-yuld.md).
 
 ---
 

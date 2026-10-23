@@ -18,4 +18,4 @@ Diarios privados, notas y cartas. Voz subjetiva, filtrada por las emociones y lo
 | 5501 | nota | Tarylla | [Notas #1–#5](5501-00-00_nota_tarylla_notas-1-a-5.md) (la #3 está perdida) | BORRADOR |
 | 5501 | nota | Tarylla | [Sueño de Tarylla](5501-00-00_nota_tarylla_sueno-de-tarylla.md) | BORRADOR |
 | 5501 | diario | Zorro | [Quejas y relatos #1–#4 y Zorro x Tarylla #2](5501-00-00_diario_zorro_quejas-y-relatos.md) | BORRADOR |
-| 5501 | carta | Yuld → Kliff, Unkas, Ina, Tarylla, Zorro, Zhethe | [Sacrificio de Yuld](5501-00-00_carta_yuld_sacrificio-de-yuld.md) | BORRADOR |
+| 5501-03-01 | carta | Yuld → Kliff, Unkas, Ina, Tarylla, Zorro, Zhethe | [Sacrificio de Yuld](5501-03-01_carta_yuld_sacrificio-de-yuld.md) | BORRADOR |
