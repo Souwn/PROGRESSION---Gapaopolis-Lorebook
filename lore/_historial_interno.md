@@ -21,10 +21,18 @@ Si el jugador usa un término antiguo, **se entiende el vigente** y se escribe s
 | **Apariencia** (de Liry, ante el zombi de Zhethe) | Paraciencia | Liry no tiene ningún don asociado. |
 | **Invierno del 5500** | Invierno del 5501 | Las instrucciones de proyecto del jugador aún dicen «5501»; si lo cita así, se entiende el invierno devastador. El Difebrero del 5501 es el segundo invierno. |
 | Nombre de Tarylla previo al imperio: reservado | **Cochinilla** | «Cochinilla» fue el nombre que el juego dio a Tarylla; ya no es canon. No usarlo como su nombre original. |
+| **Pemmican** | Penicam | Comida de viaje de RimWorld; el jugador la había escrito «penicam». |
+| **Inmortal** (Kliff, meta) | Inmoral | Erratas del jugador. |
+| **Zorro** = apodo, **Piaroa** = nombre | — | Piaroa puede cambiar en el futuro. |
+| Facción de Kliff: **GAPA** | Imperio de Gapa | «Imperio de Gapa» fue el nombre que dio el juego; no es canon por ahora. |
+| La marca roja del Imperio pegada a GAPA en el mapa: se ignora | — | Es una misión del juego, no lore. |
 | La Liga del Valor = República Central; El Bastión = República del Oeste; El Umbral = República del Este | Asignación antigua (Umbral militar/Este, Bastión tecnológico/Central, Liga mercantil/Oeste) | El orden vigente es el fijado por el jugador. |
 
 ## 2026-10-23
 
+- Fundación de Gapaopolis fijada aproximadamente al 1º de Marzimayo del 5500; orden de llegada ampliado (… Tarylla, Yuld, Zhethe). Krosswynd marcado como **no canon oficial** (muy reciente) y fuera del orden de llegada. Sin preguntas abiertas pendientes.
+- Respuestas del jugador aplicadas: orden de llegada (Kliff, Unkas, Ina, Kaelen y Liry, Ozan, Tarylla séptima; texto de Tarylla #1 corregido); la partida empieza el 1º de Marzimayo del 5500 y los meses son los quadrums de RimWorld; la crónica «VDI» es posterior y su invasión Ixthar es de 5500 (asociada a Unkas); orden absoluto de eventos = el de las notas; templo de Kliff, «MISS» y «COWS» fijados en `07`; pemmican, inmortal, Zorro/Piaroa y Enjambre de Sorne ↔ Linaje Sorne anotados. Quedan pendientes solo la fecha de fundación y el lugar de Yuld, Zhethe y Krosswynd en el orden de llegada.
+- Orden cronológico del contenido de las notas fijado como CANON en `00_cronologia.md` . Zorro #3 pasa al final del otoño (tras el Sueño de Tarylla) y Tarylla #4 se ubica en otoño, antes de la lluvia (21 puntos) y Yuld se va hacia el 15º de Junligosto; fichas ajustadas. Duda abierta: la crónica «VDI» (5501) es posterior a la colonia.
 - La Colmena «Klaxxi» / «Kalxxi» pasa a llamarse **Ixthar** en todo el lore. Si el jugador escribe Klaxxi, se entiende Ixthar.
 - «Paraciencia» corregido a **apariencia** (fichas de Liry y Zhethe).
 - Puntuación de Tarylla #1: «la ahora difunta Kaelen» (la difunta es Kaelen, no Unkas).

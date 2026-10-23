@@ -19,7 +19,7 @@ Querido diario... me llamo Tarylla,
 
 Escribo estas notas para dejar registro de los acontencimientos que aquí en Gapaopolis he vivido.
 
-He sido de las primeras en unirme a Gapaopolis, luego de Unkas, Ina y por supuesto, el mismisimo Kliff.
+Fui la séptima en unirme a Gapaopolis, luego de Kliff, Unkas, Ina, Kaelen, Liry y Ozan.
 
 Todo era normal por aquí, ayudaba a Ina con los trabajos físicos de construcción, y aportaba ideas para mejorar el asentamiento, entre ellas la edificación de una muralla defensiva.
 
@@ -93,4 +93,4 @@ Pero... Quizás mi esquelético amigo enfría habitaciones podrías ser de ayuda
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal). La nota #3 se declara perdida en el propio material: es un hueco deliberado de la historia.
 - Fecha de escritura: las notas se escriben en 5501, cuando se adopta la escritura en la colonia; la #1 relata el invierno anterior (~1 mes atrás) y describe lo que Tarylla está a punto de hacer. Los hechos de #1 ocurrieron en el invierno del 5500.
-- Orden temporal de las notas (#1–#4 en el invierno; #5 en otoño) y de los eventos con las rocas: el jugador puede dar el orden cronológico absoluto; ver `00_cronologia.md`.
+- Orden temporal de las notas (#1 relata el invierno; #2 es de primavera; #4 y #5 son de otoño) y de los eventos con las rocas: el jugador puede dar el orden cronológico absoluto; ver `00_cronologia.md`.

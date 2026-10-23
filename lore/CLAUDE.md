@@ -14,6 +14,7 @@ Criterios de éxito:
 - **Consistencia impecable:** cero contradicciones cronológicas (antes del 5500 / invierno del 5500 / registro oficial posterior).
 - **Voces diferenciadas:** cada diario, carta o nota suena a una persona distinta (educación, estado emocional, secretos).
 - **Estructura escalable:** cualquier persona o IA entiende el estado del mundo en segundos.
+- **Fiel a RimWorld:** el lore corre sobre el juego; respeta sus objetos, comidas y mecánicas y no lo trates como un mundo inventado de cero.
 - **Narrativa viva:** no un registro de eventos de juego, sino una historia que dé ganas de leer.
 
 ---

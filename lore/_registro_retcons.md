@@ -30,4 +30,5 @@ _Ninguno todavía._
 Temas que el jugador ha señalado como susceptibles de evolucionar. No son retcons; no se modifican sin aprobación.
 
 - Evolución de **El Umbral** (`02_facciones.md`).
+- Nombre de **Zorro** (Piaroa), que puede cambiar (`01_personajes.md`).
 - Pasado imperial de **Tarylla** (`01_personajes.md`, `02_facciones.md`).

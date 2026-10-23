@@ -16,7 +16,7 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 
 ## Kliff
 
-- **[META]** Procede de un origen desconocido. Tiene habilidades que nadie más posee: «aprendizaje rápido» en prácticamente todo y uso natural de magia (psycasts). Es técnicamente **«inmoral»** (palabra del jugador; probablemente quiere decir *inmortal*, ver [`_preguntas_abiertas.md`](_preguntas_abiertas.md)). Él **desconoce todo esto**.
+- **[META]** Procede de un origen desconocido. Tiene habilidades que nadie más posee: «aprendizaje rápido» en prácticamente todo y uso natural de magia (psycasts). Es técnicamente **inmortal**. Él **desconoce todo esto**.
 - **[META]** Intenta mantener el orden y la moral. Es la clase de persona que diría «Si no lo ves, no existe»; de ahí que niegue la niebla y las anomalías.
 - **[META]** Es culto, pero puede cometer erratas al escribir. Las erratas del resto de personajes (salvo Yuld) son, probablemente, errores y no rasgo de voz.
 - **[META]** No sabe nada del pasado de Zorro y probablemente no se ha parado a pensarlo.
@@ -35,7 +35,7 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 ## Zorro
 
 - **[META]** Cree ser la mente más brillante del refugio; en realidad Tarylla la supera (ver arriba). Cambia la lectura de «Ojalá esa niña supiera que habla con un muro» (Notas de Tarylla #5).
-- **[META]** Zorro y Tarylla empiezan a colaborar cuando pasan a convivir en tiempo libre (en los textos, durante el invierno del 5501). Antes, Zorro estaba en los huertos cultivando sin parar, y Tarylla ayudaba a Ina con las excavaciones y estudiaba en sus ratos libres.
+- **[META]** Zorro y Tarylla empiezan a colaborar cuando pasan a convivir en tiempo libre (en los textos, desde el final del otoño del 5501). Antes, Zorro estaba en los huertos cultivando sin parar, y Tarylla ayudaba a Ina con las excavaciones y estudiaba en sus ratos libres.
 
 ## Ina, Unkas, Zhethe
 
@@ -57,11 +57,14 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 ## Mundo y facciones
 
 - **[META]** Es un mundo en edad precaria donde algunos han prosperado más que otros. Las facciones más poderosas o avanzadas son las que «llevan la voz». Hay más asentamientos rústicos como Gapaopolis, pero esta es la historia de Gapaopolis. Las facciones suelen ser egoístas con sus avances.
-- **[META]** Los Ixthar **no** están relacionados con El Umbral. Ocultan sus propios secretos tras «El Enjambre de Sorne» (a desarrollar).
+- **[META]** Los Ixthar **no** están relacionados con El Umbral. Ocultan sus propios secretos tras «El Enjambre de Sorne», relacionado con el Linaje Sorne del mapa (a desarrollar).
+- **[META]** Los Ixthar serán el equivalente a los zerg de *StarCraft* o los tiránidos de *Warhammer 40.000*, con un aire de «dios antiguo» al estilo de *World of Warcraft*. Este lore aún no está pensado al 100 %.
 - **[SECRETO]** El significado de la frase final de la Crónica secreta VII («OXA ETZ ITHECHE KALUQ ZAROG»).
 
 ## Cómo escribir (decisiones de autoría)
 
 - **[META]** No todos los personajes tienen «voz propia»: la historia se complicaría con relatos de 50 personas, y no todos querrían dejar sus historias por escrito. Se trabaja poco a poco; el jugador reconoce que sus propios tics de escritura se cuelan por más que quiera cambiar el tono de un personaje.
 - **[META]** Las notas personales de la colonia se escriben **a partir del 5501**, cuando se adopta la escritura (Tarylla escribe unas cuatro semanas después del invierno devastador).
+- **[META]** Todo el lore corre sobre RimWorld: no es un mundo inventado de cero. Los objetos, comidas y mecánicas son los del juego (p. ej. el *pemmican*, la comida de viaje de larga duración).
+- **[META]** Los colonos nuevos (p. ej. Lexington y Krosswynd) llegan cuando el juego los pone delante y sus estadísticas son buenas. Su origen no se conoce de antemano: el lore se ajusta después para encajarlos.
 - **[META]** La referencia visual para la geografía son las capturas de [`Library/imagenes/`](../Library/imagenes/README.md).
