@@ -24,7 +24,7 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 
 ## Tarylla
 
-- **[META]** Su nombre original era otro (el jugador aclara que **no** es «Cochinilla»; el nombre real se reserva). Fue enviada a Gapaopolis a **espiar en nombre del Imperio**, por razones desconocidas. En el camino algo la asaltó (los eventos de su sueño) y **no recuerda nada**.
+- **[META]** Su nombre original (el que tenía antes, como agente imperial) es otro y se reserva. No confundir con «Cochinilla», el nombre que le dio el juego y que ya no es canon. Fue enviada a Gapaopolis a **espiar en nombre del Imperio**, por razones desconocidas. En el camino algo la asaltó (los eventos de su sueño) y **no recuerda nada**.
 - **[META]** Conviven en ella **tres identidades**: (a) Tarylla imperial, (b) Tarylla corrompida, (c) Tarylla leal a Gapaopolis. Su lealtad actual es hacia Gapaopolis, «quizás no de la forma más sensata».
 - **[META]** Tiene una crisis de identidad aún sin explicar, ligada a su pasado (El Imperio «y algo más»). Esa presión latente la hace perder la cabeza por momentos.
 - **[META]** El invierno del 5500 la dejó profundamente traumatizada. Lo expresa queriendo llevar la voz sobre la amenaza, algo que Kliff no hace. Investiga las anomalías (en su mayoría procedentes del DLC *Anomaly*) para defender el refugio.
