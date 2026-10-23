@@ -14,4 +14,5 @@ Textos que el jugador ya tiene escritos en el juego pero cuyos hechos **aún no 
 
 | Texto | Archivo | Estado |
 |---|---|---|
+| Planes futuros del jugador (Tarylla, Yuld, final de la era) | [planes_futuros.md](planes_futuros.md) | FUTURO |
 | (FUTURO) WIP de Zorro: visita de emisarios | [zorro_visita-de-emisarios.md](zorro_visita-de-emisarios.md) | FUTURO |

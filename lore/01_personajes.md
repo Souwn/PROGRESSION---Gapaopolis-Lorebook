@@ -31,7 +31,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **[BORRADOR]** Es culto, aunque puede cometer erratas al escribir. Niega la niebla ante Tarylla. Vio en persona las abominaciones de carne del primer invierno, pero no ha visto zombis y desconoce el alcance de las anomalías. No sabe nada del pasado de Zorro.
 - Edad, motivaciones profundas, relaciones, trayectoria: Por definir.
 - **Vínculo con los fallecidos (BORRADOR, según el jugador):** Kliff convivió con [Kaelen](#kaelen), [Liry](#liry) y [Ozan](#ozan); verlos saqueados lo desestabiliza.
-- Documentos: [Diario de Kliff](04_personales/5501-00-00_diario_kliff_secuelas-del-invierno.md).
+- Documentos: [Diario de Kliff](04_personales/5501-00-00_diario_kliff_secuelas-del-invierno.md), [La sombra de la sospecha](04_personales/5502-01-01_diario_kliff_la-sombra-de-la-sospecha.md).
 
 ### Unkas
 - **Estado de la ficha:** BORRADOR · **Situación:** Miembro actual

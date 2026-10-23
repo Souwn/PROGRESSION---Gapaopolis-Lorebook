@@ -97,6 +97,8 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 20 | Zorro x Tarylla #2 | Zorro y Tarylla hablan junto al fuego en la sala de investigación (-13 ºC); la idea del retrete. |
 | 21 | Zorro #4 | Ve a Unkas y Zhethe. |
 | 22 | Kliff, 11º–15º Difebrero | Último arco de Kliff. |
+| 23 | [Kliff, 1º Marzimayo del 5502](04_personales/5502-01-01_diario_kliff_la-sombra-de-la-sospecha.md) | Comienza el tercer año; el invierno pasó sin desgracias; quiere vigilar a Unkas y Zhethe. |
+| 24 | Zorro #5 | La muralla nueva y grande; Tarylla sale al sol con una estaca («control de calidad»). Marzimayo del 5502, sin día exacto. |
 
 **[CANON]** Los eventos con las rocas (el mímico) ocurrieron «mucho antes» de la llegada de Lexington.
 
@@ -127,6 +129,8 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 11º Difebrero 5501 | Caja de madera que enfría (hongos y sal); sacrificio de ganado | Tarylla, Zorro, Kliff | Diario de Kliff | BORRADOR |
 | 13º Difebrero 5501 | Zhethe dice a Kliff «cosas imposibles»; Kliff prohíbe a Unkas hablar de ello | Kliff, Zhethe, Unkas | Diario de Kliff | BORRADOR |
 | 15º Difebrero 5501 | Kliff halla las tumbas saqueadas y vacías (de Kaelen, Liry y Ozan) | Kliff | Diario de Kliff; jugador | BORRADOR |
+| 1º Marzimayo 5502 | Comienza el tercer año; han sobrevivido al invierno sin desgracias; Kliff querría vigilar más a Unkas y Zhethe | Kliff | [Diario de Kliff 2](04_personales/5502-01-01_diario_kliff_la-sombra-de-la-sospecha.md) | BORRADOR |
+| Marzimayo 5502 | Se termina la muralla nueva y grande, que encierra huerto y granja; Zhethe tiene su choza junto a la puerta; Tarylla sale al sol y revisa los muebles con una estaca gigante | Zorro, Kliff, Zhethe, Tarylla | Relato de Zorro #5 | BORRADOR |
 
 ## Conflictos y dudas cronológicas abiertas
 
