@@ -12,6 +12,9 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 |---|---|---|---|
 | 1 | Faltan las fichas de las facciones menores: Primeros Hombres, Ixthar, Clan Raíz Profunda, Linaje Sorne, Clan Cuervo Negro, Círculo de Driadea y Exiliados. | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
 | 2 | Unkas planea quedarse, pero «lo está planeando»: ¿qué trama exactamente? | [`_meta_autor.md`](_meta_autor.md) | Respuestas de trama |
+| 3 | ¿Dónde encaja «Zorro x Tarylla #2» en el orden cronológico? Propuesta: tras el 2º de Difebrero (cuando Zorro pide trabajar con Tarylla), antes del 11º de Difebrero (la caja que enfría). ¿Va antes o después del «Relato #4» (Unkas y Zhethe)? | [`00_cronologia.md`](00_cronologia.md) | Zorro x Tarylla #2 |
+| 4 | En el juego, «Sacrificio de Yuld» figura como «(5501/03/01)», es decir, 1º de Septumbre del 5501, y en el repo la marcha de Yuld es hacia el 15º de Junligosto. ¿Qué fecha marca el título? | [`00_cronologia.md`](00_cronologia.md) | Listado del juego |
+| 5 | La crónica de las naciones se titula «(VDI) EU CLXX» en el repo y «(VDI) EU XXVII» en el juego. ¿Cuál es la referencia correcta? | [`05_biblioteca_externa`](05_biblioteca_externa/README.md) | Listado del juego |
 
 ## Resueltas
 

@@ -130,4 +130,5 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 ## Conflictos y dudas cronológicas abiertas
 
 - (anotar aquí cualquier incoherencia detectada para resolverla con el jugador)
+- **Lugar de «Zorro x Tarylla #2» en el orden de las notas:** Por definir (ver `_preguntas_abiertas.md`).
 - **Fechas exactas de la llegada de los demás fundadores (Unkas, Ina, Kaelen, Liry, Ozan, Tarylla, Yuld y Zhethe):** Por definir.

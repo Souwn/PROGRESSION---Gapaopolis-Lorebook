@@ -10,6 +10,7 @@ Cada dato relevante (ficha, evento de la cronología, párrafo de facción…) p
 | `BORRADOR` | Escrito a partir de lo que el jugador ha contado, pendiente de revisión. | Claude o jugador |
 | `PROPUESTA` | Idea sugerida por Claude. No es historia. | Claude |
 | `OBSOLETO` | Sustituido por un retcon. Se conserva como referencia. | Tras un retcon aprobado |
+| `FUTURO` | Texto sobre hechos que aún no han ocurrido, con una dirección prevista. Vive solo en `_futuro_wip/`; no es canon, no entra en la cronología y no cuenta en `Canon-Only`. | Solo el jugador |
 | `META` | Información de autor dada por el jugador fuera del mundo (secretos, intenciones). Vive solo en `_meta_autor.md`; no cuenta en `Canon-Only`. | Solo el jugador |
 | `Por definir` | Hueco sin información. **No se rellena inventando.** | — |
 

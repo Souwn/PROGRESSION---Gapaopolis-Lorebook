@@ -3,7 +3,7 @@ idioma: es
 formato: diario
 autor: Zorro
 destinatario: «futuro lector»
-fecha_inworld: 5501-00-00   # Quejas #1–#2 entre Junligosto y Septumbre; Relatos #3–#4 en invierno
+fecha_inworld: 5501-00-00   # Quejas #1–#2 entre Junligosto y Septumbre; Relatos #3–#4 y Zorro x Tarylla #2 en invierno
 periodo: presente
 lugar: Gapaopolis
 estado_canon: BORRADOR
@@ -106,7 +106,18 @@ Bueno, en realidad, creía que Kliff y Unkas eran pareja.. Nunca les he visto se
 
 Suficiente escritura por un día.
 
+## Zorro x Tarylla #2
+
+Estabamos en la sala de investigación, Tarylla y yo, junto al fuego, hablando sobre como mejorar las cosas por aquí para todos. Cuando de pronto sentí la llamada de la naturaleza... Hemos de recordar que hemos sido bendecidos con estar  a -13ºC.
+
+Y claramente no existe nada tan satisfactorio como taparte hasta arriba de ropa para salir bajo la nieve a orinar detras de un arbusto mientras te congelas...
+
+Mencione jocosamente a Tarylla si no quiere inventar cajas para orinar que se puedan situar dentro del refugio. Ella arqueo una ceja, y luego de pensarlo unos breves segundos exclamo "Dices un retrete! Podemos hacer eso, pero no tenemos sistema de grenaje".
+
+Sabia que sabe más de lo que dice, pero, me sorpende que conozca hasta el nombre de la caja del pipi. Ella definitivamente viene de algún sitio especial. ¿Quizás, El Umbral?
+
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal).
+- «Zorro x Tarylla #2» ya estaba escrito en el juego, como el «Relato de Zorro #3», que es «Zorro x Tarylla #1» en el juego (Tarylla se acerca a Zorro en mitad de la noche y esta la trata de loca, internamente). Aporta: -13 ºC en invierno; la idea del retrete dentro del refugio, sin sistema de drenaje; Tarylla sabe más de lo que dice; Zorro sospecha que Tarylla viene de El Umbral (hipótesis del personaje, no un hecho).
 - Posibles incoherencias a revisar: «Zhenthe» (grafía de Zhethe); Quejas #1 se declara «miembro más reciente» (anterior a Lexington, 11º Septumbre).
