@@ -92,7 +92,6 @@ Pero... Quizás mi esquelético amigo enfría habitaciones podrías ser de ayuda
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal). La nota #3 se declara perdida en el propio material: es un hueco deliberado de la historia.
-- Fecha de escritura (aclarado por el jugador): las notas se escriben en 5501, cuando se adopta la escritura en la colonia; la #1 relata el invierno anterior (~1 mes atrás) y describe lo que Tarylla está a punto de hacer. Por eso el campo `periodo` pasa de `invierno-5501` a `presente`; los hechos de #1 ocurrieron en el invierno del 5500.
-- Corrección de puntuación en #1 (pedida por el jugador): «Unkas, la ahora difunta, Kaelen y yo» → «Unkas, la ahora difunta Kaelen y yo»; la difunta es Kaelen, no Unkas.
+- Fecha de escritura: las notas se escriben en 5501, cuando se adopta la escritura en la colonia; la #1 relata el invierno anterior (~1 mes atrás) y describe lo que Tarylla está a punto de hacer. Los hechos de #1 ocurrieron en el invierno del 5500.
 - Cambio de nombre: el texto original decía «Lilith»; el jugador fijó que el nombre canon de ese personaje es **Kaelen** (Liry es otro personaje) y se ha sustituido.
 - Orden temporal de las notas (#1–#4 en el invierno; #5 en otoño) y de los eventos con las rocas: el jugador puede dar el orden cronológico absoluto; ver `00_cronologia.md`.
