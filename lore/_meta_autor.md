@@ -26,6 +26,8 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 ## Tarylla
 
 - **[META]** Su nombre original (el que tenía antes, como agente imperial) es otro y se reserva. No confundir con «Cochinilla», el nombre que le dio el juego y que ya no es canon. Fue enviada a Gapaopolis a **espiar en nombre del Imperio**, por razones desconocidas. En el camino algo la asaltó (los eventos de su sueño) y **no recuerda nada**.
+- **[META]** Hoy Tarylla es un **libro en blanco**: no tiene agenda oculta. Lo que hace (investigar, excavar, sus «hongos», la estaca) responde a lo que cree necesario para defender el refugio; no conspira. La misión de espía de arriba pertenece a un pasado que ya no recuerda.
+- **[META]** El gran trozo de obsidiana afilada que regala a Zorro (verano del 5502) es un **gesto de amistad**, sin trama detrás; Zorro no lo entiende («por alguna razón»).
 - **[META]** Tarylla no sufre un trastorno de identidad múltiple. Sufre **amnesia**, tiene una **personalidad reconstruida de cero** (no es la original) y una **ligera manipulación mental** por lo que se le metió dentro en el bosque. Su lealtad actual es hacia Gapaopolis, «quizás no de la forma más sensata».
 - **[META]** Tiene una crisis de identidad aún sin explicar, ligada a su pasado (El Imperio «y algo más»). Esa presión latente la hace perder la cabeza por momentos.
 - **[META]** El invierno del 5500 la dejó profundamente traumatizada. Lo expresa queriendo llevar la voz sobre la amenaza, algo que Kliff no hace. Investiga las anomalías (en su mayoría procedentes del DLC *Anomaly*) para defender el refugio.
@@ -41,6 +43,7 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 - **[META]** Cree ser la mente más brillante del refugio; en realidad Tarylla la supera (ver arriba). Cambia la lectura de «Ojalá esa niña supiera que habla con un muro» (Notas de Tarylla #5).
 - **[META]** Zorro viene de El Umbral, la facción más avanzada en tecnología del mundo después de El Imperio; Tarylla viene de El Imperio, más avanzado aún en todos los ámbitos.
 - **[META]** Es una pequeña genio y, para el jugador, «una rarita»: lo deja en que es autista, o al menos una rarita, pero no al estilo de Tarylla (que es «la típica rarita»). Saber escribir es un «milagro antinatural» entre colonos como Kliff y Unkas; Zorro «podría escribir *Frankenstein* durmiendo». Su voz de aire moderno es parte de su carácter, no un anacronismo.
+- **[META]** Zorro no tiene madre; las comillas de «cosas de mujeres» en su relato #6 son ironía suya. Al hablar de Tarylla en ese relato, la elogia de verdad, aunque aún la llama rara.
 - **[META]** Zorro y Tarylla empiezan a colaborar cuando pasan a convivir en tiempo libre (en los textos, desde el final del otoño del 5501). Antes, Zorro estaba en los huertos cultivando sin parar, y Tarylla ayudaba a Ina con las excavaciones y estudiaba en sus ratos libres.
 
 ## Ina, Unkas, Zhethe
@@ -48,6 +51,7 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 - **[META]** Ina «es Ina»: mujer de pocas palabras y gran lealtad.
 - **[META]** Ina y Unkas **no recuerdan con exactitud** qué vieron la noche del primer invierno; la negativa de Kliff a hablar de ello no ayuda.
 - **[META]** Zhethe **no miente**: lo que dijo a Kliff era cierto. Ahora conoce a los zombis; Kliff aún no ha visto ninguno.
+- **[META]** Zhethe tiene vida propia: sale a cazar, come en el comedor y trata con Unkas en los templos. En Unkas III, Unkas atribuye su miedo al sobreesfuerzo; en realidad ha visto algo en el bosque.
 
 ## Unkas (verano del 5502)
 

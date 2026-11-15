@@ -77,3 +77,4 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R52 | ¿Cuál es el número del «Relato de Zorro» del verano del 5502? | En el orden de este repo es el #6 (tras Quejas #1–#2, Relatos #3–#5 y Zorro x Tarylla #2); el jugador lo llamó «#7», quizá por la numeración del juego. Pendiente de confirmar. | [`04_personales`](04_personales/README.md) |
 | R53 | ¿«Tercer invierno» es Difebrero del 5502? | Se asume que sí (el 5500 fue el primero y el 5501 el segundo): ahí volverá Yuld. | [`_futuro_wip/plan_arcos.md`](_futuro_wip/plan_arcos.md) |
 | R54 | ¿Qué decía la oferta de Uxnur a Unkas? | Desconocido (Unkas quemó la carta). | [`04_personales`](04_personales/README.md) |
+| R55 | ¿Sigue en pie que Tarylla fue enviada a espiar para El Imperio? | Hoy es un «libro en blanco» sin agenda oculta (meta). La misión de espía figura en `_meta_autor.md` como pasado olvidado; pendiente de confirmar si se mantiene. | [`_meta_autor.md`](_meta_autor.md) |
