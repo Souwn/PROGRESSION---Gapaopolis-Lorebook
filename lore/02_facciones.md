@@ -15,7 +15,7 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 - [El Umbral](#el-umbral) ⚠️ zona de cambio posible
 - [La Liga](#la-liga)
 - [El Bastión](#el-bastión)
-- [Otras](#otras-nombradas-en-la-crónica-de-el-umbral-borrador): Driadea, Ixthar, Exiliados, Primeros Hombres, Cuervo Negro
+- [Otras](#otras-nombradas-en-la-crónica-de-el-umbral-borrador): Driadea, Ixthar, Exiliados, Primeros Hombres, Cuervo Negro, Clan Raíz Profunda
 
 ---
 
@@ -52,7 +52,7 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 - **Fortalezas:** **[CANON]** Es fuerte en todos los campos y la facción más poderosa.
 - **Postura:** **[CANON]** Neutral en términos generales; no suele interactuar de forma directa con otras facciones.
 - **Nivel tecnológico actual:** **[CANON]** Medieval.
-- **Enemigos directos actuales:** **[CANON]** Clan Raíz Profunda y El Umbral.
+- **Enemigos directos actuales:** **[CANON]** Clan Raíz Profunda (elfos) y El Umbral.
 - **Qué sabe de Gapaopolis:** **[CANON]** Tiene plena conciencia de su existencia.
 - **Qué sabe el mundo de ella:** **[CANON]** Las otras tres grandes facciones (El Umbral, La Liga y El Bastión) apenas la conocen. Según la crónica de El Umbral (BORRADOR): concede «títulos reales», sus emisarios guardan voto de silencio y realiza cruzadas contra las artes místicas.
 - Vínculo conocido: el trasfondo de [Tarylla](01_personajes.md#tarylla) está ligado a El Imperio (a detallar; zona de cambio posible).
@@ -82,6 +82,7 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 - **Secretos:** **[CANON]** Normalmente no guarda muchos secretos propios, pero puede comerciar con información sobre otras facciones si lo cree oportuno.
 - **Nivel tecnológico actual:** **[CANON]** Neolítico; destaca en comercio.
 - **Enemigos directos actuales:** **[CANON]** Clan Cuervo Negro y Los Exiliados.
+- **Figuras citadas por el jugador (BORRADOR; cargo y alcance por definir):** **Athil** (La Liga; apodo «El Generoso», según la conversación del jugador) y **Galloux** (recursos y financiación; su vínculo exacto con La Liga está por definir).
 - **Qué sabe de Gapaopolis:** **[CANON]** Sus comerciantes avistaron en ella a un potencial socio comercial y ya se ha establecido un primer encuentro (el «intercambio cultural» del diario de Kliff, 13º–14º de Septumbre del 5501, donde se mostraron interesados en estrechar lazos).
 
 ### El Bastión
@@ -97,11 +98,13 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 - **Qué sabe de Gapaopolis:** **[CANON]** Aún no la conoce.
 
 ### Otras (nombradas en la crónica de El Umbral, BORRADOR)
-- **Círculo de Driadea:** tribu de faunos, magia forestal, bosques profundos del Este.
+- **Círculo de Driadea:** **[CANON]** tribu de **faunos**, magia forestal, bosques profundos del Este. Mala relación con El Umbral.
 - **Colmena de los Ixthar:** civilización insectoide que conquistó las montañas de la tribu antigua; su colonia reside ahora muy cerca de Gapaopolis. (BORRADOR.)
-- **Los Exiliados:** antiguos moradores de esas montañas, antes conocidos como la «tribu de las montañas»; sobreviven en campos fúngicos. **[CANON]** [Unkas](01_personajes.md#unkas) es una Exiliada.
+- **Los Exiliados:** antiguos moradores de esas montañas, antes conocidos como la «tribu de las montañas»; sobreviven en campos fúngicos. **[CANON]** [Unkas](01_personajes.md#unkas) es una Exiliada: las cuevas de las montañas de donde procede son las que hoy controlan los Ixthar. **[CANON]** Los Exiliados hostigan a La Liga del Valor, que los cuenta entre sus enemigos directos.
 - **Los Primeros Hombres:** sociedad precaria de neandertales.
 - **Cuervo Negro:** tribu salvaje de saqueadores de tierras lejanas.
 
-### Otras (visibles en el mapa del mundo, sin descripción todavía)
-En la captura del [mapa del mundo](../Library/imagenes/03_mapa_del_mundo.png) aparecen también **Linaje Sorne**, **Cuevas Negros** (lectura parcial del nombre), **Clan Raíz Profunda**, varias marcas del Imperio, de El Umbral, de La Liga y de El Bastión. Todo: Por definir.
+### Otras (visibles en el mapa del mundo)
+- **Clan Raíz Profunda:** **[CANON]** clan de **elfos**. Enemigo directo de El Imperio; en el mapa del mundo aparece en el extremo sureste, junto a varios asentamientos imperiales. El resto: Por definir.
+
+Sin descripción todavía: en la captura del [mapa del mundo](../Library/imagenes/03_mapa_del_mundo.png) aparecen también **Linaje Sorne**, **Cuevas Negros** (lectura parcial del nombre), varias marcas del Imperio, de El Umbral, de La Liga y de El Bastión. Todo: Por definir.

@@ -16,3 +16,4 @@ Textos que el jugador ya tiene escritos en el juego pero cuyos hechos **aún no 
 |---|---|---|
 | Planes futuros del jugador (Tarylla, Yuld, final de la era) | [planes_futuros.md](planes_futuros.md) | FUTURO |
 | (FUTURO) WIP de Zorro: visita de emisarios | [zorro_visita-de-emisarios.md](zorro_visita-de-emisarios.md) | FUTURO |
+| Arcos 4 a 6: guerras Ixthar, la otra guerra y La Grieta | [arco_5_y_la_grieta.md](arco_5_y_la_grieta.md) | FUTURO |

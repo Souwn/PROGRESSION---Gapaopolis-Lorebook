@@ -39,7 +39,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Oficios:** Médica principal, cocinera, consejera del grupo. Es la mejor cocinera de la colonia, con mucha diferencia.
 - **Nombre completo (BORRADOR):** Unkas «de la tormenta». Creció en refugios de cuevas; fue forzada a salir; conoció a Kliff al salvarla este de un animal salvaje. Se unió «no por las razones más humildes»: fue una huida.
 - **[CANON]** Está totalmente desconcertada ante Kliff.
-- **[CANON]** Segunda en llegar a Gapaopolis. Es una **Exiliada**: procede de las montañas que los Ixthar tomaron en la invasión del 5500 (ver [`02_facciones.md`](02_facciones.md)), y se unió a Kliff huyendo de ella.
+- **[CANON]** Segunda en llegar a Gapaopolis. Es una **Exiliada**: procede de las montañas que los Ixthar tomaron en la invasión del 5500 (ver [`02_facciones.md`](02_facciones.md)), y se unió a Kliff huyendo de ella. Las cuevas donde creció son las que hoy controlan los Ixthar.
 - **[BORRADOR]** Se une a Kliff en el 5500, tras separarse de su grupo y viajar en dirección opuesta a la de Gapaopolis. No recuerda con exactitud lo que vio la noche del primer invierno.
 - Documentos: [Historia de Unkas](04_personales/5501-00-00_nota_unkas_historia-de-unkas.md), [Unkas II](04_personales/5501-00-00_nota_unkas_unkas-ii.md).
 - Edad, motivaciones profundas, relaciones, trayectoria: Por definir.
@@ -60,6 +60,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **[CANON]** Séptima en unirse a Gapaopolis, después de Kliff, Unkas, Ina, Kaelen, Liry y Ozan.
 - ⚠️ Su pasado imperial es una **zona de cambio posible** (ver [`_registro_retcons.md`](_registro_retcons.md)); no consolidar sin aprobación del jugador.
 - **[CANON]** Actúa de forma abiertamente rara. No recuerda nada de su pasado y atribuye sus pesadillas a ser una «friki indecente» que mete palos en las cuencas de los ojos de los esqueletos.
+- **[BORRADOR]** La colonia, Zorro incluida, la tiene por rara: sospechan que inhala vapores extraños y que huele cosas que no deberían olerse. Pero su aporte al refugio es valioso, así que rige un pacto tácito de no mirar ni juzgar (según el jugador).
 - **[BORRADOR]** Zorro sospecha que viene de El Umbral (hipótesis de Zorro, no un hecho): sabe más de lo que dice, incluso el nombre de un retrete.
 - **[BORRADOR]** Investiga las anomalías (niebla, esqueletos sombríos, el mímico) para defender el refugio. El invierno del 5500 la dejó traumatizada; su manera de expresarlo es querer dar la voz de alarma sobre la amenaza, algo que Kliff no hace. Mantiene en secreto sus experimentos. Antes ayudaba a Ina con las excavaciones de la montaña y estudiaba en su tiempo libre; hacia el final del otoño del 5501 se acerca a Zorro y colaboran. Conoce a los esqueletos sombríos y al mímico.
 - Documentos: [Notas #1–#5](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md), [Sueño](04_personales/5501-00-00_nota_tarylla_sueno-de-tarylla.md).
@@ -73,6 +74,7 @@ Los secretos y las intenciones del autor no están aquí sino en [`_meta_autor.m
 - **Oficios:** Investigadora, agricultora, aprendiz de medicina.
 - **Límite de conocimiento:** posee conocimientos avanzados (ver [`09_tecnologia.md`](09_tecnologia.md)).
 - **[CANON]** Viene de una civilización más avanzada y no tiene problemas de memoria. Por naturaleza de sus orígenes es arrogante y le gusta llevar la razón. Se estableció en Gapaopolis por voluntad propia, no por necesidad extrema.
+- **[BORRADOR]** Una pequeña genio con fama de rara entre los colonos: «desayuna conocimiento». Es más joven que Tarylla.
 - **Datos de los textos (BORRADOR):** 20 años; huérfana según Kliff; se unió en Junligosto del 5501. Estaba en los huertos; desde el final del otoño del 5501 colabora con Tarylla. Kliff no conoce su pasado.
 - Documentos: [Quejas y relatos](04_personales/5501-00-00_diario_zorro_quejas-y-relatos.md).
 - Edad, origen concreto, voz, motivaciones, relaciones, trayectoria: Por definir.
