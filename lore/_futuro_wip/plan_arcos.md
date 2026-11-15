@@ -45,7 +45,7 @@ Indicado por el jugador en el chat (6 de noviembre) o ya archivado. Estado `DECI
 | **S10** | La Aguja Solar es una torre: el tono es medieval-fantasy, no ciencia ficción. | Zorro viene de la élite científica de una aristocracia medieval, no de una nave. Ver 6.2. |
 | **S11** | El juego decide los embarazos y los bebés; la historia los absorbe cuando toque. | Siguen `APLAZADO`. El plan no los usa, pero deja huecos para cuando entren. Ver 6.3. |
 | **S12** | El «trato con el diablo» (El Imperio): **Kliff no lo acepta; el trato se impone.** No era una negociación, era un aviso. | Aclarado en el [arco 5](#52-arco-5--la-caída-del-tablero-título-provisional). |
-| **S13** | Pendiente de archivo del chat: Kliff escribirá cada vez menos en el diario, por paranoia (por si lo espían). Tarylla mantiene que el bosque oscuro, las sombras, la niebla y los monstruos son la amenaza principal. Zorro recluta ella misma a Krosswynd «para que la ayude en el huerto», lo que causa roce con Kliff por meter gente sin su permiso, aunque al final lo acepta. Unkas empieza a conspirar. Zhethe sigue con su labor y hace sonar la alarma ante una incursión de asaltantes. Yuld vuelve a visitar el 9º de Marzimayo y rechaza volver (borrador de la entrada 2 de Kliff). | Son la espina dorsal del arco 3. |
+| **S13** | Pendiente de archivo del chat: Kliff escribirá cada vez menos en el diario, por paranoia (por si lo espían). Tarylla mantiene que el bosque oscuro, las sombras, la niebla y los monstruos son la amenaza principal. Zorro recluta ella misma a Krosswynd «para que la ayude en el huerto», lo que causa roce con Kliff por meter gente sin su permiso, aunque al final lo acepta. Unkas empieza a conspirar. Zhethe sigue con su labor y hace sonar la alarma ante una incursión de asaltantes. Yuld vuelve a visitar en el tercer invierno (Difebrero del 5502) y rechaza volver. | Son la espina dorsal del arco 3. |
 
 ---
 
@@ -108,9 +108,9 @@ Resumen de lo establecido a Marzimayo de 5502. Lo marcado `META` o `FUTURO` no e
 | Zhethe | Dijo a Kliff «cosas imposibles» (un zombi con la apariencia de Liry). No miente. Tiene choza propia junto a la puerta, en el punto más expuesto. | Diario de Kliff 5501, Zorro #5 |
 | Tarylla | Perdió al mímico durante el invierno. Lo busca con una estaca disfrazada de «control de calidad». No recuerda su pasado. `META`: amnesia, personalidad reconstruida y ligera manipulación mental; la caja que enfría funciona con polvo de huesos del esqueleto sombrío. | Tarylla #6 (borrador) |
 | Zorro | 20 años, sarcástica, arrogante, quiere llevar la razón. Ligero *crush* hacia Kliff. Vive en un barracón compartido; teme volver al huerto. Sospecha que Tarylla viene de El Umbral (Zorro x Tarylla #2). `META`: será la primera en enfrentarse a Kliff. | Relato #5, Zorro x Tarylla #2 |
-| Yuld | Se fue el 1º de Septumbre de 5501 al rancho del este. Vuelve de visita el 9º de Marzimayo de 5502 y rechaza quedarse (borrador de la entrada 2 de Kliff). La carta que dejó nunca apareció: `META`, alguien la encontró y se deshizo de ella. | Carta de Yuld, `_meta_autor.md`, chat |
+| Yuld | Se fue el 1º de Septumbre de 5501 al rancho del este. Vuelve de visita en el tercer invierno (Difebrero del 5502, según el jugador) y rechaza quedarse. La carta que dejó nunca apareció: `META`, alguien la encontró y se deshizo de ella. | Carta de Yuld, `_meta_autor.md`, chat |
 | Tumbas | Las de Kaelen, Liry y Ozan aparecieron saqueadas el 15º de Difebrero de 5501. Sin explicación (**S8**). | Diario de Kliff 5501 |
-| Recién llegados | Lexington (minero, raza no humana) y Krosswynd (granjero, humano; aún no es canon oficial). | [`_diario_de_partida.md`](../_diario_de_partida.md) |
+| Recién llegados | Lexington (minero, raza no humana) y Krosswynd (granjero errante, humano; BORRADOR). | [`_diario_de_partida.md`](../_diario_de_partida.md) |
 | Obras | Muralla grande terminada. Lista del jugador: templo nuevo, casas nuevas, túneles. | Zorro #5, mensaje del jugador |
 | `FUTURO` | Visita de emisarios de las tres potencias (90 %). Guerra final perdida, rescate imperial, Kliff nombrado Terrateniente. | [`planes_futuros.md`](planes_futuros.md), [`zorro_visita-de-emisarios.md`](zorro_visita-de-emisarios.md) |
 
@@ -243,11 +243,11 @@ Relaciones clave (todas `IDEA` salvo lo de la sección 1):
 
 #### Hilo D · Yuld, los animales y la frontera
 
-**Ya establecido:** Yuld vuelve de visita el 9º de Marzimayo, rechaza quedarse y la puerta sigue abierta; la carta nunca aparece. Zhethe, cuidador de los animales, vive junto a la puerta. `FUTURO`: Yuld cuenta que sus suministros fueron asaltados por bárbaros que mataron a su enviado (comienzo de las guerras). Zhethe hará sonar la alarma ante una incursión (**S13**). El juego ya registra un ataque de un Ferroespanto (pendiente).
+**Ya establecido:** Yuld vuelve de visita en el tercer invierno (Difebrero del 5502), rechaza quedarse y la puerta sigue abierta; la carta nunca aparece. Zhethe, cuidador de los animales, vive junto a la puerta. `FUTURO`: Yuld cuenta que sus suministros fueron asaltados por bárbaros que mataron a su enviado (comienzo de las guerras). Zhethe hará sonar la alarma ante una incursión (**S13**). El juego ya registra un ataque de un Ferroespanto (pendiente).
 
 | ID | Evento | Tipo | Depende de | Quién lo sabe | Texto previsto |
 |---|---|---|---|---|---|
-| D1 | Visita de Yuld (9º de Marzimayo): rechaza volver; la carta no aparece. | ANCLA | — | Colonia | Diario de Kliff 2 (borrador) |
+| D1 | Visita de Yuld (tercer invierno, Difebrero del 5502): rechaza volver; la carta no aparece. | ANCLA | — | Colonia | Por escribir (el borrador del 9º de Marzimayo queda aparcado) |
 | D2 | Se sabe de los bárbaros: lo cuenta Yuld, o Zhethe encuentra un carro asaltado (ver **Q5**). | ANCLA | D1 | Yuld / Zhethe | Diario de Kliff o nota de Zhethe |
 | D3 | Zhethe da la alarma ante una incursión de asaltantes. La colonia aguanta. | ANCLA | D2 | Colonia | Bitácora (primera entrada de peso) |
 | D4 | Unkas se entera de lo que Zhethe hizo. Duda de su plan (o lo acelera). | FLEXIBLE | D3, A5 | Unkas | Nota de Unkas |

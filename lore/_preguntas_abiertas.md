@@ -36,7 +36,7 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R11 | ¿Es «Invierno del 5500» el nombre definitivo? | Sí: el invierno catastrófico previo a la historia es del 5500. | [`00_cronologia.md`](00_cronologia.md) |
 | R12 | Orden de llegada a Gapaopolis | Kliff, Unkas, Ina, Kaelen y Liry, Ozan, Tarylla (la séptima). | [`00_cronologia.md`](00_cronologia.md), [`01_personajes.md`](01_personajes.md) |
 | R13 | ¿Cuándo empieza la partida y qué día es «hoy»? | El 1º de Marzimayo del 5500; «hoy» es el día de la partida en que está el jugador. Los meses son los quadrums de RimWorld. | [`00_cronologia.md`](00_cronologia.md) |
-| R14 | ¿De dónde vienen Lexington y Krosswynd? | Se desconoce: llegan cuando el juego los pone; el lore se ajusta después para encajarlos. | [`01_personajes.md`](01_personajes.md), [`_meta_autor.md`](_meta_autor.md) |
+| R14 | ¿De dónde vienen Lexington y Krosswynd? | Se desconoce. Krosswynd es un granjero errante («nómada»), reclutado por Zorro en el primer tercio de Junligosto del 5502 (BORRADOR); Lexington sigue sin origen. | [`01_personajes.md`](01_personajes.md), [`_meta_autor.md`](_meta_autor.md) |
 | R15 | ¿Qué es el «penicam»? | Pemmican, la comida de viaje de larga duración de RimWorld; el lore corre sobre RimWorld. | [`09_tecnologia.md`](09_tecnologia.md) |
 | R16 | ¿«Técnicamente inmoral»? | Inmortal. | [`_meta_autor.md`](_meta_autor.md) |
 | R17 | ¿«Zorro» Piaroa? | «Zorro» es el apodo y Piaroa el nombre (puede cambiar). | [`01_personajes.md`](01_personajes.md) |
@@ -46,7 +46,7 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R21 | ¿«MISS» y «COWS?» en las capturas? | MISS = personajes que han muerto; COWS = donde las vacas ya no estaban porque Yuld se las llevó. | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
 | R22 | Orden cronológico absoluto de los eventos | Es el de las notas, ya fijado como CANON. | [`00_cronologia.md`](00_cronologia.md) |
 | R23 | ¿La fundación coincide con el inicio de la partida? | Aproximadamente, el 1º de Marzimayo del 5500. Las fechas exactas de los demás fundadores siguen por definir. | [`00_cronologia.md`](00_cronologia.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
-| R24 | ¿Dónde encajan Yuld, Zhethe y Krosswynd en el orden de llegada? | Tras Tarylla: primero Yuld, luego Zhethe. Krosswynd es muy reciente y aún no es canon oficial. | [`00_cronologia.md`](00_cronologia.md), [`01_personajes.md`](01_personajes.md) |
+| R24 | ¿Dónde encajan Yuld, Zhethe y Krosswynd en el orden de llegada? | Tras Tarylla: primero Yuld, luego Zhethe. Krosswynd es el último en llegar (primer tercio de Junligosto del 5502, BORRADOR). | [`00_cronologia.md`](00_cronologia.md), [`01_personajes.md`](01_personajes.md) |
 | R25 | ¿Cuál es la orientación de El Umbral y El Bastión? | El Umbral, sobre todo en el este del norte y en parte por el este (no del todo al este); El Bastión, al oeste. | [`02_facciones.md`](02_facciones.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
 | R26 | ¿Se mantiene el término «República»? | No: las tres facciones se llaman El Umbral (Este), La Liga (Centro) y El Bastión (Oeste). | [`02_facciones.md`](02_facciones.md) |
 | R27 | ¿Estaba Zhethe en la colonia cuando murió Liry? | No: llegó mucho más tarde. | [`01_personajes.md`](01_personajes.md), [`00_cronologia.md`](00_cronologia.md) |
@@ -74,3 +74,6 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R49 | ¿Kliff rescatado y Terrateniente, o secuestrado? | Hubo un cambio de planes: El Imperio se lleva secuestrados a Kliff y a Tarylla. | [`_futuro_wip/arco_5_y_la_grieta.md`](_futuro_wip/arco_5_y_la_grieta.md) |
 | R50 | ¿Quién dirige La Liga? | Athil y Galloux, desde ahora. | [`02_facciones.md`](02_facciones.md) |
 | R51 | ¿Qué desata La Grieta? | Los altos mandos de El Umbral inestabilizan un portal durante el asalto imperial y la corrupción se filtra sin control. | [`_futuro_wip/arco_5_y_la_grieta.md`](_futuro_wip/arco_5_y_la_grieta.md) |
+| R52 | ¿Cuál es el número del «Relato de Zorro» del verano del 5502? | En el orden de este repo es el #6 (tras Quejas #1–#2, Relatos #3–#5 y Zorro x Tarylla #2); el jugador lo llamó «#7», quizá por la numeración del juego. Pendiente de confirmar. | [`04_personales`](04_personales/README.md) |
+| R53 | ¿«Tercer invierno» es Difebrero del 5502? | Se asume que sí (el 5500 fue el primero y el 5501 el segundo): ahí volverá Yuld. | [`_futuro_wip/plan_arcos.md`](_futuro_wip/plan_arcos.md) |
+| R54 | ¿Qué decía la oferta de Uxnur a Unkas? | Desconocido (Unkas quemó la carta). | [`04_personales`](04_personales/README.md) |

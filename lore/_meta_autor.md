@@ -49,10 +49,17 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 - **[META]** Ina y Unkas **no recuerdan con exactitud** qué vieron la noche del primer invierno; la negativa de Kliff a hablar de ello no ayuda.
 - **[META]** Zhethe **no miente**: lo que dijo a Kliff era cierto. Ahora conoce a los zombis; Kliff aún no ha visto ninguno.
 
+## Unkas (verano del 5502)
+
+- **[META]** Unkas recibió una carta de **Uxnur**, líder actual de Los Exiliados, con una oferta; la quemó. El contenido de la carta es desconocido incluso para el autor por ahora. Es un guiño intencionado al paralelo con la carta perdida de Yuld.
+- **[META]** En «Unkas III» proyecta su visión: atribuye el miedo de Zhethe al sobreesfuerzo que le exige Kliff (Zhethe no miente); cree que Zorro fue temeraria e ignora que Kliff evaluó a Krosswynd; descarga su ira contra Tarylla creyendo que holgazanea (los hongos son solo la excusa de Tarylla, que no tiene relación con ellos; Unkas lo ignora); no tiene quejas contra Ina; sabe poco de las anomalías.
+- **[META]** Las líneas en las que Unkas dice que debería quemar la nota («Meta») no las deja por escrito: no dejaría pruebas de haber destruido pruebas.
+
 ## Yuld
 
 - **[META]** Se fue al rancho para establecer un sitio seguro de crianza de animales sin comprometer a la colonia y, de paso, quitarse de en medio como boca que alimentar. **Volverá a aparecer**, pero no se reincorporará a la colonia principal como pawn.
 - **[META]** Era el abuelo bonachón y optimista. Todos lo echan de menos, pero normalmente no se habla de ello.
+- **[META]** Yuld volverá en el **tercer invierno** (Difebrero del 5502), no antes; el jugador tiene planes para esa visita. Hasta entonces Kliff solo se pregunta por él.
 
 ## Criaturas
 
@@ -62,6 +69,7 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 
 ## Mundo y facciones
 
+- **[META]** Los grupos del norte que asaltan a La Liga y a Gapaopolis (sin nombre en el diario de Kliff) son Los Exiliados, el Clan Cuervo Negro y rezagados de Los Primeros Hombres.
 - **[META]** Es un mundo en edad precaria donde algunos han prosperado más que otros. Las facciones más poderosas o avanzadas son las que «llevan la voz». Hay más asentamientos rústicos como Gapaopolis, pero esta es la historia de Gapaopolis. Las facciones suelen ser egoístas con sus avances.
 - **[META]** Los Ixthar **no** están relacionados con El Umbral. Ocultan sus propios secretos tras «El Enjambre de Sorne», relacionado con el Linaje Sorne del mapa (a desarrollar).
 - **[META]** Los Ixthar serán el equivalente a los zerg de *StarCraft* o los tiránidos de *Warhammer 40.000*, con un aire de «dios antiguo» al estilo de *World of Warcraft*. Este lore aún no está pensado al 100 %.

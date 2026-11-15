@@ -63,7 +63,7 @@ _Por definir._ Lo único escrito: la «Crónica secreta VII» de El Umbral (ver 
 
 Zhethe llegó mucho más tarde que la muerte de Liry (Difebrero del 5500) y poco antes que Zorro.
 
-Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Septumbre del 5501). Krosswynd es muy reciente y todavía no es canon oficial, por lo que no figura en este orden.
+Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Septumbre del 5501). Krosswynd, el último en llegar (primer tercio de Junligosto del 5502, BORRADOR), no figura en este orden.
 
 ## Orden cronológico del contenido de las notas
 
@@ -99,6 +99,10 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 22 | Kliff, 11º–15º Difebrero | Último arco de Kliff. |
 | 23 | [Kliff, 1º Marzimayo del 5502](04_personales/5502-01-01_diario_kliff_la-sombra-de-la-sospecha.md) | Comienza el tercer año; el invierno pasó sin desgracias; quiere vigilar a Unkas y Zhethe. |
 | 24 | Zorro #5 | La muralla nueva y grande; Tarylla sale al sol con una estaca («control de calidad»). Marzimayo del 5502, sin día exacto. |
+| 25 | [Zorro #6](04_personales/5501-00-00_diario_zorro_quejas-y-relatos.md), 1º–3º Junligosto del 5502 | Zorro recluta a Krosswynd; Kliff la castiga a dormir en el huerto. Escrito de noche, desde el huerto. |
+| 26 | [Kliff, Primer tercio de Junligosto del 5502](04_personales/5502-01-01_diario_kliff_la-sombra-de-la-sospecha.md) | Escribe menos y esconde lo que escribe; muebles movidos en su sala; campamento de La Liga y sus dos bandos. |
+| 27 | Kliff, Segundo tercio de Junligosto del 5502 | Informes de La Liga sobre bandidos; Mattias Burwils y «Athil El Generoso»; asamblea propuesta. |
+| 28 | [Unkas III](04_personales/5502-02-00_nota_unkas_unkas-iii.md), tercer tercio de Junligosto del 5502 | Cansada de la locura de la colonia; menciona la oferta de Uxnur que quemó. |
 
 **[CANON]** Los eventos con las rocas (el mímico) ocurrieron «mucho antes» de la llegada de Lexington.
 
@@ -131,6 +135,10 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 15º Difebrero 5501 | Kliff halla las tumbas saqueadas y vacías (de Kaelen, Liry y Ozan) | Kliff | Diario de Kliff; jugador | BORRADOR |
 | 1º Marzimayo 5502 | Comienza el tercer año; han sobrevivido al invierno sin desgracias; Kliff querría vigilar más a Unkas y Zhethe | Kliff | [Diario de Kliff 2](04_personales/5502-01-01_diario_kliff_la-sombra-de-la-sospecha.md) | BORRADOR |
 | Marzimayo 5502 | Se termina la muralla nueva y grande, que encierra huerto y granja; Zhethe tiene su choza junto a la puerta; Tarylla sale al sol y revisa los muebles con una estaca gigante | Zorro, Kliff, Zhethe, Tarylla | Relato de Zorro #5 | BORRADOR |
+| 1º–3º Junligosto 5502 | Zorro ve a Krosswynd desde la muralla, lo evalúa y lo deja entrar al ver bandidos acechando; Kliff lo interroga y castiga a Zorro a dormir el verano en el huerto | Zorro, Krosswynd, Kliff | Relato de Zorro #6; Diario de Kliff 2 | BORRADOR |
+| Primer tercio de Junligosto 5502 | Kliff escribe menos por miedo a que lo espíen y nota que alguien ha movido los muebles de su sala; Ina dibuja los blasones de La Liga | Kliff, Ina | Diario de Kliff 2 | BORRADOR |
+| Segundo tercio de Junligosto 5502 | La Liga informa de robos y asaltos a su campamento, a Gapaopolis y a una granja cercana; Mattias Burwils avisa a «Athil El Generoso»; se propone una asamblea con La Liga, El Umbral y El Bastión | Kliff, Mattias Burwils, Athil | Diario de Kliff 2 | BORRADOR |
+| Tercer tercio de Junligosto 5502 | Unkas, agotada, anota su visión de la colonia; había quemado una carta con una oferta de Uxnur | Unkas | [Unkas III](04_personales/5502-02-00_nota_unkas_unkas-iii.md) | BORRADOR |
 
 ## Conflictos y dudas cronológicas abiertas
 

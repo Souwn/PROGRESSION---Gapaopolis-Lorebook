@@ -83,6 +83,8 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 - **Nivel tecnológico actual:** **[CANON]** Neolítico; destaca en comercio.
 - **Enemigos directos actuales:** **[CANON]** Clan Cuervo Negro y Los Exiliados.
 - **Qué sabe de Gapaopolis:** **[CANON]** Sus comerciantes avistaron en ella a un potencial socio comercial y ya se ha establecido un primer encuentro (el «intercambio cultural» del diario de Kliff, 13º–14º de Septumbre del 5501, donde se mostraron interesados en estrechar lazos).
+- **Campamento cercano (BORRADOR, verano del 5502):** mantiene un pequeño campamento de comerciantes cerca de Gapaopolis, representado por **Mattias Burwils**. Son los «ojos» de Kliff en el exterior y su carta de presentación ante otras facciones. Según ellos, La Liga se divide en dos grandes grupos, el de Athil y el de Galloux; el de Athil se presenta como «los buenos» y advierte contra el otro (Kliff lo toma con reservas). Kliff conoce a Athil solo de oídas, como «Athil El Generoso». Sus informes citan robos en caminos y asaltos a su campamento, a Gapaopolis y a una granja cercana, de dos grupos organizados y rezagados del norte. Propone una asamblea con las tres grandes potencias (La Liga, El Umbral y El Bastión) para ver el problema sobre el terreno y presentarse formalmente; gestionar los pactos y tratados les costará «algunas piedras preciosas». Aún solo es una propuesta.
+- **Pagos:** **[CANON]** acepta como pago piedras preciosas, oro, plata y favores. El bando de Galloux también acepta deuda.
 
 ### El Bastión
 - **Estado:** CANON (ficha genérica fijada por el jugador; se irá ampliando)
@@ -99,7 +101,7 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 ### Otras (nombradas en la crónica de El Umbral, BORRADOR)
 - **Círculo de Driadea:** **[CANON]** tribu de **faunos**, magia forestal, bosques profundos del Este. Mala relación con El Umbral.
 - **Colmena de los Ixthar:** civilización insectoide que conquistó las montañas de la tribu antigua; su colonia reside ahora muy cerca de Gapaopolis. (BORRADOR.)
-- **Los Exiliados:** antiguos moradores de esas montañas, antes conocidos como la «tribu de las montañas»; sobreviven en campos fúngicos. **[CANON]** [Unkas](01_personajes.md#unkas) es una Exiliada: las cuevas de las montañas de donde procede son las que hoy controlan los Ixthar. **[CANON]** Los Exiliados hostigan a La Liga del Valor, que los cuenta entre sus enemigos directos.
+- **Los Exiliados:** antiguos moradores de esas montañas, antes conocidos como la «tribu de las montañas»; sobreviven en campos fúngicos. Su líder actual es **Uxnur** (BORRADOR). **[CANON]** [Unkas](01_personajes.md#unkas) es una Exiliada: las cuevas de las montañas de donde procede son las que hoy controlan los Ixthar. **[CANON]** Los Exiliados hostigan a La Liga del Valor, que los cuenta entre sus enemigos directos.
 - **Los Primeros Hombres:** sociedad precaria de neandertales.
 - **Cuervo Negro:** tribu salvaje de saqueadores de tierras lejanas.
 
