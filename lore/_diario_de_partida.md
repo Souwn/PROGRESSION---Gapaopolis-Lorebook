@@ -19,7 +19,7 @@ _Fecha de partida:_ Por definir.
 
 | Evento | Detalle (según el jugador) | Adaptación |
 |---|---|---|
-| Llegada de dos colonos | [Lexington](01_personajes.md#lexington) y [Krosswynd](01_personajes.md#krosswynd) (este aún no es canon oficial). | Pendiente (el juego los puso en la partida; el lore se ajustará para encajarlos) |
+| Llegada de dos colonos | [Lexington](01_personajes.md#lexington) y [Krosswynd](01_personajes.md#krosswynd). | Krosswynd: adaptado (Relato de Zorro #6, Diario de Kliff 2). Lexington: pendiente |
 | Pareja | [Kliff](01_personajes.md#kliff) y [Zorro](01_personajes.md#zorro) se han hecho pareja. | Aplazado |
 | Embarazo | Zorro espera un hijo de Kliff. | **Aplazado: no adaptar hasta MUCHO MÁS TARDE.** |
 | Embarazo | [Zhethe](01_personajes.md#zhethe) y [Unkas](01_personajes.md#unkas) esperan un hijo (no son pareja). | **Aplazado: no adaptar por ahora.** |
@@ -30,7 +30,7 @@ _Fecha de partida:_ Por definir.
 | Evento | Detalle (según el jugador) | Adaptación |
 |---|---|---|
 | Ataque | Hubo un ataque de un Ferroespanto. | Pendiente |
-| Colonos nuevos | Lexington (minero, raza no humana) y Krosswynd (agricultor, humano) se han unido a la colonia. | Pendiente (Krosswynd aún no es canon oficial) |
+| Colonos nuevos | Lexington (minero, raza no humana) y Krosswynd (agricultor, humano) se han unido a la colonia. | Krosswynd: adaptado (Relato de Zorro #6, Diario de Kliff 2). Lexington: pendiente |
 | Muralla | Se ha construido una muralla exterior mucho más grande que deja dentro el huerto y la granja. | Adaptado (Relato de Zorro #5) |
 | Choza | Zhethe tiene su propia choza junto a la puerta. | Adaptado (Relato de Zorro #5) |
 | Parejas y bebés | Ver los eventos aplazados de la sesión 1. | Aplazado |

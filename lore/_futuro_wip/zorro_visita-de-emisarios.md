@@ -31,3 +31,4 @@ Aunque, había algo más inquietante de lo usual, uno de ellos cubierto hasta ar
 ---
 **Notas de edición (fuera del mundo):**
 - Fuente de los hechos: texto aportado por el jugador (literal), título en el juego «(FUTURO) - WIP - ZORRO».
+- El desenlace de esta línea con El Umbral (caída de La Aguja Solar y La Grieta, vistas por Zorro) está en [`arco_5_y_la_grieta.md`](arco_5_y_la_grieta.md).
