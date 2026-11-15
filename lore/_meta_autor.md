@@ -26,12 +26,11 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 ## Tarylla
 
 - **[META]** Su nombre original (el que tenía antes, como agente imperial) es otro y se reserva. No confundir con «Cochinilla», el nombre que le dio el juego y que ya no es canon. Fue enviada a Gapaopolis a **espiar en nombre del Imperio**, por razones desconocidas. En el camino algo la asaltó (los eventos de su sueño) y **no recuerda nada**.
-- **[META]** Conviven en ella **tres identidades**: (a) Tarylla imperial, (b) Tarylla corrompida, (c) Tarylla leal a Gapaopolis. Su lealtad actual es hacia Gapaopolis, «quizás no de la forma más sensata».
+- **[META]** Tarylla no sufre un trastorno de identidad múltiple. Sufre **amnesia**, tiene una **personalidad reconstruida de cero** (no es la original) y una **ligera manipulación mental** por lo que se le metió dentro en el bosque. Su lealtad actual es hacia Gapaopolis, «quizás no de la forma más sensata».
 - **[META]** Tiene una crisis de identidad aún sin explicar, ligada a su pasado (El Imperio «y algo más»). Esa presión latente la hace perder la cabeza por momentos.
 - **[META]** El invierno del 5500 la dejó profundamente traumatizada. Lo expresa queriendo llevar la voz sobre la amenaza, algo que Kliff no hace. Investiga las anomalías (en su mayoría procedentes del DLC *Anomaly*) para defender el refugio.
 - **[META]** Sus investigaciones a veces coinciden sin planearlo con las necesidades de la colonia. Ejemplo: **la caja que enfría** funciona con el esqueleto sombrío, no directamente, sino con un **polvo hecho con sus huesos**. Tarylla insiste en que son «hongos mágicos con sal»; Zorro no sabe qué hizo, pero funciona.
 - **[META]** La «infusión de hongos raros de las tierras sombrías» es **una excusa** de Tarylla; no existe tal cosa.
-- **[META/PENDIENTE]** En otra conversación el jugador dijo que Tarylla «no tiene múltiple identidad, tiene una, y no es su identidad original». Choca con las **tres identidades** de arriba; no se ha cambiado nada hasta que el jugador lo aclare (ver [`_preguntas_abiertas.md`](_preguntas_abiertas.md)).
 - **[META]** Tarylla es **mayor** que Zorro (que tiene 20 años). Su nombre original está clasificado (ver arriba).
 - **[META]** La colonia no vigila sus excavaciones ni sus ausencias por el pacto tácito de «no mirar y no juzgar»: sospechan que inhala vapores raros, pero su aporte compensa.
 - **[META]** Nota no seria del director: efectos secundarios de inhalar gases alucinógenos, lamer hongos y acurrucarse en ropa sucia (esto último, ni confirmado ni descartado). Humor, sin consecuencia narrativa.

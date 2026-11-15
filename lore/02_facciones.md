@@ -74,7 +74,7 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 
 ### La Liga
 - **Estado:** CANON (ficha genérica fijada por el jugador; se irá ampliando)
-- **Tipo y gobierno:** **[CANON]** Facción del Centro, una meritocracia; su líder está por definir. **La Liga del Valor** es el nombre completo de su gremio de comerciantes.
+- **Tipo y gobierno:** **[CANON]** Facción del Centro, una meritocracia dirigida por dos líderes, **Athil** y **Galloux**. **La Liga del Valor** es el nombre completo de su gremio de comerciantes.
 - **Territorio y sede:** **[CANON]** Su sede principal (nombre por definir) está casi en el centro del continente. Su capital (nombre por definir) tiene grandes carreteras que se extienden en todas direcciones. Tiene sedes repartidas por algunos puntos del continente, en su mayoría menores.
 - **Objetivos:** **[CANON]** Ser una gran potencia económica, si no la mayor. La mueve sobre todo la avaricia, pero mantiene un código interno.
 - **Fortalezas:** **[CANON]** Gran potencia económica y poseedora de recursos estratégicos.
@@ -82,7 +82,6 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 - **Secretos:** **[CANON]** Normalmente no guarda muchos secretos propios, pero puede comerciar con información sobre otras facciones si lo cree oportuno.
 - **Nivel tecnológico actual:** **[CANON]** Neolítico; destaca en comercio.
 - **Enemigos directos actuales:** **[CANON]** Clan Cuervo Negro y Los Exiliados.
-- **Figuras citadas por el jugador (BORRADOR; cargo y alcance por definir):** **Athil** (La Liga; apodo «El Generoso», según la conversación del jugador) y **Galloux** (recursos y financiación; su vínculo exacto con La Liga está por definir).
 - **Qué sabe de Gapaopolis:** **[CANON]** Sus comerciantes avistaron en ella a un potencial socio comercial y ya se ha establecido un primer encuentro (el «intercambio cultural» del diario de Kliff, 13º–14º de Septumbre del 5501, donde se mostraron interesados en estrechar lazos).
 
 ### El Bastión

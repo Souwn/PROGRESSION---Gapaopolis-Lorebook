@@ -18,9 +18,9 @@ estado_canon: FUTURO
 ## Muy futuro: final de la era neolítica
 - Gapaopolis, Los Primeros Hombres y La Liga declararán la guerra a las dos potencias conocidas más poderosas. Será una guerra perdida en todos los aspectos.
 - El líder de La Liga dirá a Kliff que hay otra ficha en el tablero, una facción que puede cambiar las tornas, pero que impone un requisito: pueden hacer un trato justo o tomarlo por la fuerza. Quieren a Tarylla.
-- Kliff se negará, irá a la guerra y perderá. Entonces veinte soldados de El Imperio llegarán en un «barco volador» (zepelín) y acabarán con El Umbral y El Bastión. Se llevarán a Tarylla, rescatarán a Kliff, lo nombrarán Terrateniente y lo dejarán en Gapaopolis antes de que recobre la conciencia.
+- Kliff se negará, irá a la guerra y perderá. Entonces veinte soldados de El Imperio llegarán en un «barco volador» (zepelín) y acabarán con El Umbral y El Bastión. Se llevarán a Tarylla, rescatarán a Kliff, lo nombrarán Terrateniente y lo dejarán en Gapaopolis antes de que recobre la conciencia. *(Sustituido: hubo un cambio de planes y ahora El Imperio se lleva secuestrados a Kliff y a Tarylla; ver [`arco_5_y_la_grieta.md`](arco_5_y_la_grieta.md). El título de Terrateniente queda sin confirmar.)*
 
-> La secuencia de la guerra final y de El Umbral, con más detalle (bandos, traición de El Bastión, secuestro de Kliff y Tarylla, caída de La Aguja Solar y La Grieta), está en [`arco_5_y_la_grieta.md`](arco_5_y_la_grieta.md). Donde difiera de lo de arriba (p. ej. rescate y título de Terrateniente frente a secuestro), ver la duda en [`../_preguntas_abiertas.md`](../_preguntas_abiertas.md).
+> La secuencia de la guerra final y de El Umbral, con más detalle (bandos, traición de El Bastión, secuestro de Kliff y Tarylla, caída de La Aguja Solar y La Grieta), está en [`arco_5_y_la_grieta.md`](arco_5_y_la_grieta.md). Donde difiera de lo de arriba, manda ese archivo.
 
 ## Extra (a tomar con pinzas)
 - Tarylla es una agente enviada por El Imperio, asaltada por una fuerza oscura (su pesadilla); El Imperio la quiere de vuelta.

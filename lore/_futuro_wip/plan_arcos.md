@@ -106,7 +106,7 @@ Resumen de lo establecido a Marzimayo de 5502. Lo marcado `META` o `FUTURO` no e
 | Kliff | Cree que sobrevivieron «sin una sola desgracia». Quiere vigilar a Unkas y Zhethe y no sabe en quién confiar. `META`: paranoia que intenta ocultar; inmortal, con psycasts, sin saberlo. | Diario de Kliff 2, [`_meta_autor.md`](../_meta_autor.md) |
 | Unkas | Escribió que Kliff le preocupa y que la gente lo evita. Está «totalmente desconcertada». Es una Exiliada que huyó de las montañas tomadas por los Ixthar. `META`: planea quedarse. | Unkas II, fichas |
 | Zhethe | Dijo a Kliff «cosas imposibles» (un zombi con la apariencia de Liry). No miente. Tiene choza propia junto a la puerta, en el punto más expuesto. | Diario de Kliff 5501, Zorro #5 |
-| Tarylla | Perdió al mímico durante el invierno. Lo busca con una estaca disfrazada de «control de calidad». No recuerda su pasado. `META`: tres identidades; la caja que enfría funciona con polvo de huesos del esqueleto sombrío. | Tarylla #6 (borrador) |
+| Tarylla | Perdió al mímico durante el invierno. Lo busca con una estaca disfrazada de «control de calidad». No recuerda su pasado. `META`: amnesia, personalidad reconstruida y ligera manipulación mental; la caja que enfría funciona con polvo de huesos del esqueleto sombrío. | Tarylla #6 (borrador) |
 | Zorro | 20 años, sarcástica, arrogante, quiere llevar la razón. Ligero *crush* hacia Kliff. Vive en un barracón compartido; teme volver al huerto. Sospecha que Tarylla viene de El Umbral (Zorro x Tarylla #2). `META`: será la primera en enfrentarse a Kliff. | Relato #5, Zorro x Tarylla #2 |
 | Yuld | Se fue el 1º de Septumbre de 5501 al rancho del este. Vuelve de visita el 9º de Marzimayo de 5502 y rechaza quedarse (borrador de la entrada 2 de Kliff). La carta que dejó nunca apareció: `META`, alguien la encontró y se deshizo de ella. | Carta de Yuld, `_meta_autor.md`, chat |
 | Tumbas | Las de Kaelen, Liry y Ozan aparecieron saqueadas el 15º de Difebrero de 5501. Sin explicación (**S8**). | Diario de Kliff 5501 |
@@ -211,7 +211,7 @@ Relaciones clave (todas `IDEA` salvo lo de la sección 1):
 
 #### Hilo B · Los delirios de Tarylla (dudas, decisiones y la puerta a la nigromancia)
 
-**Ya establecido:** tres identidades; sin memoria de su pasado; sigue dudando de sus experimentos, pero mantiene que el bosque oscuro, las sombras, la niebla y los monstruos son la amenaza más importante (**S13**); Zorro sospecha de ella pero no quiere involucrarse (**S4**).
+**Ya establecido:** amnesia, personalidad reconstruida de cero y ligera manipulación mental; sin memoria de su pasado; sigue dudando de sus experimentos, pero mantiene que el bosque oscuro, las sombras, la niebla y los monstruos son la amenaza más importante (**S13**); Zorro sospecha de ella pero no quiere involucrarse (**S4**).
 **Lectura de «abrir la puerta»:** un primer paso deliberado, no una resurrección en el arco 3.
 
 | ID | Evento | Tipo | Depende de | Quién lo sabe | Texto previsto |
@@ -221,9 +221,9 @@ Relaciones clave (todas `IDEA` salvo lo de la sección 1):
 | B3 | Zorro, al mando, ve a Tarylla salir de noche hacia el monte y decide seguirla un tramo. La pierde. | FLEXIBLE | A4 | Zorro | Relato de Zorro |
 | B4 | Una duda sobre sí misma: un destello, un nombre, un olor. | FLEXIBLE | — | Tarylla | Nota de Tarylla |
 | B5 | **El primer paso hacia la nigromancia** (ver **Q7**). | ANCLA | B2 | Tarylla | Nota de Tarylla |
-| B6 | Tarylla ve el poder de Kliff y lo sabe: es la primera prueba de lealtad de las tres identidades. | FLEXIBLE | A7 | Tarylla | Nota de Tarylla (final o inicio del arco 4) |
+| B6 | Tarylla ve el poder de Kliff y lo sabe: es la primera prueba de lealtad de su personalidad reconstruida. | FLEXIBLE | A7 | Tarylla | Nota de Tarylla (final o inicio del arco 4) |
 
-**Hipótesis, no propuesta:** la «Tarylla corrompida» podría haber estado cerca de lo que pasó en las tumbas. Contradice **S8** si se usa como explicación; se puede dejar como sospecha de lector. Solo con tu visto bueno.
+**Hipótesis, no propuesta:** la manipulación que arrastra Tarylla podría haber estado cerca de lo que pasó en las tumbas. Contradice **S8** si se usa como explicación; se puede dejar como sospecha de lector. Solo con tu visto bueno.
 
 #### Hilo C · Investigaciones
 

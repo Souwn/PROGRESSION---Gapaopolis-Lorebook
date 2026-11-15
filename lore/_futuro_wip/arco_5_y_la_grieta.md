@@ -50,6 +50,7 @@ Principio: «todo ocurre en todos lados al mismo tiempo, pero la historia se des
 
 1. Tras ganar la batalla El Umbral y El Bastión, **El Imperio rescata a los miembros caídos de las distintas facciones** y los lleva a un lugar seguro. Pero se lleva **secuestrados a Kliff y a Tarylla**.
 2. **Zorro presencia desde la distancia** el zepelín de El Imperio, el asalto y la catástrofe: la tierra empieza a temblar, **La Aguja Solar se derrumba a pedazos** y un humo negro cubre la ciudad y sus alrededores, matándolo todo a su paso. Eso es lo que, en los años venideros, se llamará **La Grieta**.
+   **Causa:** durante el asalto imperial, los altos mandos de El Umbral inestabilizan un **portal**, y la corrupción se filtra a este mundo de forma incontrolable.
 3. El Imperio borra del mapa a «dos megafacciones y media», está presente cuando ocurre el cataclismo y aun así sigue en las sombras.
 4. **Línea de Zorro (futuro relato):** «Aquella tarde bajo la lluvia mi pasado desapareció, y se llevó con él mi futuro.» No habla de su estancia en Gapaopolis, sino literalmente de Kliff.
 
