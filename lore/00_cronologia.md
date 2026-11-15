@@ -61,6 +61,8 @@ _Por definir._ Lo único escrito: la «Crónica secreta VII» de El Umbral (ver 
 7. Yuld
 8. Zhethe
 
+Zhethe llegó mucho más tarde que la muerte de Liry (Difebrero del 5500) y poco antes que Zorro.
+
 Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Septumbre del 5501). Krosswynd es muy reciente y todavía no es canon oficial, por lo que no figura en este orden.
 
 ## Orden cronológico del contenido de las notas
@@ -81,7 +83,7 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 6 | [Quejas de Zorro #1](04_personales/5501-00-00_diario_zorro_quejas-y-relatos.md) | El estado de la colonia y la gestión de Kliff durante el verano. |
 | 7 | Tarylla #3 | En algún momento de este tramo (texto perdido). |
 | 8 | Kliff, 6º–13º Junligosto | Reconoce la presión que ejerce sobre los habitantes; aparecen las vacas. |
-| 9 | [Carta de Yuld](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md) | Yuld se va hacia el 15º de Junligosto. |
+| 9 | [Carta de Yuld](04_personales/5501-03-01_carta_yuld_sacrificio-de-yuld.md) | Yuld se va de noche hacia el 15º de Junligosto; la carta está fechada el 1º de Septumbre. |
 | 10 | Kliff, 1º Septumbre | Registra el abandono de Yuld. |
 | 11 | Tarylla #4 | El mímico; ocurre durante el otoño, antes de la lluvia. |
 | 12 | Zorro #2 | La lluvia hace estragos. |
@@ -92,8 +94,13 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 17 | Zorro #3 | El acercamiento de Tarylla; hacia el final del otoño o el comienzo del invierno, tras los sueños de Tarylla. |
 | 18 | [Unkas II](04_personales/5501-00-00_nota_unkas_unkas-ii.md) | Ideas negativas sobre Kliff que vienen de comienzos del otoño y se han agravado. |
 | 19 | Kliff, 2º Difebrero | Comienzo del invierno. |
-| 20 | Zorro #4 | Ve a Unkas y Zhethe. |
-| 21 | Kliff, 11º–15º Difebrero | Último arco de Kliff. |
+| 20 | Zorro x Tarylla #2 | Zorro y Tarylla hablan junto al fuego en la sala de investigación (-13 ºC); la idea del retrete. |
+| 21 | Zorro #4 | Ve a Unkas y Zhethe. |
+| 22 | Kliff, 11º–15º Difebrero | Último arco de Kliff. |
+| 23 | [Kliff, 1º Marzimayo del 5502](04_personales/5502-01-01_diario_kliff_la-sombra-de-la-sospecha.md) | Comienza el tercer año; el invierno pasó sin desgracias; quiere vigilar a Unkas y Zhethe. |
+| 24 | Zorro #5 | La muralla nueva y grande; Tarylla sale al sol con una estaca («control de calidad»). Marzimayo del 5502, sin día exacto. |
+
+**[CANON]** Los eventos con las rocas (el mímico) ocurrieron «mucho antes» de la llegada de Lexington.
 
 ## Eventos de la colonia (tabla maestra)
 
@@ -102,16 +109,16 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 1º Marzimayo 5500 | Comienza la partida | — | Jugador (chat) | **CANON** |
 | ~1º Marzimayo 5500 | Kliff funda Gapaopolis, ciudad de GAPA (aproximadamente al inicio de la partida) | Kliff | Jugador (chat); Diario de Kliff | **CANON** el hecho y la fecha aproximada |
 | 5500 | Unkas, separada de su grupo, es salvada por Kliff y se une a él | Unkas, Kliff | [Historia de Unkas](04_personales/5501-00-00_nota_unkas_historia-de-unkas.md); jugador | BORRADOR |
-| 5500 | Invasión de los Ixthar a las montañas (mencionada en la crónica «VDI», posterior), asociada a Unkas | Unkas, Ixthar | [Crónica de las naciones conocidas](05_biblioteca_externa/5501-00-00_cronica_el-umbral_naciones-conocidas.md); jugador | **CANON** el año |
+| 5500 | Invasión de los Ixthar a las montañas (mencionada en la crónica «VDI», posterior); Unkas, exiliada de esas montañas, huye y se une a Kliff | Unkas, Ixthar | [Crónica de las naciones conocidas](05_biblioteca_externa/5501-00-00_cronica_el-umbral_naciones-conocidas.md); jugador | **CANON** el año |
 | Difebrero 5500 | Invierno devastador: peste, hambruna y frío; mueren animales y colonos | Colonia | Kliff, Tarylla #1, carta de Yuld; jugador | **CANON** el año |
-| Difebrero 5500 | Muere Liry, una niña | Liry | Jugador (chat) | BORRADOR |
+| Difebrero 5500 | Muere Liry, una niña, por la peste | Liry | Jugador (chat) | **CANON** la causa |
 | 5500 | Primera niebla (antes del invierno) y segunda niebla (en pleno invierno): aberración y esqueleto sombrío | Kliff, Tarylla, Ina, Unkas, Kaelen | [Notas de Tarylla](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md) | BORRADOR |
 | Marzimayo 5501 | Se empieza a escribir en la colonia; Tarylla redacta su nota #1 sobre el invierno pasado (~1 mes atrás) | Tarylla | Jugador (chat) | BORRADOR |
 | 3º Marzimayo 5501 | Kliff empieza su diario en su «segundo año» en estas tierras | Kliff | [Diario de Kliff](04_personales/5501-00-00_diario_kliff_secuelas-del-invierno.md) | BORRADOR |
 | ~fin de Marzimayo–Junligosto 5501 | Zorro se une a la colonia | Zorro | Diario de Kliff (3º Junligosto) | BORRADOR |
 | 6º Junligosto 5501 | Kliff decide construir un templo en la montaña | Kliff | Diario de Kliff | BORRADOR |
 | 13º Junligosto 5501 | Yuld encuentra vacas salvajes; discute con Kliff; se fabrican arcos y flechas | Yuld, Kliff | Diario de Kliff | BORRADOR |
-| ~15º Junligosto 5501 (de noche) | Yuld se marcha con el ganado a un rancho abandonado al este | Yuld | [Carta de Yuld](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md); orden de las notas | BORRADOR |
+| ~15º Junligosto 5501 (de noche) | Yuld se marcha con el ganado a un rancho abandonado al este | Yuld | [Carta de Yuld](04_personales/5501-03-01_carta_yuld_sacrificio-de-yuld.md); orden de las notas | BORRADOR |
 | 1º Septumbre 5501 | Kliff registra la marcha de Yuld | Kliff | Diario de Kliff | BORRADOR |
 | Septumbre 5501 (antes del 4º) | El mímico (rocas de la excavación) ataca a Tarylla en su cueva | Tarylla | Tarylla #4; jugador | BORRADOR |
 | 4º Septumbre 5501 | Diluvio nocturno: se pierde la mitad de la cosecha; Zhethe sale a cazar al bosque profundo | Kliff, Zorro, Unkas, Ina, Zhethe | Kliff; Zorro #2; Tarylla #5 | BORRADOR |
@@ -122,9 +129,10 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 11º Difebrero 5501 | Caja de madera que enfría (hongos y sal); sacrificio de ganado | Tarylla, Zorro, Kliff | Diario de Kliff | BORRADOR |
 | 13º Difebrero 5501 | Zhethe dice a Kliff «cosas imposibles»; Kliff prohíbe a Unkas hablar de ello | Kliff, Zhethe, Unkas | Diario de Kliff | BORRADOR |
 | 15º Difebrero 5501 | Kliff halla las tumbas saqueadas y vacías (de Kaelen, Liry y Ozan) | Kliff | Diario de Kliff; jugador | BORRADOR |
+| 1º Marzimayo 5502 | Comienza el tercer año; han sobrevivido al invierno sin desgracias; Kliff querría vigilar más a Unkas y Zhethe | Kliff | [Diario de Kliff 2](04_personales/5502-01-01_diario_kliff_la-sombra-de-la-sospecha.md) | BORRADOR |
+| Marzimayo 5502 | Se termina la muralla nueva y grande, que encierra huerto y granja; Zhethe tiene su choza junto a la puerta; Tarylla sale al sol y revisa los muebles con una estaca gigante | Zorro, Kliff, Zhethe, Tarylla | Relato de Zorro #5 | BORRADOR |
 
 ## Conflictos y dudas cronológicas abiertas
 
 - (anotar aquí cualquier incoherencia detectada para resolverla con el jugador)
-- Los eventos con las rocas (el mímico) ocurrieron «mucho antes» de la llegada de Lexington.
 - **Fechas exactas de la llegada de los demás fundadores (Unkas, Ina, Kaelen, Liry, Ozan, Tarylla, Yuld y Zhethe):** Por definir.

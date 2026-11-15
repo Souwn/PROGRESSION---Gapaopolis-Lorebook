@@ -25,6 +25,7 @@ Fauna local, criaturas y animales domesticados. Zhethe es el cuidador principal 
 
 ## Animales de la colonia
 - **Ganado:** Yuld encontró vacas salvajes antes de Septumbre del 5501 y se marchó con tres cabezas a su rancho. Quedan otros animales en el corral de la colonia (captura [05](../Library/imagenes/05_evento_lago_cosecha.png), por confirmar). **[BORRADOR]**
+- **[CANON]** En la colonia se crían asnos y ovejas; no hay un animal favorito.
 - Cuidador principal: Zhethe. Antes, Yuld.
 
 ## Criaturas y amenazas

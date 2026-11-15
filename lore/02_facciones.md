@@ -99,7 +99,7 @@ Organizaciones, imperios y grupos del mundo. Solo se listan los nombres ya menci
 ### Otras (nombradas en la crónica de El Umbral, BORRADOR)
 - **Círculo de Driadea:** tribu de faunos, magia forestal, bosques profundos del Este.
 - **Colmena de los Ixthar:** civilización insectoide que conquistó las montañas de la tribu antigua; su colonia reside ahora muy cerca de Gapaopolis. (BORRADOR.)
-- **Los Exiliados:** antiguos moradores de esas montañas, antes conocidos como la «tribu de las montañas»; sobreviven en campos fúngicos.
+- **Los Exiliados:** antiguos moradores de esas montañas, antes conocidos como la «tribu de las montañas»; sobreviven en campos fúngicos. **[CANON]** [Unkas](01_personajes.md#unkas) es una Exiliada.
 - **Los Primeros Hombres:** sociedad precaria de neandertales.
 - **Cuervo Negro:** tribu salvaje de saqueadores de tierras lejanas.
 

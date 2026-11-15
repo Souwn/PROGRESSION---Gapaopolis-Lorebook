@@ -11,6 +11,7 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | # | Pregunta | Afecta a | Origen |
 |---|---|---|---|
 | 1 | Faltan las fichas de las facciones menores: Primeros Hombres, Ixthar, Clan Raíz Profunda, Linaje Sorne, Clan Cuervo Negro, Círculo de Driadea y Exiliados. | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
+| 2 | Unkas planea quedarse, pero «lo está planeando»: ¿qué trama exactamente? | [`_meta_autor.md`](_meta_autor.md) | Respuestas de trama |
 
 ## Resueltas
 
@@ -22,7 +23,7 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R4 | ¿Lilith o Liry? | Son personajes distintos; el nombre de la difunta de Tarylla #1 es Kaelen. | [`01_personajes.md`](01_personajes.md) |
 | R5 | ¿Cuándo fue el invierno devastador? | En el 5500. | [`00_cronologia.md`](00_cronologia.md) |
 | R6 | Cabeceras de las crónicas de El Umbral | «(VDI)» es 5501; «(VCDXCV)» es 5495. | [`05_biblioteca_externa`](05_biblioteca_externa/README.md) |
-| R7 | ¿Quién ha leído la carta de Yuld? | Nadie; es material perdido. | [`04_personales`](04_personales/5501-00-00_carta_yuld_sacrificio-de-yuld.md) |
+| R7 | ¿Quién ha leído la carta de Yuld? | Nadie; es material perdido. | [`04_personales`](04_personales/5501-03-01_carta_yuld_sacrificio-de-yuld.md) |
 | R8 | ¿Qué es GAPA? | Un dios que Kliff venera; Gapaopolis es la ciudad de GAPA, fundada por Kliff; la facción de Kliff también se llama GAPA. | [`06_mitologia.md`](06_mitologia.md), [`02_facciones.md`](02_facciones.md) |
 | R9 | ¿Dónde está Gapaopolis? | En bosque denso cerca de montañas, entre dos de ellas, muy cerca de la colonia de los Ixthar. | [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
 | R10 | ¿Cómo encaja la crónica «VDI» (5501), posterior a la colonia, con que las de El Umbral suelen ser anteriores? | Es posterior; menciona la invasión de los Ixthar, que ocurre en el 5500 y está asociada a Unkas. | [`00_cronologia.md`](00_cronologia.md), [`05_biblioteca_externa`](05_biblioteca_externa/README.md) |
@@ -42,3 +43,21 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R24 | ¿Dónde encajan Yuld, Zhethe y Krosswynd en el orden de llegada? | Tras Tarylla: primero Yuld, luego Zhethe. Krosswynd es muy reciente y aún no es canon oficial. | [`00_cronologia.md`](00_cronologia.md), [`01_personajes.md`](01_personajes.md) |
 | R25 | ¿Cuál es la orientación de El Umbral y El Bastión? | El Umbral, sobre todo en el este del norte y en parte por el este (no del todo al este); El Bastión, al oeste. | [`02_facciones.md`](02_facciones.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) |
 | R26 | ¿Se mantiene el término «República»? | No: las tres facciones se llaman El Umbral (Este), La Liga (Centro) y El Bastión (Oeste). | [`02_facciones.md`](02_facciones.md) |
+| R27 | ¿Estaba Zhethe en la colonia cuando murió Liry? | No: llegó mucho más tarde. | [`01_personajes.md`](01_personajes.md), [`00_cronologia.md`](00_cronologia.md) |
+| R28 | ¿El mímico ocurrió «mucho antes» de la llegada de Lexington? | Sí; se mantiene. | [`00_cronologia.md`](00_cronologia.md) |
+| R29 | ¿Es Unkas una Exiliada que huyó de las montañas tomadas por los Ixthar? | Sí; su unión a Kliff fue una huida. | [`01_personajes.md`](01_personajes.md), [`02_facciones.md`](02_facciones.md) |
+| R30 | ¿Sabe Kliff lo de Tarylla y el esqueleto? | No tiene sospechas claras: Tarylla actúa raro, pero quizá solo la ve como una «friki indecente». | [`01_personajes.md`](01_personajes.md) |
+| R31 | ¿Qué piensa Unkas de Kliff? | Está totalmente desconcertada. | [`01_personajes.md`](01_personajes.md) |
+| R32 | ¿Qué le pasó a Liry y quién fue responsable? | Murió por la peste. | [`01_personajes.md`](01_personajes.md), [`00_cronologia.md`](00_cronologia.md) |
+| R33 | ¿Quién se enfrentará primero a Kliff? | Zorro. | [`_meta_autor.md`](_meta_autor.md) |
+| R34 | ¿Qué pasa con la carta de Yuld? | Alguien la encontró y se deshizo de ella. | [`_meta_autor.md`](_meta_autor.md) |
+| R35 | ¿Cuál será la mayor amenaza el próximo año? | Ahora mismo, la propia colonia. | [`_meta_autor.md`](_meta_autor.md) |
+| R36 | ¿Algún colono quiere marcharse o traicionar a Kliff? | Unkas no planea irse: planea quedarse (ver pendiente 2). | [`_meta_autor.md`](_meta_autor.md) |
+| R37 | ¿Qué descubrimiento neolítico cambiará más la vida? | Difícil de saber. | — |
+| R38 | ¿Saben los colonos que Liry murió de peste? | Sí, son conscientes. | [`01_personajes.md`](01_personajes.md) |
+| R39 | ¿Por qué se enfrentará Zorro primero a Kliff? | Viene de una civilización más avanzada, es arrogante y le gusta llevar la razón; se estableció por voluntad propia. | [`01_personajes.md`](01_personajes.md) |
+| R40 | ¿Qué recuerda Tarylla de su pasado? | Nada; atribuye sus pesadillas a ser una «friki indecente». | [`01_personajes.md`](01_personajes.md) |
+| R41 | ¿Qué quiere Zhethe? | Va a su bola. | [`01_personajes.md`](01_personajes.md) |
+| R42 | ¿Dónde encaja «Zorro x Tarylla #2» en el orden cronológico? | Tras el 2º de Difebrero (cuando Zorro pide trabajar con Tarylla) y antes del 11º (la caja que enfría); decidido por Claude con el visto bueno del jugador. | [`00_cronologia.md`](00_cronologia.md) |
+| R43 | ¿Qué fecha marca «Sacrificio de Yuld»? | (5501/03/01): 1º de Septumbre del 5501. | [`04_personales`](04_personales/5501-03-01_carta_yuld_sacrificio-de-yuld.md), [`00_cronologia.md`](00_cronologia.md) |
+| R44 | ¿Referencia de la crónica de las naciones? | «(VDI) EU CLXX». | [`05_biblioteca_externa`](05_biblioteca_externa/README.md) |

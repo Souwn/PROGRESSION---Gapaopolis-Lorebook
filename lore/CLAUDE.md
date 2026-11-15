@@ -42,7 +42,7 @@ Se trabaja siempre en uno de estos dos submodos. Si el jugador no indica ninguno
 
 | Submodo | Fuente de verdad | Cuándo |
 |---|---|---|
-| `Canon-Only` | **Solo** lo escrito en los archivos del repositorio (`/lore/`), **excluyendo** `_meta_autor.md`, `_historial_interno.md`, `_diario_de_partida.md` y `_preguntas_abiertas.md`. Nada de lo que el jugador haya contado de palabra. | Evaluar cómo se lee la historia para un lector externo; detectar qué no queda claro. |
+| `Canon-Only` | **Solo** lo escrito en los archivos del repositorio (`/lore/`), **excluyendo** `_meta_autor.md`, `_historial_interno.md`, `_diario_de_partida.md`, `_preguntas_abiertas.md` y `_futuro_wip/`. Nada de lo que el jugador haya contado de palabra. | Evaluar cómo se lee la historia para un lector externo; detectar qué no queda claro. |
 | `Interactive` | El repositorio (incluido `_meta_autor.md`) **más** lo que el jugador explique en la conversación (contexto, ideas, eventos futuros). | Planificar, teorizar, preparar escenas. |
 
 En ambos submodos: evalúa la comprensión del lector, busca conexiones ocultas entre textos y analiza los sesgos de los personajes.
@@ -122,6 +122,7 @@ Cada documento usa la plantilla de `_plantillas/documento_inworld.md`.
     ├── _registro_retcons.md       # Historial de cambios aprobados sobre canon
     ├── _meta_autor.md             # Secretos e intenciones del jugador (fuera del mundo; no cuenta en Canon-Only)
     ├── _historial_interno.md      # Registro interno de cambios finos (no cuenta en Canon-Only)
+    ├── _futuro_wip/               # Textos sobre hechos futuros, no ocurridos (no cuenta en Canon-Only)
     ├── _diario_de_partida.md      # Reportes en bruto de las sesiones de juego (no canon)
     ├── _preguntas_abiertas.md     # Huecos de lore y dudas pendientes para el jugador
     ├── _plantillas/               # Ficha de personaje, documento in-world

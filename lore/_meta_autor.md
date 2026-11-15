@@ -64,6 +64,13 @@ Información que el jugador ha dado **fuera del mundo**: motivaciones, secretos 
 - **[META]** El Umbral será invitado a un evento organizado por La Liga. Se limitará a criticar una civilización tan precaria: Kliff le parecerá poco más que un neandertal, menos musculoso y con la cultura mínima para mantener una conversación.
 - **[META]** La Liga será la primera en establecer contacto con Gapaopolis y la guiará un poco de la mano en su expansión social y en el conocimiento de otras culturas. Tiene planes comerciales a futuro con la colonia.
 - **[META]** El Bastión juzgará a Gapaopolis una civilización débil: le ofrecerá «paz» gratuita por el momento, le instará (obligará) a reforzar sus filas e impondrá algo de su voluntad. A mitad de la historia involucrará a Gapa en sus asuntos y, en el arco final, se aliará con El Umbral. Eventualmente chocará con El Imperio por roces culturales.
+- **[META]** Zorro será la primera en enfrentarse a Kliff.
+- **[META]** Alguien encontró la carta de Yuld y se deshizo de ella. No se dice quién ni cómo.
+- **[META]** Unkas no planea marcharse: planea quedarse. Lo que trama exactamente está por definir.
+- **[META]** Kliff empezará a tener paranoia, aunque intentará ocultarla.
+- **[META]** La mayor amenaza para la colonia, ahora mismo, es la propia colonia.
+- **[META]** Dirección prevista de la historia (~90 % segura, aún no ocurrida), recogida en [`_futuro_wip/`](_futuro_wip/zorro_visita-de-emisarios.md): Kliff recibirá, como representante de Gapaopolis, a los emisarios de las tres grandes facciones. Los de El Umbral llevarán estandartes con una corona de boj y una llama azul bordados en oro, y uno de ellos, cubierto con una túnica negra, resultará escalofriante. Zorro crecerá en el pueblo de Chapozos, a la sombra de La Aguja Solar (territorio de El Umbral). Encaja con que El Umbral hoy desconoce Gapaopolis y será invitado a un evento organizado por La Liga.
+- **[META]** Planes de futuro del jugador (dirección prevista, no ocurridos; algunos «a tomar con pinzas»): [`_futuro_wip/planes_futuros.md`](_futuro_wip/planes_futuros.md).
 - **[SECRETO]** El significado de la frase final de la Crónica secreta VII («OXA ETZ ITHECHE KALUQ ZAROG»).
 
 ## Cómo escribir (decisiones de autoría)

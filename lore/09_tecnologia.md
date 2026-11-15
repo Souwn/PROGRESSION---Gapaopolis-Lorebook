@@ -45,6 +45,7 @@ _Por definir qué sabe y qué calla._
 ## Investigación de la colonia
 - **[BORRADOR]** Descubrimientos recientes de la partida: nuevas camas, retretes y el pemmican (la comida de viaje de larga duración de RimWorld); todavía sin adaptar al lore.
 - **[BORRADOR]** Antes del invierno del 5501 se fabrican arcos y flechas (13º de Junligosto), ropa de cuero y de lana, y una caja de madera que enfría una habitación, atribuida por Tarylla a «hongos y sal» (11º de Difebrero).
+- **[BORRADOR]** En pleno invierno (-13 ºC), Zorro sugirió a Tarylla fabricar un retrete dentro del refugio; Tarylla respondió que se puede, pero que no hay sistema de drenaje.
 - **[BORRADOR]** Zorro propuso conservar la comida con hielo y sal; Tarylla objetó que el hielo solo sirve en invierno y que la sal es escasa.
 
 ## Reliquias y artefactos

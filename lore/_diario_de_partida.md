@@ -25,4 +25,14 @@ _Fecha de partida:_ Por definir.
 | Embarazo | [Zhethe](01_personajes.md#zhethe) y [Unkas](01_personajes.md#unkas) esperan un hijo (no son pareja). | **Aplazado: no adaptar por ahora.** |
 | Investigación | Descubiertos: *pemmican* (la comida de viaje de RimWorld), nuevas camas, retretes, «etc.». | Pendiente (ver [`09_tecnologia.md`](09_tecnologia.md)) |
 
+## Sesión 2 — eventos en el juego pendientes de adaptar
+
+| Evento | Detalle (según el jugador) | Adaptación |
+|---|---|---|
+| Ataque | Hubo un ataque de un Ferroespanto. | Pendiente |
+| Colonos nuevos | Lexington (minero, raza no humana) y Krosswynd (agricultor, humano) se han unido a la colonia. | Pendiente (Krosswynd aún no es canon oficial) |
+| Muralla | Se ha construido una muralla exterior mucho más grande que deja dentro el huerto y la granja. | Adaptado (Relato de Zorro #5) |
+| Choza | Zhethe tiene su propia choza junto a la puerta. | Adaptado (Relato de Zorro #5) |
+| Parejas y bebés | Ver los eventos aplazados de la sesión 1. | Aplazado |
+
 > Los eventos `Aplazado` no deben aparecer en bitácoras, cartas ni fichas hasta que el jugador lo indique.
