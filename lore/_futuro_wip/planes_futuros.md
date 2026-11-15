@@ -20,6 +20,8 @@ estado_canon: FUTURO
 - El líder de La Liga dirá a Kliff que hay otra ficha en el tablero, una facción que puede cambiar las tornas, pero que impone un requisito: pueden hacer un trato justo o tomarlo por la fuerza. Quieren a Tarylla.
 - Kliff se negará, irá a la guerra y perderá. Entonces veinte soldados de El Imperio llegarán en un «barco volador» (zepelín) y acabarán con El Umbral y El Bastión. Se llevarán a Tarylla, rescatarán a Kliff, lo nombrarán Terrateniente y lo dejarán en Gapaopolis antes de que recobre la conciencia.
 
+> La secuencia de la guerra final y de El Umbral, con más detalle (bandos, traición de El Bastión, secuestro de Kliff y Tarylla, caída de La Aguja Solar y La Grieta), está en [`arco_5_y_la_grieta.md`](arco_5_y_la_grieta.md). Donde difiera de lo de arriba (p. ej. rescate y título de Terrateniente frente a secuestro), ver la duda en [`../_preguntas_abiertas.md`](../_preguntas_abiertas.md).
+
 ## Extra (a tomar con pinzas)
 - Tarylla es una agente enviada por El Imperio, asaltada por una fuerza oscura (su pesadilla); El Imperio la quiere de vuelta.
 - El Imperio interviene porque, como describe El Umbral, está en contra de la magia (más bien, busca controlarla). Pero El Umbral juega con magia oscura prohibida, que supone una amenaza mayor (y acabará siéndolo).

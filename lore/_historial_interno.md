@@ -24,9 +24,16 @@ Si el jugador usa un término antiguo, **se entiende el vigente** y se escribe s
 | **Pemmican** | Penicam | Comida de viaje de RimWorld; el jugador la había escrito «penicam». |
 | **Inmortal** (Kliff, meta) | Inmoral | Erratas del jugador. |
 | **Zorro** = apodo, **Piaroa** = nombre | — | Piaroa puede cambiar en el futuro. |
+| **Clan Raíz Profunda** = elfos; **Círculo de Driadea** (Círculo Driade) = faunos | Raíz Profunda como faunos; Driadea como elfos | Los nombres estaban invertidos en material de otra conversación. El repositorio ya escribía Driadea = faunos. |
+| **La Grieta** | «La grita» | Es la cicatriz que dejará la caída de La Aguja Solar (futuro). |
 | Facción de Kliff: **GAPA** | Imperio de Gapa | «Imperio de Gapa» fue el nombre que dio el juego; no es canon por ahora. |
 | La marca roja del Imperio pegada a GAPA en el mapa: se ignora | — | Es una misión del juego, no lore. |
 | **El Umbral** (Este); **La Liga** (Centro; nombre completo del gremio: La Liga del Valor); **El Bastión** (Oeste) | «República del Este / Central / del Oeste» (término eliminado); «Las Tres Repúblicas» pasa a «Las Tres Potencias» en la crónica; asignación antigua (Umbral militar/Este, Bastión tecnológico/Central, Liga mercantil/Oeste) | El orden vigente es el fijado por el jugador. |
+
+## 2026-11-15
+
+- Volcado del PDF «El Despertar de los Ixthar» (conversación de desarrollo): el contenido que ya estaba en el repo (fichas de facciones y personajes, meta del autor) no se duplica. Nuevo: Raíz Profunda = elfos y Driadea = faunos (`02`, `07`); cuevas de Unkas bajo control Ixthar y Exiliados contra La Liga (`02`, `01`, `00`); Athil y Galloux (`02`); pacto de no mirar ni juzgar sobre Tarylla y retrato de Zorro (`01`); meta de Kliff, Tarylla, Zorro y El Bastión (`_meta_autor.md`); arcos 4 a 6, La Grieta y línea de Zorro a `_futuro_wip/arco_5_y_la_grieta.md`. Lo que contradice el repo no se ha cambiado: preguntas 3 a 11 en `_preguntas_abiertas.md`.
+- Sin retcons: no había nada `CANON` que cambiar.
 
 ## 2026-10-23
 

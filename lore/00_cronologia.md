@@ -109,7 +109,7 @@ Después, según los textos: Zorro (Junligosto del 5501) y Lexington (11º de Se
 | 1º Marzimayo 5500 | Comienza la partida | — | Jugador (chat) | **CANON** |
 | ~1º Marzimayo 5500 | Kliff funda Gapaopolis, ciudad de GAPA (aproximadamente al inicio de la partida) | Kliff | Jugador (chat); Diario de Kliff | **CANON** el hecho y la fecha aproximada |
 | 5500 | Unkas, separada de su grupo, es salvada por Kliff y se une a él | Unkas, Kliff | [Historia de Unkas](04_personales/5501-00-00_nota_unkas_historia-de-unkas.md); jugador | BORRADOR |
-| 5500 | Invasión de los Ixthar a las montañas (mencionada en la crónica «VDI», posterior); Unkas, exiliada de esas montañas, huye y se une a Kliff | Unkas, Ixthar | [Crónica de las naciones conocidas](05_biblioteca_externa/5501-00-00_cronica_el-umbral_naciones-conocidas.md); jugador | **CANON** el año |
+| 5500 | Invasión de los Ixthar a las montañas (mencionada en la crónica «VDI», posterior); Unkas, exiliada de esas montañas (las cuevas de donde procede son las que controlan hoy los Ixthar), huye y se une a Kliff | Unkas, Ixthar | [Crónica de las naciones conocidas](05_biblioteca_externa/5501-00-00_cronica_el-umbral_naciones-conocidas.md); jugador | **CANON** el año |
 | Difebrero 5500 | Invierno devastador: peste, hambruna y frío; mueren animales y colonos | Colonia | Kliff, Tarylla #1, carta de Yuld; jugador | **CANON** el año |
 | Difebrero 5500 | Muere Liry, una niña, por la peste | Liry | Jugador (chat) | **CANON** la causa |
 | 5500 | Primera niebla (antes del invierno) y segunda niebla (en pleno invierno): aberración y esqueleto sombrío | Kliff, Tarylla, Ina, Unkas, Kaelen | [Notas de Tarylla](04_personales/5501-00-00_nota_tarylla_notas-1-a-5.md) | BORRADOR |

@@ -10,8 +10,17 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 
 | # | Pregunta | Afecta a | Origen |
 |---|---|---|---|
-| 1 | Faltan las fichas de las facciones menores: Primeros Hombres, Ixthar, Clan Raíz Profunda, Linaje Sorne, Clan Cuervo Negro, Círculo de Driadea y Exiliados. | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
+| 1 | Faltan las fichas de las facciones menores: Primeros Hombres, Ixthar, Clan Raíz Profunda (elfos), Linaje Sorne, Clan Cuervo Negro, Círculo de Driadea (faunos) y Exiliados. | [`02_facciones.md`](02_facciones.md) | Fichas de facciones |
 | 2 | Unkas planea quedarse, pero «lo está planeando»: ¿qué trama exactamente? | [`_meta_autor.md`](_meta_autor.md) | Respuestas de trama |
+| 3 | **Tarylla, identidades:** `_meta_autor.md` dice que conviven en ella tres identidades; en otra conversación el jugador dijo que tiene **una sola**, y que no es la original. ¿Cuál vale? | [`_meta_autor.md`](_meta_autor.md) | PDF «El Despertar de los Ixthar» |
+| 4 | **Arcos:** el esquema de esa conversación (arco 3 = relaciones con el mundo, 4 = guerras Ixthar, 5 = la otra guerra) no coincide con el plan vigente (arco 3 «Problemas en casa», 5502; arco 4 = Tres Potencias; arco 5 = caída del tablero). ¿Cuál manda? | [`_futuro_wip/arco_5_y_la_grieta.md`](_futuro_wip/arco_5_y_la_grieta.md) | PDF |
+| 5 | **Kliff tras la guerra final:** antes, El Imperio lo rescata, lo nombra Terrateniente y lo deja en Gapaopolis; ahora, El Imperio se lleva **secuestrados** a Kliff y a Tarylla y lo tortura. ¿Son fases de una misma secuencia (secuestro, fuga, regreso como Terrateniente) o una sustituye a la otra? ¿Tienen relación los «especialistas terratenientes» del arco 6 con ese título? | [`_futuro_wip/`](_futuro_wip/) | PDF, planes futuros |
+| 6 | **Galloux y Athil:** ¿son los dos líderes de La Liga (dividida entre «El Generoso» y el bando que financia a El Umbral y El Bastión)? ¿O Galloux es externo a La Liga? | [`02_facciones.md`](02_facciones.md) | PDF |
+| 7 | **La Grieta:** ¿la desata el asalto imperial, el colapso de La Aguja Solar por sí mismo o El Umbral con sus experimentos? ¿Quién destruye La Aguja Solar? | [`_futuro_wip/arco_5_y_la_grieta.md`](_futuro_wip/arco_5_y_la_grieta.md) | PDF |
+| 8 | **«Guiño guiño»** (la pieza sin nombrar que se une a El Umbral en el arco 5): ¿es la facción oculta de la Crónica secreta VII? Solo se pregunta el momento de nombrarla, no su identidad. | [`_futuro_wip/arco_5_y_la_grieta.md`](_futuro_wip/arco_5_y_la_grieta.md) | PDF |
+| 9 | **Círculo de Driadea:** la crónica lo sitúa en los bosques del Este, pero en el mapa el rótulo aparece en el borde oeste. ¿Es solo la proyección del globo? | [`02_facciones.md`](02_facciones.md), [`07_geografia_y_asentamiento.md`](07_geografia_y_asentamiento.md) | PDF, mapa |
+| 10 | **WIP de Zorro (emisarios de El Umbral):** la redacción nueva no consta en el repositorio; el archivo conserva el texto literal archivado y solo enlaza el desenlace del PDF. Si hay una versión editada, pásala. | [`_futuro_wip/zorro_visita-de-emisarios.md`](_futuro_wip/zorro_visita-de-emisarios.md) | Petición del jugador |
+| 11 | **Zorro (META):** ¿se mantiene «autista, o al menos una rarita» tal como lo dijo el jugador, o prefiere otra fórmula en `_meta_autor.md`? | [`_meta_autor.md`](_meta_autor.md) | PDF |
 
 ## Resueltas
 
@@ -61,3 +70,6 @@ Huecos de lore y dudas pendientes para el jugador, en un solo sitio. Al resolver
 | R42 | ¿Dónde encaja «Zorro x Tarylla #2» en el orden cronológico? | Tras el 2º de Difebrero (cuando Zorro pide trabajar con Tarylla) y antes del 11º (la caja que enfría); decidido por Claude con el visto bueno del jugador. | [`00_cronologia.md`](00_cronologia.md) |
 | R43 | ¿Qué fecha marca «Sacrificio de Yuld»? | (5501/03/01): 1º de Septumbre del 5501. | [`04_personales`](04_personales/5501-03-01_carta_yuld_sacrificio-de-yuld.md), [`00_cronologia.md`](00_cronologia.md) |
 | R44 | ¿Referencia de la crónica de las naciones? | «(VDI) EU CLXX». | [`05_biblioteca_externa`](05_biblioteca_externa/README.md) |
+| R45 | ¿De qué especies son el Clan Raíz Profunda y el Círculo de Driadea? | Clan Raíz Profunda = elfos (enemigo directo de El Imperio, sureste); Círculo de Driadea = faunos (mala relación con El Umbral). | [`02_facciones.md`](02_facciones.md) |
+| R46 | ¿Qué cuevas son las de Unkas? | Las de las montañas que hoy controlan los Ixthar; sus antiguos habitantes son los Exiliados, que hostigan a La Liga del Valor. | [`02_facciones.md`](02_facciones.md), [`01_personajes.md`](01_personajes.md) |
+| R47 | ¿Qué es «La grita» del arco 6? | La Grieta: la cicatriz que deja el colapso de La Aguja Solar entre temblores y humo negro (futuro, no ocurrido). | [`_futuro_wip/arco_5_y_la_grieta.md`](_futuro_wip/arco_5_y_la_grieta.md) |
