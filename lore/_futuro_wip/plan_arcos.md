@@ -13,6 +13,8 @@ estado_canon: PROPUESTA
 > **Modo `Canon-Only`: este archivo no cuenta.** Contiene información de autor (`META`) y hechos aún no ocurridos; solo se usa en `Interactive`. Nada de lo que hay aquí puede filtrarse a un texto in-world que el personaje no podría conocer.
 > Los enlaces a `planes_futuros.md` y a `zorro_visita-de-emisarios.md` funcionan cuando se fusione el PR #8, que crea esta carpeta.
 
+> **Nota:** una conversación de desarrollo posterior numera los arcos de otra forma (arco 3 = relaciones con el mundo, 4 = guerras Ixthar, 5 = la otra guerra) y describe el final del arco 5 con detalle: ver [`arco_5_y_la_grieta.md`](arco_5_y_la_grieta.md) y la duda 4 de `_preguntas_abiertas.md`. Este plan no se ha reordenado hasta que el jugador elija.
+
 ## Índice
 
 1. [Lo ya decidido](#1-lo-ya-decidido)
@@ -371,7 +373,7 @@ El jugador lo dejó como «ideas sueltas». Lo trato como banco de ideas.
 
 | Idea | Lectura tentativa | Duda |
 |---|---|---|
-| **La grita** | ¿Un lugar, un grito de guerra, un movimiento o una facción? | No lo sé. Necesito una frase. |
+| **La Grieta** | La cicatriz que deja el colapso de La Aguja Solar, con temblores y humo negro, al final del arco 5 (ver [`arco_5_y_la_grieta.md`](arco_5_y_la_grieta.md)). | Qué la desata (ver `_preguntas_abiertas.md`, 7). |
 | **El gremio de aventureros** | Un gremio nuevo (¿de La Liga? ¿independiente?) que surge tras la guerra. | ¿Es facción nueva o parte de La Liga? |
 | **El Imperio** | Tras la guerra, el Imperio gobierna de hecho y Gapaopolis es territorio de un Terrateniente. | ¿Qué le debe Gapaopolis? |
 | **Monarquía** | Puede referirse al Imperio (base monárquica) o a lo que Kliff acabe siendo. | ¿Qué reino se funda y quién reina? |
@@ -455,4 +457,4 @@ Solo queda lo que sigue abierto tras las respuestas del jugador. Cada una lleva 
 | **Q10** | ¿Quién escribe la bitácora anual de 5502? | Unkas (secretaria natural y la que más tiene que callar); si no, Zorro, que acaba de dirigir. |
 | **Q11** | ¿Qué título eliges para los arcos 4, 5 y 6? | Las de la columna A de 5.4, o mezcla. |
 
-**Para más adelante:** «La grita» (qué es) · ¿el gremio de aventureros es parte de La Liga? · ¿qué es «Monarquía» y quién reina? · ¿las «nuevas casas» del arco 6 son linajes? · ¿cómo se conecta la inmortalidad de Kliff con el rescate imperial? · el panteón del que forma parte GAPA (6.10).
+**Para más adelante:** ¿el gremio de aventureros es parte de La Liga? · ¿qué es «Monarquía» y quién reina? · ¿las «nuevas casas» del arco 6 son linajes? · ¿cómo se conecta la inmortalidad de Kliff con el rescate imperial? · el panteón del que forma parte GAPA (6.10).
